@@ -57,12 +57,17 @@ Incidentally, these are among the main reasons video games are so much more popu
 
 So, due to dramatically expanded functionality, smart board games have at least the potential to be awesome. But how could you actually make one? I know of 5 published board games with significant digital integrations. Here they are:
 
-Sifteo
-Golem Arcana
-XCOM: The Board Game
-Alchemists
-World of Yo-Ho
-Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo outright failed, and World of Yo-Ho launched this year with a weak $50k Kickstarter campaign. (Caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
+* [Sifteo](https://www.amazon.com/Sifteo-Cubes-Intelligent-System-Newest/dp/B008X0ACP2)
+
+* [Golem Arcana](http://golemarcana.com/)
+
+* [XCOM: The Board Game](https://boardgamegeek.com/boardgame/163602/xcom-board-game)
+
+* [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
+
+* [World of Yo-Ho](http://yoho.io/english/index.html)
+
+Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo outright failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description). (Caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
 
 Given the profound potential advantages of digital integration, I would have expected better performance from this group.
 
@@ -70,6 +75,6 @@ I wonder if their reliance on screens have hindered these games. I don't have ha
 
 A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens, with their emotional baggage in tow.
 
-To put rubber to road, Jonathan Bobrow, a brilliant designer who recently graduated from the MIT Media Lab, and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
+To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a brilliant designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
 
 That's a subject for another day. We're going to post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), sign up here.
