@@ -4,10 +4,10 @@ date: 2016-08-15 00:00:00 -04:00
 tags:
 - test
 - style
-layout: post
 description: Test post for style
 comments: true
 share: true
+layout: post
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
