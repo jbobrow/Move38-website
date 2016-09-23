@@ -1,6 +1,7 @@
 ---
 title: A Full and Comprehensive Style Test
 date: 2016-08-15 00:00:00 -04:00
+published: false
 tags:
 - test
 - style
