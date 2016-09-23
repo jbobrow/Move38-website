@@ -4,7 +4,9 @@ title: An unappreciated reason for the board game renaissance (with implications
 date: 2016-09-23 09:49:00 -04:00
 ---
 
-In recent years, the board game market has been roaring. In 2015 alone, the hobby games market grew 30%.
+!\[Large example image\](/uploads/board-game-renaissance.jpg "Large example image")
+
+In recent years, the board game market has been roaring. In 2015 alone, [the hobby games market grew 30%.](http://icv2.com/articles/news/view/35150/hobby-games-market-nearly-1-2-billion)
 
 Why? Board games are growing faster than the games market generally, so it's not a rising-tide-lifts-all-boats thing (video games are growing at 5% annually). Why are board games growing faster than other games?
 
