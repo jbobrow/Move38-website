@@ -53,3 +53,4 @@ gems:
 exclude:
 - vendor
 header-image: "/uploads/move38_logo_splash.png"
+small-header-image: "/uploads/move38_logo_small.png"
