@@ -31,7 +31,7 @@ And as screens have become dominant, our relationships with them have grown unea
 
 ![Large example image](https://siteleaf-img.global.ssl.fastly.net/dQiLtpDtk-tY8aT6hUf1_roL95U=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5390051359652e82f6624.jpg)
 
-Increasingly, many of us want to escape. We've come to associate screens with drudgery, mindlessness, and interruption. I spend my workday staring at a screen, looking away only when distracted by a ping from another screen. The last thing I want to do after work is stare at still another screen and keep feeling those associations. If you're a parent, you likely spend significant time worrying about, and regulating, screen time for your kids.
+Increasingly, many of us want to escape. We've come to associate screens with drudgery, mindlessness, and interruption. I spend my workday staring at a screen, looking away only when distracted by a ping from another screen. The last thing I want to do after work is stare at still another screen and keep feeling those associations. And if you're a parent, you likely spend significant time worrying about, and regulating, screen time for your kids.
 
 Board games are an escape. They're among the last screenless domestic entertainments, so we're turning to them for reprieve.
 
