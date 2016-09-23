@@ -89,13 +89,11 @@ That's a subject for another day. We'll post regularly in this space about the s
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; border:1px solid #ccc;clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fff; padding-left:0px; margin-left:0px; clear:left;}
 </style>
 <div id="mc_embed_signup">
 <form action="//automatiles.us14.list-manage.com/subscribe/post?u=7857fa104de3ffc5bbe78d94c&amp;id=c82a234f7c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Follow our work</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
