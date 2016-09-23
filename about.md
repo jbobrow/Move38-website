@@ -6,7 +6,7 @@ layout: page
 
 ![move38_logo_splash.png](/uploads/move38_logo_splash.png)
 
-# **Carefully crafted, self-aware tabletop games**
+## **Carefully crafted, self-aware tabletop games**
 
 Move38 seeks to delight hands, challenge minds, and inspire curiosity. We believe we learn best when at play, and that our play shapes who we are. 
 
