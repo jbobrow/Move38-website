@@ -1,6 +1,6 @@
 ---
 title: An unappreciated reason for the board game renaissance (with implications for
-  the future)
+  their future)
 date: 2016-09-23 09:49:00 -04:00
 tags:
 - smart games
