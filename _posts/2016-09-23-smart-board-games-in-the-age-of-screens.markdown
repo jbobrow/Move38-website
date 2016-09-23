@@ -25,11 +25,11 @@ Thanks to smart phones, screens have become pervasive. [The average American che
 
 And as screens have become dominant, our relationships with them have grown uneasy. This new feeling is reflected, for example, in [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror_(TV_series)), a popular TV show all about this uneasiness and whose title is a direct reference to modern screens:
 
-![Large example image](https://siteleaf-img.global.ssl.fastly.net/LYxw5Vqbt7XiO_h98m_eyvF_7EY=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5389551359653005fee90.jpg)
+![Black Mirror](https://siteleaf-img.global.ssl.fastly.net/LYxw5Vqbt7XiO_h98m_eyvF_7EY=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5389551359653005fee90.jpg)
 
 ...or the 'phone zombies' images now peppering the web:
 
-![Large example image](https://siteleaf-img.global.ssl.fastly.net/dQiLtpDtk-tY8aT6hUf1_roL95U=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5390051359652e82f6624.jpg)
+![Phone Zombies](https://siteleaf-img.global.ssl.fastly.net/dQiLtpDtk-tY8aT6hUf1_roL95U=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5390051359652e82f6624.jpg)
 
 Increasingly, many of us want to escape. We've come to associate screens with drudgery, mindlessness, and interruption. I spend my workday staring at a screen, looking away only when distracted by a ping from another screen. The last thing I want to do after work is stare at still another screen and keep feeling those associations. And if you're a parent, you likely spend significant time worrying about, and regulating, your kids' screen time.
 
@@ -81,7 +81,7 @@ A key challenge in creating smart board games, then, may be to ensure they retai
 
 To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles:
 
-!\[Large example image\](http://move38.com/attic/gifs/rainbow_01.gif)
+![Rainbow](http://move38.com/attic/gifs/rainbow_01.gif)
 
 That's a subject for another day. We'll post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), [sign up here](http://automatiles.us14.list-manage.com/subscribe?u=7857fa104de3ffc5bbe78d94c&id=c82a234f7c).
 
