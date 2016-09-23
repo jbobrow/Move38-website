@@ -28,7 +28,7 @@ And as screens have become dominant, our relationships with them have grown unea
 
 ![Black Mirror](https://siteleaf-img.global.ssl.fastly.net/LYxw5Vqbt7XiO_h98m_eyvF_7EY=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5389551359653005fee90.jpg)
 
-...or the 'phone zombies' images now peppering the web:
+See too the 'phone zombies' images now peppering the web:
 
 ![Phone Zombies](https://siteleaf-img.global.ssl.fastly.net/dQiLtpDtk-tY8aT6hUf1_roL95U=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5390051359652e82f6624.jpg)
 
