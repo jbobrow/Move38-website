@@ -112,4 +112,4 @@ That's a subject for another day. We'll post regularly in this space about the s
 
   -[Nick Bentley](https://nickbentleygames.wordpress.com/)
 
-![Nick Bentley's BGG Avatar](https://cf.geekdo-static.com/avatars/avatar_id90334.gif)
+![Nick Bentley BGG Avatar](https://cf.geekdo-static.com/avatars/avatar_id90334.gif)
