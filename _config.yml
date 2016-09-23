@@ -42,7 +42,7 @@ markdown: kramdown
 kramdown:
   imput: GFM
 nav:
-- name: Blog
+- name: Archive
   url: "/archive"
 - name: About
   url: "/about"
