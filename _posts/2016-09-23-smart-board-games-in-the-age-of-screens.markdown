@@ -84,6 +84,6 @@ To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a de
 
 ![Rainbow](http://move38.com/attic/gifs/rainbow_01.gif)
 
-That's a subject for another day. We'll post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), [sign up here](http://automatiles.us14.list-manage.com/subscribe?u=7857fa104de3ffc5bbe78d94c&id=c82a234f7c).
+That's a subject for another day. We'll post regularly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), [sign up here](http://automatiles.us14.list-manage.com/subscribe?u=7857fa104de3ffc5bbe78d94c&id=c82a234f7c).
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
