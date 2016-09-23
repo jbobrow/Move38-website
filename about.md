@@ -6,6 +6,12 @@ layout: page
 
 ![move38_logo_splash.png](/uploads/move38_logo_splash.png)
 
-# **Carefully crafted, self-aware, tabletop games.**
+# **Carefully crafted, self-aware tabletop games**
 
-Move38 seeks to delight hands, challenge minds, and inspire curiosity. Co-Founded by Jonathan Bobrow, MIT Media Lab alum and Nick Bentley, PhD in Neurobiology, this is not your average game company. We believe the tools and toys we grow up with define the spaces in which we think. Bringing elegant and tactile devices for play with dynamic systems to the masses will provide intuition for the second and third order effects that continue to plague society today.
+Move38 seeks to delight hands, challenge minds, and inspire curiosity. We believe we learn best when at play, and that our play shapes who we are. 
+
+We're creating a new kind of tabletop game, with components that think for themselves, talk to each other, and come alive under your fingertips. 
+
+Also, we were founded by these two yokels:
+
+![14364767_10157350899620123_1885569746873733439_n.jpg](/uploads/14364767_10157350899620123_1885569746873733439_n.jpg)
