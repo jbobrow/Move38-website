@@ -33,7 +33,7 @@ google-analytics:
   id: UA-84685529-1
 disqus:
   id: move38
-url: www.move38.com
+url: http://www.move38.com
 baseurl: 
 permalink: "/:title/"
 paginate: 5
