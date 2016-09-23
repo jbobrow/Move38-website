@@ -2,6 +2,9 @@
 title: An unappreciated reason for the board game renaissance (with implications for
   the future)
 date: 2016-09-23 09:49:00 -04:00
+tags:
+- smart games
+- board game industry
 ---
 
 ![Large example image](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
@@ -75,6 +78,8 @@ I wonder if their reliance on screens have hindered these games. I don't have ha
 
 A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens, with their emotional baggage in tow.
 
-To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a brilliant designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
+To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
 
-That's a subject for another day. We're going to post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), sign up here.
+That's a subject for another day. We'll post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), [sign up here](http://automatiles.us14.list-manage.com/subscribe?u=7857fa104de3ffc5bbe78d94c&id=c82a234f7c).
+
+-[Nick Bentley](https://nickbentleygames.wordpress.com/)
