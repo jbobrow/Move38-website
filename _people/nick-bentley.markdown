@@ -5,5 +5,6 @@ firstname: Nick
 lastname: Bentley
 position: Co-Founder
 headshot-image: 
+email: nick@move38.com
 ---
 
