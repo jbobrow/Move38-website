@@ -52,3 +52,4 @@ gems:
 - jekyll-paginate
 exclude:
 - vendor
+header-image: "/uploads/move38_logo_splash.png"
