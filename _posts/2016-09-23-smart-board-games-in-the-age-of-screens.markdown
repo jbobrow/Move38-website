@@ -7,6 +7,7 @@ tags:
 - board game industry
 - screens
 - digital integration
+Field name: 
 ---
 
 ![Board game renaissance](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
