@@ -22,12 +22,12 @@ defaults:
 name: Move38
 author:
   name: Move38
-  facebook: your-id
-  twitter: your-id
-  github: your-id
-  linkedin: your-id
-  medium: your-id
-  tumblr: your-id
+  facebook: 
+  twitter: 
+  github: 
+  linkedin: 
+  medium: 
+  tumblr: 
   email: info@move38.com
 google-analytics:
   id: UA-84685529-1
