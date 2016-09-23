@@ -4,7 +4,7 @@ title: An unappreciated reason for the board game renaissance (with implications
 date: 2016-09-23 09:49:00 -04:00
 ---
 
-!\[Large example image\](/uploads/board-game-renaissance.jpg "Large example image")
+!\[Large example image\](http://www.chessgraphics.net/jpg/cat15.jpg)
 
 In recent years, the board game market has been roaring. In 2015 alone, [the hobby games market grew 30%.](http://icv2.com/articles/news/view/35150/hobby-games-market-nearly-1-2-billion)
 
