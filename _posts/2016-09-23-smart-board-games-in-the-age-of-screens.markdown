@@ -89,7 +89,7 @@ That's a subject for another day. We'll post regularly in this space about the s
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; padding:0 10px 0 0px; margin:0 0 10px 0; max-width:300px; clear:left;}
+	#mc_embed_signup{background:#fff; padding:0 10px 0 0px; margin:0 0 20px 0; max-width:300px; clear:left;}
 </style>
 <div id="mc_embed_signup">
 <form action="//automatiles.us14.list-manage.com/subscribe/post?u=7857fa104de3ffc5bbe78d94c&amp;id=c82a234f7c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
