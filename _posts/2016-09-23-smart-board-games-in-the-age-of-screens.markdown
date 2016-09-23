@@ -6,6 +6,7 @@ tags:
 - smart games
 - board game industry
 - screens
+- digital integration
 ---
 
 ![Large example image](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
@@ -76,7 +77,7 @@ Given the profound potential advantages of digital integration, I would have exp
 
 I wonder if their reliance on screens have hindered these games. I don't have hard evidence, but I know I'm personally turned off by their screens, and I've spoken with many who express similar fondness for the "feel" of traditional games. If people like me are a big chunk of the market, it could be an issue.
 
-A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens, with their emotional baggage in tow.
+A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens.
 
 To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
 
