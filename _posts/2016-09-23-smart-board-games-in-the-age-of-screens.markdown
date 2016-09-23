@@ -55,7 +55,6 @@ Incidentally, these are among the main reasons video games are so much more popu
 * board games are more social, and relatedly:
 
 * board games don't have screens
-  
 
 ## Screens might be an impediment to smart board games
 
@@ -75,7 +74,7 @@ Each is social in the way board games should be (you sit around a table, playing
 
 Given the profound potential advantages of digital integration, I would have expected better performance from this group.
 
-I wonder if their reliance on screens have hindered these games. I don't have hard evidence, but I know I'm personally turned off by their screens, and I've spoken with many who express similar fondness for the "feel" of traditional games. If people like me are a significant chunk of the board game market, it could be an issue.
+I wonder if their reliance on screens have hindered these games. I don't have hard evidence, but I know I'm personally turned off by their screens, and I've spoken with many who express similar fondness for the "feel" of traditional games. If people like me are a big chunk of the market, it could be an issue.
 
 A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens, with their emotional baggage in tow.
 
