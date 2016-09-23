@@ -1,82 +1,58 @@
-# # # # # # # # # # # # # # # # # # # # # # 
-#   K i k o - p l u s   for  M O V E 3 8  #
-# # # # # # # # # # # # # # # # # # # # # #
-
-# Basic
-name:               "Move38"
-
-
-
-author:
-  name:             Move38
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            info@move38.com
-
-# Google-analytics
-google-analytics:
-  id:               "UA-84685529-1"
-
-# Disqus
-disqus:
-  id:               "move38"
-
-# URL
-# url:                "https://move38.com"
-url:               "localhost:4000"
-baseurl:            ""
-
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           America/New_York
-permalink:          /:title/
-
-# Pagination
-paginate:           5
-paginate_path:      /page:num/
-
-# Markdown
-markdown:           kramdown
-kramdown:
-  imput:            GFM
-
-# Navigation
-nav:
-  - name:           "Blog"
-    url:            "/archive"
-  - name:           "About"
-    url:            "/about"
-  - name:           "Tags"
-    url:            "/tags"
-
-
-# Sass
-sass:
-  sass_dir:         _sass
-  style:            :compressed
-
-# Scopes
+---
+title: Move38
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+name: Move38
+author:
+  name: Move38
+  facebook: your-id
+  twitter: your-id
+  github: your-id
+  linkedin: your-id
+  medium: your-id
+  tumblr: your-id
+  email: info@move38.com
+google-analytics:
+  id: UA-84685529-1
+disqus:
+  id: move38
+url: localhost:4000
+baseurl: ''
+permalink: "/:title/"
+paginate: 5
+paginate_path: "/page:num/"
+markdown: kramdown
+kramdown:
+  imput: GFM
+nav:
+- name: Blog
+  url: "/archive"
+- name: About
+  url: "/about"
+- name: Tags
+  url: "/tags"
+sass:
+  sass_dir: _sass
+  style: :compressed
 gems:
-  - jekyll-seo-tag
-  - jekyll-paginate
-
-exclude:            [vendor]
+- jekyll-seo-tag
+- jekyll-paginate
+exclude:
+- vendor
