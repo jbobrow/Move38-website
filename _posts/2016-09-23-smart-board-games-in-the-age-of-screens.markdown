@@ -79,7 +79,9 @@ I wonder if their reliance on screens have hindered these games. I don't have ha
 
 A key challenge in creating smart board games, then, may be to ensure they retain the feel of a traditional games, and that will be harder to do that if they utilize screens.
 
-To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles.
+To put rubber to road, [Jonathan Bobrow](http://cargo.jonathanbobrow.com/), a designer who recently graduated from the [MIT Media Lab](https://www.media.mit.edu/), and I are exploring this hypothesis, designing screenless (or sometimes just less screeny) smart games and puzzles:
+
+!\[Large example image\](http://move38.com/attic/gifs/rainbow_01.gif)
 
 That's a subject for another day. We'll post weekly in this space about the stuff we're making, the theory behind it, and our effort to make a business of it. If you'd like to follow our work (and be alerted when our games launch), [sign up here](http://automatiles.us14.list-manage.com/subscribe?u=7857fa104de3ffc5bbe78d94c&id=c82a234f7c).
 
