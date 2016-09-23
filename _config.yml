@@ -42,12 +42,10 @@ markdown: kramdown
 kramdown:
   imput: GFM
 nav:
-- name: Archive
-  url: "/archive"
 - name: About
   url: "/about"
-- name: Tags
-  url: "/tags"
+- name: Posts
+  url: "/archive"
 sass:
   sass_dir: _sass
   style: compressed
