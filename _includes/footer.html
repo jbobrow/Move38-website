@@ -1,38 +1,35 @@
-<footer class="site-footer">
+<!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+	<hr />
+	<div class="footer-link">
+		{% if site.author.facebook %}
+		<a href="https://www.facebook.com/{{ site.author.facebook }}"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+		{% endif %}
 
-  <div class="wrapper">
+		{% if site.author.twitter %}
+		<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		{% endif %}
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+		{% if site.author.github %}
+		<a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+		{% endif %}
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+		{% if site.author.linkedin %}
+		<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+		{% endif %}
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+		{% if site.author.medium %}
+		<a href="https://medium.com/@{{ site.author.medium }}"><i class="fa fa-medium" aria-hidden="true"></i></a>
+		{% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
+		{% if site.author.tumblr %}
+		<a href="https://{{ site.author.tumblr }}.tumblr.com"><i class="fa fa-tumblr" aria-hidden="true"></i></a>
+		{% endif %}
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
+		{% if site.author.email %}
+		<a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+		{% endif %}
 
-  </div>
-
-</footer>
+	</div>
+	© 2016 {{ site.author.name }}. All rights reserved.
+</div>
