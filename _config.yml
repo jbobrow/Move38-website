@@ -44,8 +44,6 @@ kramdown:
 nav:
 - name: About
   url: "/about"
-- name: Posts
-  url: "/archive"
 sass:
   sass_dir: _sass
   style: compressed
