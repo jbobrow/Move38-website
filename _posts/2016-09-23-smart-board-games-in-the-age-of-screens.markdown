@@ -43,19 +43,14 @@ That's my theory. If true, it has implications for the future of board games.
 [The industry is talking a lot about smart games and toys](https://www.theguardian.com/technology/2016/sep/22/digital-children-smart-toys-technology), fast-growing product-categories which many see as THE industry's future. What if board games had components that could think and communicate? Theoretically, a smart board game could to a lot of stuff:
 
 * feel reactive and alive, with pieces responding to players and to each other, and behaving like living things
-
 * play against you
-
 * teach you its rules
-
 * do the book keeping for you
-
 * evolve in ways traditional board games can't
 
 Incidentally, these are among the main reasons video games are so much more popular than board games. Video games have it over on board games in pretty much every way except:
 
 * board games are more social, and relatedly:
-
 * board games don't have screens
 
 ## Screens might be an impediment to smart board games
@@ -63,13 +58,9 @@ Incidentally, these are among the main reasons video games are so much more popu
 So, due to dramatically expanded functionality, smart board games have at least the potential to be awesome. But how could you actually make one? I know of 5 published board games with significant digital integrations. Here they are:
 
 * [Sifteo](https://www.amazon.com/Sifteo-Cubes-Intelligent-System-Newest/dp/B008X0ACP2)
-
 * [Golem Arcana](http://golemarcana.com/)
-
 * [XCOM: The Board Game](https://boardgamegeek.com/boardgame/163602/xcom-board-game)
-
 * [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
-
 * [World of Yo-Ho](http://yoho.io/english/index.html)
 
 Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description) (caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
