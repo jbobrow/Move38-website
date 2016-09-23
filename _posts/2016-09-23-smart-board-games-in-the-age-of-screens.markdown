@@ -23,7 +23,7 @@ That's part of the explanation, but I don't think the only part. Maybe not even 
 
 Thanks to smart phones, screens have become pervasive. [The average American checks her phone 150 times a day](https://www.textrequest.com/blog/americans-check-their-cell-phones-150-times-a-day/), a major shift in the way we live.
 
-And as screens have become dominant, our relationships with them have grown uneasy. This new feeling is reflected, for example, in [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror_(TV_series)), a popular TV show all about this uneasiness and whose title is a direct reference to it:
+And as screens have become dominant, our relationships with them have grown uneasy. This new feeling is reflected, for example, in [Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror_(TV_series)), a popular TV show all about this uneasiness and whose title is a direct reference to modern screens:
 
 ![Large example image](https://siteleaf-img.global.ssl.fastly.net/LYxw5Vqbt7XiO_h98m_eyvF_7EY=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5389551359653005fee90.jpg)
 
