@@ -5,6 +5,7 @@ date: 2016-09-23 09:49:00 -04:00
 tags:
 - smart games
 - board game industry
+- screens
 ---
 
 ![Large example image](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
@@ -13,9 +14,9 @@ In recent years, the board game market has been roaring. In 2015 alone, [the hob
 
 Why? Board games are growing faster than the games market generally, so it's not a rising-tide-lifts-all-boats thing ([video games are growing at 5%](https://newzoo.com/insights/articles/global-games-market-reaches-99-6-billion-2016-mobile-generating-37/)). Why are board games growing faster than other games?
 
-The most explanation I hear most is that the internet, and [BoardGameGeek](https://www.boardgamegeek.com/) especially, has created a new community of like-minded game lovers, which has sucked a great many people into its growing vortex.
+The explanation I hear most is that the internet, [BoardGameGeek](https://www.boardgamegeek.com/) especially, has created a new community of like-minded game lovers, which has sucked a great many people into its growing vortex.
 
-That's a part of the explanation, but I don't think it's the only part. Maybe not even the main part. Online communities for video games have also exploded, but that hasn't driven video game growth in the same way. More important:
+That's part of the explanation, but I don't think the only part. Maybe not even the main part. Online communities for video games have also exploded, but that hasn't driven video game growth in the same way. More important:
 
 ## Screens are everywhere
 
