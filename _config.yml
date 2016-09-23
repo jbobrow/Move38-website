@@ -34,7 +34,7 @@ google-analytics:
 disqus:
   id: move38
 url: localhost:4000
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 paginate: 5
 paginate_path: "/page:num/"
@@ -50,7 +50,7 @@ nav:
   url: "/tags"
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 gems:
 - jekyll-seo-tag
 - jekyll-paginate
