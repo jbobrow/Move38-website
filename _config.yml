@@ -35,7 +35,7 @@ disqus:
   id: move38
 url: http://www.move38.com
 baseurl: 
-permalink: "/:title/"
+permalink: "/blog/:title/"
 paginate: 5
 paginate_path: "/page:num/"
 markdown: kramdown
