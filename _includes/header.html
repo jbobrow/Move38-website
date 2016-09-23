@@ -1,7 +1,10 @@
 <header class="header">
+  <a href="{{ site.baseurl }}"><img class="header-img" src="{{ site.header-image }}" width="720px"/></a>
+<!--
   <h1 class="header-title">
-    <a href="{{ site.baseurl }}">{{ site.name }}<span>&#39;s blog</span></a>
-  </h1>
+    <a href="{{ site.baseurl }}">{{ site.name }}</a>
+  </h1> 
+-->
   <nav class="header-nav">
     {% for nav in site.nav %}
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
