@@ -73,7 +73,7 @@ So, due to dramatically expanded functionality, smart board games have at least 
 
 Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description) (caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
 
-Given the profound potential advantages of digital integration, I would have expected better performance from this group.
+Given the profound potential advantages of digital integration, I'd have expected better performance from this group.
 
 I wonder if their reliance on screens have hindered these games. I don't have hard evidence, but I know I'm personally turned off by their screens, and I've spoken with many who express similar fondness for the "feel" of traditional games. If people like me are a big chunk of the market, it could be an issue.
 
