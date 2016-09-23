@@ -9,7 +9,7 @@ tags:
 - digital integration
 ---
 
-![Large example image](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
+![Board game renaissance](https://siteleaf-img.global.ssl.fastly.net/U7P34qsY3vyo1I0QCizdffKjKCk=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5364f51359653028d3f47.jpg)
 
 In recent years, the board game market has been roaring. In 2015 alone, [the hobby games market grew 30%.](http://icv2.com/articles/news/view/35150/hobby-games-market-nearly-1-2-billion)
 
