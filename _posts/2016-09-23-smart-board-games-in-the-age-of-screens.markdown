@@ -71,7 +71,7 @@ So, due to dramatically expanded functionality, smart board games have at least 
 
 * [World of Yo-Ho](http://yoho.io/english/index.html)
 
-Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo outright failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description). (Caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
+Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo outright failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description) (caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
 
 Given the profound potential advantages of digital integration, I would have expected better performance from this group.
 
