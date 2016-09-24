@@ -53,10 +53,10 @@ I discovered something delightful and I pursued it without fear. I made my decis
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to operating with only a modicum of fear and a bedrock belief I'll land on my feet.
 
-So. Exploratory play is yet another dimension of the social capital that keeps people like me hitting jackpots in life's slot machine.
+So. Exploratory play is yet another dimension of the social capital that keeps people like me hitting jackpots in life's slot machines.
 
 But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. 
 
-I don't know how it'll become so or how we can contribute to it. Our company's first product won't address fear. I wouldn't even know where to start.
+I don't know how it'll become so or how we can contribute to it. Our first product won't address fear. I don't even know where to start.
 
-For now it's a dream, but one we won't forget.
+So for now it's a dream, but we won't forget it, and we'll find a way to start. 
