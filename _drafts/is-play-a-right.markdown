@@ -59,4 +59,4 @@ But it shouldn't be that way. It shouldn't be a privilege. It should be a right.
 
 I don't know how it'll become so or how we can contribute to it. Our first product won't address fear. I don't even know where to start.
 
-So for now it's a dream, but we won't forget it, and start we will. 
+So for now it's a dream, but we won't forget it, and we'll look for ways to start. 
