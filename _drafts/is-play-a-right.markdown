@@ -15,7 +15,7 @@ Here's the difference:
 
 * competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement beyond what's possible in day-to-day life.
 
-* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination. That's hard to do when you're fearful. 
+* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination. 
 
 Competitive play is available to most of us, exploratory play less so. The reason is fear.
 
