@@ -31,7 +31,7 @@ Frivolous because for swaths of humanity, fear is a necessity, and exploratory p
 
 As a white man (whenever I see these two words together I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm one of those people. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
 
-I've noticed spaces in which adults gather to cultivate exploratory play tend to be very white. For example:
+I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
 
 * improv clubs - I did improv for three years, and oh my god was it white.
 
@@ -39,11 +39,11 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of opportunity for exploratory play could be yet another means through which privilege breeds privilege. I, white guy, can explore my interests more freely, more passionately, than someone more encumbered by fear, and that leads me to opportunities out of others' reach.
+But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be yet another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely, more passionately, than someone more encumbered by fear, leading to opportunities out of others' reach.
 
 A close-at-hand example: my participation in this business, Move38, the business whose site you're reading right now.
 
-I was traveling for work in Boston, staying at the house of a friend who was teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
+I was traveling for work in Boston, staying at the house of a friend teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
 
 So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was moved by both.
 
@@ -53,9 +53,9 @@ I discovered something delightful and I pursued it without fear. I made my decis
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to operating with only a modicum of fear and a bedrock belief I'll land on my feet.
 
-So. Exploratory play is yet another dimension of the social capital that keeps white guys like me hitting jackpots in life's slot machine.
+So. Exploratory play is yet another dimension of the social capital that keeps people like me hitting jackpots in life's slot machine.
 
-But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. It's too valuable to be anything but. 
+But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. 
 
 I don't know how it'll become so or how we can contribute to it. Our company's first product won't address fear. I wouldn't even know where to start.
 
