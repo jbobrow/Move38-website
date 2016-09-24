@@ -5,33 +5,33 @@ date: 2016-09-24 11:22:00 -04:00
 
 Since we're starting a company with play as a central value, I've been thinking about it. What is it, and do we have a right to it?
 
-Let's start with what it means to play. I don't have one single definition. Instead I propose there are two kinds of play: 
+Let's start with what it means to play. I don't have one single definition. Instead I propose there are two kinds of play:
 
 * competitive play: what you do when you're trying to win a game
 
-* exploratory play: what you do with your action figures on a rainy Sunday when you're 12. 
+* exploratory play: what you do with your action figures on a rainy Sunday when you're 12.
 
 Here's the difference:
 
-* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement beyond what's possible in day-to-day life. 
+* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement beyond what's possible in day-to-day life.
 
-* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination. 
+* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination. That's hard to do when you're fearful. 
 
-Competitive play is available to most of us, exploratory play less so. The reason is fear. 
+Competitive play is available to most of us, exploratory play less so. The reason is fear.
 
-Everyone fears, but some more than others. The young tend to fear less than the old, the rich less than the poor, and in the US where I live, whites less than non-whites. 
+Everyone fears, but some more than others. The young tend to fear less than the old, the rich less than the poor, and in the US where I live, whites less than non-whites.
 
-Consequently (or so it seems to me), it's easier for some of us to engage in exploratory play than others. 
+Consequently (or so it seems to me), it's easier for some of us to engage in exploratory play than others.
 
-Fear also what makes exploratory play seem alternately precious and frivolous.
+Fear is also what makes exploratory play seem alternately precious and frivolous.
 
 Precious because fear, in degrees minor and profound, is ubiquitous, and exploratory play accordingly rare no matter who you are.
 
-Frivolous because for swaths of humanity, fear of one kind or another is a necessity, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have somehow escaped the need for constant watchfulness.
+Frivolous because for swaths of humanity, fear is a necessity, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
 
 As a white man (whenever I see these two words together I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm one of those people. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
 
-I've noticed many spaces in which adults gather to cultivate exploratory play are unbelievably white. For example:
+I've noticed spaces in which adults gather to cultivate exploratory play tend to be very white. For example:
 
 * improv clubs - I did improv for three years, and oh my god was it white.
 
@@ -39,24 +39,24 @@ I've noticed many spaces in which adults gather to cultivate exploratory play ar
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of opportunity for exploratory play could be yet another means through which privilege breeds privilege. I, white guy, can explore my interests more freely, more passionately, than someone more encumbered by fear, and that leads me to opportunities out of reach for others. 
+But. If it's true, as I believe, that we learn best at play, it means inequality of opportunity for exploratory play could be yet another means through which privilege breeds privilege. I, white guy, can explore my interests more freely, more passionately, than someone more encumbered by fear, and that leads me to opportunities out of reach for others.
 
 A close-at-hand example: my participation in this business, Move38, the business whose site you're reading right now.
 
-I was traveling for work in Boston, staying at the house of a friend who was teaching at MIT (this story originates in a traditional kind of privilege - I'm friends with people who have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet. 
+I was traveling for work in Boston, staying at the house of a friend who was teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
 
-So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was blown away by both. 
+So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was delighted by both.
 
 Here's where the privilege of play comes in: then and there, without any consideration, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
 
-I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course, there was some apprehension later on, once I actually gave my 30 days notice, because I'm human and fear is a condition of life, even for the lucky. 
+I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course, there was apprehension later, once I actually gave my 30 days notice, because I'm human and fear is a condition of life, even for the lucky.
 
-But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to operating with only a modicum of fear, and I have a bedrock belief I'll land on my feet. 
+But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to operating with only a modicum of fear, and a bedrock belief I'll land on my feet.
 
-i.e. exploratory play is yet another dimension of the social capital that keeps white guys like me hitting jackpots in life's slot machine.  
+So. Exploratory play is yet another dimension of the social capital that keeps white guys like me hitting jackpots in life's slot machine.
 
-But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. 
+But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one.
 
-I don't know how it'll become so or how we can contribute to it. Our company's first product won't address the underlying fear that thwarts play. I wouldn't even know where to start. 
+I don't know how it'll become so or how we can contribute to it. Our company's first product won't address the underlying fear that thwarts exploratory play. I wouldn't even know where to start.
 
-For now it's a dream, but one we won't forget.  
+For now it's a dream, but one we won't forget.
