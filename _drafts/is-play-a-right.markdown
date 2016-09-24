@@ -55,8 +55,8 @@ But it wasn't enough to keep me from making the playful choice. Here I am. I can
 
 So. Exploratory play is yet another dimension of the social capital that keeps white guys like me hitting jackpots in life's slot machine.
 
-But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one.
+But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. It's too valuable to be anything but. 
 
-I don't know how it'll become so or how we can contribute to it. Our company's first product won't address the underlying fear that thwarts exploratory play. I wouldn't even know where to start.
+I don't know how it'll become so or how we can contribute to it. Our company's first product won't address fear. I wouldn't even know where to start.
 
 For now it's a dream, but one we won't forget.
