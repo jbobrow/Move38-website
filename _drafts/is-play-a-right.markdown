@@ -19,7 +19,7 @@ Here's the difference:
 
 Competitive play is available to most of us, exploratory play less so. The reason is fear.
 
-Everyone fears, but some more than others. The young tend to fear less than the old, the rich less than the poor, and in the US where I live, whites less than non-whites.
+Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, and in the US where I live, whites less than non-whites.
 
 Consequently (or so it seems to me), it's easier for some of us to engage in exploratory play than others.
 
