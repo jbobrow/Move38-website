@@ -41,7 +41,7 @@ My theory is that the more fear you've lived with, the harder or more frivolous 
 
 But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be yet another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely, more passionately, than someone more encumbered by fear, leading to opportunities out of others' reach.
 
-A close-at-hand example: my participation in this business, Move38, the business whose site you're reading right now.
+A close-at-hand example: my participation in this business, Move38, the business whose site you're now reading.
 
 I was traveling for work in Boston, staying at the house of a friend teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
 
