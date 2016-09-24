@@ -19,15 +19,15 @@ Here's the difference:
 
 Competitive play is available to most of us, exploratory play less so. The reason is fear.
 
-Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, and in the US where I live, whites less than non-whites.
+Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc.
 
-Consequently (or so it seems to me), it's easier for some of us to engage in exploratory play than others.
+Consequently, it's easier for some of us to engage in exploratory play than others.
 
 Fear is also what makes exploratory play seem alternately precious and frivolous.
 
-Precious because fear, in degrees minor and profound, is ubiquitous, and exploratory play accordingly rare no matter who you are.
+Precious because fear, in degrees minor and profound, is ubiquitous, so exploratory play is rare no matter who you are.
 
-Frivolous because for swaths of humanity, fear is a necessity, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
+Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
 
 As a white man (whenever I see these two words together I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm one of those people. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
 
