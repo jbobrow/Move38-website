@@ -45,9 +45,9 @@ A close-at-hand example: my participation in this business, Move38, the business
 
 I was traveling for work in Boston, staying at the house of a friend who was teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
 
-So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was delighted by both.
+So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was moved by both.
 
-Here's where the privilege of play comes in: then and there, without any consideration, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
+Here's where the privilege of play comes in: then and there, without consideration, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
 
 I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course, there was apprehension later, once I actually gave my 30 days notice, because I'm human and fear is a condition of life, even for the lucky.
 
