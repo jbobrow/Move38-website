@@ -1,5 +1,5 @@
 ---
-title: Do we have the right to play?
+title: Do we have a right to play?
 date: 2016-09-24 11:22:00 -04:00
 ---
 
