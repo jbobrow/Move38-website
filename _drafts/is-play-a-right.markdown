@@ -5,7 +5,11 @@ date: 2016-09-24 11:22:00 -04:00
 
 Since we're starting a company with play as a central value, I've been thinking about it. What is it, and do we have a right to it?
 
-Let's start with what it means to play. The most succinct definition I can conjure is:
+Let's start with what it means to play. I propose there are two kinds of play: 
+
+* competitive play: what you do when you're trying to win a game
+
+* exploratory play: what you do with your action figures on a rainy Sunday when you're 12. 
 
 **to follow one's instincts, but in the total absence of fear**
 
@@ -25,7 +29,7 @@ I've noticed many spaces in which adults gather to cultivate a spirit of play ar
 
 * game conventions - I've worked in the board game industry for the last few years, attending conventions professionally, and here too I attest to a pervasive and blinding whiteness.
 
-* Burning Man - I've never been but it has a notorious reputation for whiteness (the founder's explanation: [“I don’t think black folks like to camp as much as white folks”](https://www.theguardian.com/culture/2015/sep/04/burning-man-founder-larry-harvey-race-diversity-silicon-valley))
+* Burning Man - I've never been but it has a [notorious reputation for whiteness](https://www.theguardian.com/culture/2015/sep/04/burning-man-founder-larry-harvey-race-diversity-silicon-valley)
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
 
