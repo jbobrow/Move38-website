@@ -33,11 +33,11 @@ But. If it's true, as I believe, that we learn best when at play, it means play 
 
 A close-at-hand example: my participation in this business, Move38, the business whose site you're reading right now.
 
-I was traveling for work in Boston, and staying at the house of a friend who was teaching at MIT (this story starts with a traditional kind of privilege - I'm friends with people who have access to incredible resources), and he told me there was an engineer in the MIT Media Lab who I absolutely have to meet. 
+I was traveling for work in Boston, staying at the house of a friend who was teaching at MIT (this story originates in a traditional kind of privilege - I'm friends with people who have access to incredible resources), and he told me there was an inventor in the MIT Media Lab who I absolutely had to meet. 
 
-So we go to the media lab, and I meet an amazing man named Jonathan Bobrow, who had developed a kind of board game with pieces that can think for themselves, communicate with one another, and generally act like living things. I play with them briefly, and I talk to Jonathan briefly, and I'm blown away by both. 
+So we go to the media lab, and I meet an amazing man named Jonathan Bobrow, who had developed a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I play with them briefly, I talk to Jonathan briefly, and I'm blown away by both. 
 
-And here's where the privilege of play comes in: I tell Jonathan, without any consideration, that if he wants to commercialize his invention, I will leave my job and join him in doing so.
+Here's where the privilege of play comes in: I tell Jonathan, without any consideration, that if he wants to commercialize his invention, I will leave my job and join him in doing so.
 
 I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course, there was some apprehension later on, once I actually gave my 30 days notice, because I'm human and fear is a condition of life, even for the lucky. 
 
@@ -47,4 +47,6 @@ So. Play is yet another dimension of the social capital that keeps white guys li
 
 But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. 
 
-I don't know how it'll become so or how I can contribute to it. Our company's first product will not address the underlying fear that keeps us from playing. Even if it were possible to alleviate fear, I'm not sure it would be a good idea for those 
+I don't know how it'll become so or how we can contribute to it. Our company's first product won't address the underlying fear that thwarts play. I wouldn't even know where to start. 
+
+For now it's a dream, but one we won't forget.  
