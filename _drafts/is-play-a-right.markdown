@@ -39,7 +39,7 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of opportunity for exploratory play could be yet another means through which privilege breeds privilege. I, white guy, can explore my interests more freely, more passionately, than someone more encumbered by fear, and that leads me to opportunities out of reach for others.
+But. If it's true, as I believe, that we learn best at play, it means inequality of opportunity for exploratory play could be yet another means through which privilege breeds privilege. I, white guy, can explore my interests more freely, more passionately, than someone more encumbered by fear, and that leads me to opportunities out of others' reach.
 
 A close-at-hand example: my participation in this business, Move38, the business whose site you're reading right now.
 
