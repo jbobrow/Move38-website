@@ -32,7 +32,7 @@ See too the 'phone zombies' images now peppering the web:
 
 ![Phone Zombies](https://siteleaf-img.global.ssl.fastly.net/dQiLtpDtk-tY8aT6hUf1_roL95U=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/57e500c951359653028d3f3c/assets/57e5390051359652e82f6624.jpg)
 
-Increasingly, many of us want to escape. We've come to associate screens with drudgery, mindlessness, and interruption. I spend my workday staring at a screen, looking away only when distracted by a ping from another screen. The last thing I want to do after work is stare at still another screen and keep feeling those associations. And if you're a parent, you likely spend significant time worrying about, and regulating, your kids' screen time.
+Increasingly, many of us want to escape. We've come to associate screens with drudgery, mindlessness, and interruption. I spend my workday staring at a screen, looking away only when distracted by a ping from another screen. The last thing I want to do after work is stare at another one and keep feeling those associations. And if you're a parent, you likely spend significant time worrying about, and regulating, your kids' screen time.
 
 Board games are an escape. They're among the last screenless domestic entertainments, so we're turning to them for reprieve.
 
@@ -43,14 +43,19 @@ That's my theory. If true, it has implications for the future of board games.
 [The industry is talking a lot about smart games and toys](https://www.theguardian.com/technology/2016/sep/22/digital-children-smart-toys-technology), fast-growing product-categories which many see as THE industry's future. What if board games had components that could think and communicate? Theoretically, a smart board game could to a lot of stuff:
 
 * feel reactive and alive, with pieces responding to players and to each other, and behaving like living things
+
 * play against you
+
 * teach you its rules
+
 * do the book keeping for you
+
 * evolve in ways traditional board games can't
 
 Incidentally, these are among the main reasons video games are so much more popular than board games. Video games have it over on board games in pretty much every way except:
 
 * board games are more social, and relatedly:
+
 * board games don't have screens
 
 ## Screens might be an impediment to smart board games
@@ -58,9 +63,13 @@ Incidentally, these are among the main reasons video games are so much more popu
 So, due to dramatically expanded functionality, smart board games have at least the potential to be awesome. But how could you actually make one? I know of 5 published board games with significant digital integrations. Here they are:
 
 * [Sifteo](https://www.amazon.com/Sifteo-Cubes-Intelligent-System-Newest/dp/B008X0ACP2)
+
 * [Golem Arcana](http://golemarcana.com/)
+
 * [XCOM: The Board Game](https://boardgamegeek.com/boardgame/163602/xcom-board-game)
+
 * [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
+
 * [World of Yo-Ho](http://yoho.io/english/index.html)
 
 Each is social in the way board games should be (you sit around a table, playing face-to-face), and each was created by competent people. As a group, their sales haven't lit the world on fire. Alchemists has performed performed well, XCOM ok, Golem Arcana poorly, Sifteo failed, and World of Yo-Ho launched this year with a [weak $55k Kickstarter campaign](https://www.kickstarter.com/projects/iello/world-of-yo-ho/description) (caveat: sales figures aren't public, so I've relied on inference and what others have told me - errors are possible). All rely on screens.
@@ -102,5 +111,3 @@ That's a subject for another day. We'll post regularly in this space about the s
 <!--End mc_embed_signup-->
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
-
-
