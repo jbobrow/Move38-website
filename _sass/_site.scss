@@ -124,6 +124,7 @@ body {
 
   &-tag {
     margin-bottom: 1rem;
+    margin-top: .5rem;
     .tag {
       display: inline-block;
       margin: 4px;
@@ -132,6 +133,10 @@ body {
       background-color: $base-lighten-color;
       text-decoration: none;
 			border-radius: 3px;
+    }
+    ul{
+      margin-left: 0;
+      padding-left: 0;
     }
     li {
       font-size: .75rem;
