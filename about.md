@@ -1,7 +1,7 @@
 ---
 title: Move38
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 ## **Carefully crafted, self-aware tabletop games**
