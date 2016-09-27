@@ -15,7 +15,7 @@ layout: post
 
 In recent years, the board game market has been roaring. In 2015 alone, [the hobby games market grew 30%.](http://icv2.com/articles/news/view/35150/hobby-games-market-nearly-1-2-billion)
 
-Why? Board games are growing faster than the games market generally, so it's not a rising-tide-lifts-all-boats thing ([video games are growing at 5%](https://newzoo.com/insights/articles/global-games-market-reaches-99-6-billion-2016-mobile-generating-37/)). Why are board games growing faster than other games?
+Why? Board games are growing faster than the games market generally, so it's not a rising-tide-lifts-all-boats thing ([video games have been growing at about 5%](https://newzoo.com/insights/articles/global-games-market-reaches-99-6-billion-2016-mobile-generating-37/)). Why are board games growing faster than other games?
 
 The explanation I hear most is that the internet, [BoardGameGeek](https://www.boardgamegeek.com/) especially, has created a new community of like-minded game lovers, which is sucking people into its growing vortex.
 
