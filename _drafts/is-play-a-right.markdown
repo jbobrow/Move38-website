@@ -29,11 +29,11 @@ Precious because fear, in degrees minor and profound, is ubiquitous, so explorat
 
 Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
 
-As a white man from a comfortable background (when I see these words I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm pretty lucky. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
+As a white man from a comfortable background (when I see these words I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm pretty lucky. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, since it feels like an exclusive luxury.
 
 I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
 
-* improv clubs - I did improv for three years, and oh my god was it white.
+* improv clubs - I did improv for three years (it's one of the most important things I've done for myself), and oh my god was it white
 
 * Burning Man - I've never been but it has a [notorious reputation for whiteness](https://www.theguardian.com/culture/2015/sep/04/burning-man-founder-larry-harvey-race-diversity-silicon-valley)
 
