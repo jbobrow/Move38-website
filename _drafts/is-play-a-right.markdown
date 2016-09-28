@@ -13,9 +13,9 @@ Let's start with what it means to play. I don't have one single definition. Inst
 
 Here's the difference:
 
-* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement beyond what's possible in day-to-day life.
+* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement and understanding beyond what's possible in day-to-day life.
 
-* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination. 
+* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
 Competitive play is available to most of us, exploratory play less so. The reason is fear.
 
@@ -39,7 +39,7 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be yet another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely, more passionately, than someone more encumbered by fear, leading to opportunities out of others' reach.
+But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely, more passionately, than someone more encumbered by fear, leading to opportunities out of others' reach.
 
 An example close at hand: my participation in this business, Move38, the business whose site you're now reading.
 
@@ -47,16 +47,16 @@ I was traveling for work in Boston, staying at the house of a friend teaching at
 
 So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was moved by both.
 
-Here's where the privilege of play comes in: then and there, without consideration, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
+Here's where the privilege of play comes in: then and there, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
 
-I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course there was apprehension later, once I gave my 30 days notice, because I'm human and fear is a condition of life, even for the lucky.
+I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course there was apprehension later, once I gave my 30 days' notice, because I'm human and fear is a condition of life, even for the lucky.
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to operating with only a modicum of fear and a bedrock belief I'll land on my feet.
 
 So. Exploratory play is yet another dimension of the social capital that keeps people like me hitting jackpots in life's slot machines.
 
-But it shouldn't be that way. It shouldn't be a privilege. It should be a right. An inalienable one. 
+But it shouldn't be that way. It shouldn't be a privilege. It should be an inalienable right.
 
 I don't know how it'll become so or how we can contribute to it. Our first product won't address fear. I don't even know where to start.
 
-So for now it's a dream, but we won't forget it, and we'll look for ways to start. 
+So for now it's a dream, but we won't forget it.
