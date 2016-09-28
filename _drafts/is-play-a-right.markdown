@@ -49,7 +49,7 @@ So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'
 
 Here's where the privilege of play comes in: then and there, I told Jonathan if he wanted to commercialize his invention, I would leave my job and join him in doing so.
 
-I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course there was apprehension later, once I gave my 30 days' notice, because I'm human and fear is a condition of life, even for the lucky.
+I discovered something delightful and I pursued it without fear. There was no cost-benefit analysis. I made my decision playfully. Of course there was apprehension later, once I gave my 30 days' notice, because I'm human and fear is a condition of life, even for the lucky.
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to living with only a modicum of fear and a bedrock belief I'll land on my feet.
 
