@@ -13,7 +13,7 @@ Let's start with what it means to play. I don't have one single definition. Inst
 
 Here's the difference:
 
-* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of achievement and understanding beyond what's possible in day-to-day life.
+* competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of understanding and achievement beyond what's possible in day-to-day life.
 
 * exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
