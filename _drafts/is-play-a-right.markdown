@@ -29,7 +29,7 @@ Precious because fear, in degrees minor and profound, is ubiquitous, so explorat
 
 Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
 
-As a white man (whenever I see these two words together I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm one of those people. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
+As a white man from a comfortable background (whenever I see these words together I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm one of those people. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, because I'm getting to do something more or less off limits to a lot of others.
 
 I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
 
@@ -47,7 +47,7 @@ I was traveling for work in Boston, staying at the house of a friend teaching at
 
 So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was moved by both.
 
-Here's where the privilege of play comes in: then and there, I told Jonathan that if he wanted to commercialize his invention, I would leave my job and join him in doing so.
+Here's where the privilege of play comes in: then and there, I told Jonathan if he wanted to commercialize his invention, I would leave my job and join him in doing so.
 
 I discovered something delightful and I pursued it without fear. I made my decision playfully. Of course there was apprehension later, once I gave my 30 days' notice, because I'm human and fear is a condition of life, even for the lucky.
 
