@@ -22,11 +22,11 @@ Here's the difference:
 
 Each can be critical to learning, each in it's own way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't. 
 
-The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The little nagging feeling at the edge of consciousness that comes from a looming deadline or an unpaid bill is enough to make exploratory play impossible.  
+The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make exploratory play impossible.  
 
 Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc. Not only that, but it's hard to control at will.
 
-Fear is also what makes exploratory play seem alternately precious and frivolous.
+Fear is what makes exploratory play seem alternately precious and frivolous.
 
 Precious because fear, in degrees minor and profound, is ubiquitous, so exploratory play is rare no matter who you are.
 
