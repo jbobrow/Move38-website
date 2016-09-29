@@ -30,7 +30,7 @@ Fear is also what makes exploratory play seem alternately precious and frivolous
 
 Precious because fear, in degrees minor and profound, is ubiquitous, so exploratory play is rare no matter who you are.
 
-Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
+Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
 
 The bottom line here though, is this: it's easier for some of us to engage in exploratory play than others.
 
