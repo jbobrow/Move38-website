@@ -17,9 +17,11 @@ Here's the difference:
 
 * exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Competitive play is available to most of us, exploratory play less so. The reason is fear.
+Each is vital to learning, each in it's own unique way. Competitive play is freely available to almost everyone, but that's not the case with exploratory play. 
 
-Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc.
+The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. A little nagging feeling at the edge of consciousness that comes from a looming deadline or an unpaid bill is enough to make exploratory play impossible.  
+
+Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc. Not only that, but it's hard to control at will.
 
 Consequently, it's easier for some of us to engage in exploratory play than others.
 
@@ -29,7 +31,7 @@ Precious because fear, in degrees minor and profound, is ubiquitous, so explorat
 
 Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who have escaped the need for constant watchfulness.
 
-As a white man from a comfortable background (when I see these words I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm pretty lucky. I've spent big parts of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, since it feels like an exclusive luxury.
+As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, since it feels like an exclusive luxury.
 
 I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
 
@@ -37,9 +39,9 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 * Burning Man - I've never been but it has a [notorious reputation for whiteness](https://www.theguardian.com/culture/2015/sep/04/burning-man-founder-larry-harvey-race-diversity-silicon-valley)
 
-My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to the privileged.
+My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you don't undertake them. You leave them to others.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely, more passionately, than someone more encumbered by fear, leading to opportunities out of others' reach.
+But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked in since childhood, would not go away. 
 
 An example close at hand: my participation in this business, Move38, the business whose site you're now reading.
 
