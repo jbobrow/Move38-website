@@ -20,7 +20,7 @@ Here's the difference:
 
 * exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Each can be critical to learning, each in it's own unique way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't. 
+Each can be critical to learning, each in it's own way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't. 
 
 The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The little nagging feeling at the edge of consciousness that comes from a looming deadline or an unpaid bill is enough to make exploratory play impossible.  
 
