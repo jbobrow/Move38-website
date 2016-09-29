@@ -34,7 +34,7 @@ Frivolous because for swaths of humanity, fear is necessary, and exploratory pla
 
 The bottom line here though, is this: it's easier for some of us to engage in exploratory play than others.
 
-As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I feel guilt too, since it feels like an exclusive luxury.
+As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I know not everyone gets to live this way.
 
 I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
 
