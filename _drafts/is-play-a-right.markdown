@@ -1,6 +1,9 @@
 ---
 title: Do we have a right to play?
 date: 2016-09-24 11:22:00 -04:00
+tags:
+- play
+- fear
 ---
 
 Since we're starting a company with play as a central value, I've been thinking about it. What is it, and do we have a right to it?
