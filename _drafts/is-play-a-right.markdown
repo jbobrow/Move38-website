@@ -48,7 +48,7 @@ But. If it's true, as I believe, that we learn best at play, it means inequality
 
 An example close at hand: my participation in this business, Move38, the business whose site you're now reading.
 
-I was traveling for work in Boston, staying at the house of a friend teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab who I had to meet.
+I was traveling for work in Boston, staying at the house of a friend teaching at MIT (this story originates in a traditional kind of privilege - my friends have access to resources), and he told me there was an inventor in the MIT Media Lab I should meet.
 
 So we went to the Media Lab and I met an amazing man named Jonathan Bobrow, who'd created a kind of board game with pieces that can think for themselves, communicate with one another, and act like living things. I played with them briefly, I talked to Jonathan briefly, and was moved by both.
 
@@ -58,7 +58,7 @@ I discovered something delightful and I pursued it without fear. There was no co
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to living with only a modicum of fear and a bedrock belief I'll land on my feet.
 
-So. Exploratory play is yet another dimension of the social capital that keeps people like me hitting jackpots in life's slot machines.
+So. Exploratory play is another dimension of the social capital keeping people like me hitting jackpots in life's slot machines.
 
 But it shouldn't be that way. It shouldn't be a privilege. It should be an inalienable right.
 
