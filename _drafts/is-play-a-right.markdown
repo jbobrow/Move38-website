@@ -34,7 +34,7 @@ Precious because fear, in degrees minor and profound, is ubiquitous, so explorat
 
 Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
 
-The bottom line here though, is this: it's easier for some of us to engage in exploratory play than others.
+The bottom line here though is it's easier for some of us to engage in exploratory play than others.
 
 As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I know not everyone gets to live this way.
 
