@@ -6,6 +6,8 @@ tags:
 - fear
 ---
 
+![play.jpg](/uploads/play.jpg)
+
 Since we're starting a company with play as a central value, I've been thinking about it. What is it, and do we have a right to it?
 
 Let's start with what it means to play. I don't have one single definition. Instead I propose there are two kinds of play:
@@ -20,9 +22,9 @@ Here's the difference:
 
 * exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Each can be critical to learning, each in it's own way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't. 
+Each can be critical to learning, each in it's own way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't.
 
-The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make exploratory play impossible.  
+The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make exploratory play impossible.
 
 Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc. Not only that, but it's hard to control at will.
 
@@ -44,7 +46,7 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you leave them to others.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked-in since childhood, would remain, because I've been conditioned not to worry. 
+But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked-in since childhood, would remain, because I've been conditioned not to worry.
 
 An example close at hand: my participation in this business, Move38, the business whose site you're now reading.
 
