@@ -22,7 +22,7 @@ Here's the difference:
 
 * exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Each can be critical to learning, each in it's own way. Competitive play is freely and equally available to almost everyone. Exploratory play isn't.
+Each can be critical to learning, each in it's own way. Competitive play is freely available to almost everyone. Exploratory play isn't.
 
 The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make exploratory play impossible.
 
@@ -32,7 +32,7 @@ Fear is what makes exploratory play seem alternately precious and frivolous.
 
 Precious because fear, in degrees minor and profound, is ubiquitous, so exploratory play is rare no matter who you are.
 
-Frivolous because for swaths of humanity, fear is necessary, and exploratory play therefore seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
+Frivolous because for many of us, worry is constant enough that exploratory play seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
 
 The bottom line here though is it's easier for some of us to engage in exploratory play than others.
 
@@ -43,6 +43,8 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 * improv clubs - I did improv for three years (one of the most important things I've done for myself), and oh my god was it white
 
 * Burning Man - I've never been but it has a [notorious reputation for whiteness](https://www.theguardian.com/culture/2015/sep/04/burning-man-founder-larry-harvey-race-diversity-silicon-valley)
+
+![burning-couple.jpg](/uploads/burning-couple.jpg)
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you leave them to others.
 
