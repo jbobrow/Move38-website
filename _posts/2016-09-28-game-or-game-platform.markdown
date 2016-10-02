@@ -6,7 +6,7 @@ tags:
 - game marketing
 ---
 
-Our first product at Move38 will be unusual. It's a platform for playing physical games and puzzles, where the playing pieces (hexagons) are simple computers that communicate with each other and with the players.
+Our first product at Move38 will be unusual. It's a platform for playing physical games and puzzles, where the playing pieces (illuminated hexagons) are simple computers that communicate with each other and with the players.
 
 They're programmable and you can use them to play many games/puzzles. They're open source ([Arduino!](https://www.arduino.cc/)) so you can also program new games, upload them, and they'll be available  to everyone.
 
