@@ -40,7 +40,7 @@ But another advisor, one with special knowledge on this subject, warns us agains
 
 2. a platform costs more than one game so if it's framed as one game it will seem too expensive. If it's *actually* one game we can make it cheaper by dropping the general computing componentry.
 
-I should mention this advisor once launched, to enormous buzz, a product with the same dilemma. It sold as a platform and it failed.
+I should mention this advisor once launched, to enormous buzz, a product with the same dilemma. It sold as a platform and failed.
 
 So it would seem we should design and sell a single game and forget the platform stuff. But there's a problem with that too: it conflicts with our values.
 
