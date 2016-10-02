@@ -8,13 +8,13 @@ tags:
 
 Our first product at Move38 will be unusual. It's a platform for playing physical games and puzzles, where the playing pieces (hexagons) are simple computers that communicate with each other and with the players. 
 
-They're programmable and you can use them to play many games/puzzles. They're open source so you can also program new ones.
+They're programmable and you can use them to play many games/puzzles. They're open source ([Arduino!](https://www.arduino.cc/)) so you can also program new games, upload them, and they'll be available  to everyone.
 
 Here they are running a demo program that makes them all try to resolve to the same color: 
 
 ![rainbow_01.gif](/uploads/rainbow_01.gif)
 
-...and here's what their innards look like:
+...and here's what their guts look like:
 
 ![automatile-naked.jpg](/uploads/automatile-naked.jpg)
 
@@ -22,11 +22,11 @@ I fell in love with them the moment [Jonathan](http://cargo.jonathanbobrow.com/)
 
 But their novelty is also a weakness. How do we help people understand what they are well enough to know whether the product is right for them? 
 
-The question is complicated by the fact that it's harder to sell a system than a game. If I tell you I'm selling a system, it tells you nothing about whether you'll like it or not. But if I tell you I'm selling a game, one single game, featuring X, Y and Z, then you can understand, because you can relate it to things it you already know. 
+The question is complicated by the fact that it's harder to sell a system than a game. If I tell you I'm selling a system, it tells you nothing about whether you'll like it. But if I'm selling a game, one single game, featuring X, Y and Z, then you can understand, because you can relate it to things it you already know. 
 
 **Me:** here's a deck building game about Sasquatches 
 
-**You:** I love deckbuilding! I love Sasquatches!
+**You:** I love deck building! I love Sasquatches!
 
 **Me:** that'll be $40 
 
@@ -40,10 +40,12 @@ But another advisor, one with special knowledge on this subject, tells us not to
 
 2. a system costs more than one game so if it's framed as one game it will seem too expensive. If it's *actually* one game we can make it cheaper by dropping the general computing componentry.
 
-The man who told us this is a very smart dude who once launched, in the wake of enormous buzz, a product with the exact same dilemma. It sold as a system and it failed. 
+The man who told us this is a whip smart dude who once launched, to enormous buzz, a product with exactly the same dilemma. It sold as a system and it failed.
 
 So it would seem like all that's left is to design and sell a single game and forget the system stuff. But there's a problem with that too: it's not in line with our values. 
 
-As an open-source system, it'll be a thing for high-school kids in their computer labs and makers in their garages to hack on. People will invent things we could never dream of with it, and others will get to play with those things. 
+As an open-source system, our product will be a thing for kids in computer labs and makers in garages to hack. People will invent things we could never dream of with it, and others will get to play with those things.
 
 As a system, it'll be a tool for both competitive play *and* imaginative play.  If we redesign it into a single game, it will limit the scope for imaginative play, an imaginative play is critical to us. It's the reason we exist.
+
+So a core value conflicts with pragmatic product advice. What imperative do we honor? 
