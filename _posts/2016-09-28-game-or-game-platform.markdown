@@ -35,7 +35,7 @@ For this reason, more than one advisor recommends we create one showpiece game a
 
 The marketing would go something like: "Here's this game that does X, Y and Z, and oh by the way it's also a platform for playing many other games besides."
 
-But another advisor, one with special knowledge on this subject, warns us against trying to have it both ways. He says we should either sell one game or sell a platform but not both. The problem with selling one game that is *also* a platform is that:
+But another advisor, one with special knowledge on this subject, warns against trying to have it both ways. He says we should either sell one game or sell a platform but not both. The problem with selling one game that is *also* a platform is that:
 
 1. it's confusing
 
