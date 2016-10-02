@@ -1,6 +1,7 @@
 ---
 title: The perils of selling a new kind of game platform
 date: 2016-09-28 09:47:00 -04:00
+published: false
 tags:
 - business
 - game marketing
