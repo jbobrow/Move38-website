@@ -40,13 +40,13 @@ But another advisor, one with special knowledge on this subject, warns us agains
 
 2. a platform costs more than one game so if it's framed as one game it will seem too expensive. If it's *actually* one game we can make it cheaper by dropping the general computing componentry.
 
-The man who told us this is a whip smart dude who once launched, to enormous buzz, a product with exactly the same dilemma. It sold as a platform and it failed.
+The man who told us this is a smart dude who once launched, to enormous buzz, a product with the same dilemma. It sold as a platform and it failed.
 
-So it would seem we should design and sell a single game and forget the platform stuff. But there's a problem with that too: it's not in line with our values. 
+So it would seem we should design and sell a single game and forget the platform stuff. But there's a problem with that too: it conflicts with our values. 
 
 As an open-source platform, our product will be a thing for kids in computer labs and makers in garages to hack. People will invent things we could never dream of with it, and others will get to play with those things.
 
-As a platform, it'll be a tool for both competitive play *and* imaginative play.  If we redesign it into a single game, it will limit the scope for imaginative play, an imaginative play is critical to us. It's the reason we exist.
+As a platform, it'll be a tool for both competitive play *and* imaginative play.  If we redesign it into a single game, we'll limit the scope for imaginative play, an imaginative play is critical to us. It's the reason we exist.
 
 So a core value conflicts with pragmatic product advice. What imperative do we honor? We're choosing the core value. 
 
