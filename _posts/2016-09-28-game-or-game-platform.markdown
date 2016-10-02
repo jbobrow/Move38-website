@@ -1,5 +1,5 @@
 ---
-title: The difficulty of offering a completely new kind of game
+title: The difficulties of offering a new kind of game
 date: 2016-09-28 09:47:00 -04:00
 tags:
 - business
