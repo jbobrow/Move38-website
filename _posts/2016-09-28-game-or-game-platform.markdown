@@ -52,4 +52,4 @@ So a core value conflicts with pragmatic product advice. What imperative do we h
 
 But this begs the still-unanswered question: how do we sell a platform?
 
-We don't know the answer, but we're being transparent about the dilemma in the hope that, over time, smart readers will help us think it through. If you're one, we'll be grateful for your thoughts.
+We don't know the answer, but we're being transparent about the dilemma in the hope smart readers will help us think it through. If you're one, we'll be grateful for your thoughts.
