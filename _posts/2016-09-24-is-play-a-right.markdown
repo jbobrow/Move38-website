@@ -46,7 +46,7 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 ![burning-couple.jpg](/uploads/burning-couple.jpg)
 
-My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you leave them to others.
+My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you leave them to others. A lot of the people who have been most insulated from fear in their lives are white.
 
 But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked-in since childhood, would remain, because I've been conditioned not to worry.
 
