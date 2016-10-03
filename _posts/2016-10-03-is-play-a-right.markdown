@@ -22,7 +22,7 @@ Here's the difference:
 
 * imaginative play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Each can be critical to learning, each in it's own way. Competitive play is freely available to almost everyone. Imaginative play isn't.
+Each can be critical to learning, each in its own way. Competitive play is freely available to almost everyone. Imaginative play isn't.
 
 The reason is fear. Imaginative play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to imaginative play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make imaginative play impossible.
 
