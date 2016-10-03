@@ -34,11 +34,11 @@ Precious because fear, in degrees minor and profound, is ubiquitous, so imaginat
 
 Frivolous because for many of us, worry is constant enough that imaginative play seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
 
-The bottom line here though is it's easier for some of us to engage in exploratory play than others.
+The bottom line here though is it's easier for some of us to engage in imaginative play than others.
 
-As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of exploratory play, mainly because from where I sit, it looks like freedom. But I know not everyone gets to live this way.
+As a white man from a comfortable background (looking at these words, I imagine I'm sitting at a slot machine, watching them rotate into alignment), I'm lucky. I've spent much of my adult life trying to cultivate a spirit of imaginative play, mainly because from where I sit, it looks like freedom. But I know not everyone gets to live this way.
 
-I've noticed spaces in which adults gather to cultivate exploratory play tend to be white. For example:
+I've noticed spaces in which adults gather to cultivate imaginative play tend to be white. For example:
 
 * improv clubs - I did improv for three years (one of the most important things I've done for myself), and oh my god was it white
 
@@ -48,7 +48,7 @@ I've noticed spaces in which adults gather to cultivate exploratory play tend to
 
 My theory is that the more fear you've lived with, the harder or more frivolous (or both) these sorts of pursuits seem.  So you leave them to others. A lot of the people most insulated from fear are white.
 
-But. If it's true, as I believe, that we learn best at play, it means inequality of exploratory play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked-in since childhood, would remain, because I've been conditioned not to worry.
+But. If it's true, as I believe, that we learn best at play, it means inequality of imaginative play could be another means through which privilege breeds privilege. I, blithe white guy born to wealthy parents, can explore my interests more freely than someone more encumbered by fear, leading to opportunities out of others' reach, and this is an advantage beyond what material advantages I may enjoy. Even if I were poor, my playful attitude toward life, baked-in since childhood, would remain, because I've been conditioned not to worry.
 
 An example close at hand: my participation in this business, Move38, the business whose site you're now reading.
 
@@ -62,7 +62,7 @@ I discovered something delightful and I pursued it without fear. There was no co
 
 But it wasn't enough to keep me from making the playful choice. Here I am. I can do this because I'm used to living with only a modicum of fear and a bedrock belief I'll land on my feet.
 
-So. Exploratory play is another dimension of the social capital keeping people like me hitting jackpots in life's slot machines.
+So. Imaginative play is another dimension of the social capital keeping people like me hitting jackpots in life's slot machines.
 
 But it shouldn't be that way. It shouldn't be a privilege. It should be an inalienable right.
 
