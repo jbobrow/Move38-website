@@ -20,7 +20,7 @@ Here they are running a demo program that makes them all try to resolve to the s
 
 I fell in love with them the moment [Jonathan](http://cargo.jonathanbobrow.com/), their inventor, showed them to me. Unlike nearly every electronic game in the history of electronic games, they don't feel like a gimmick, and when I play with them, I feel like I'm doing something new.
 
-![life-electronic-banking.jpg](/uploads/life-electronic-banking.jpg) i.e. not this
+![life-electronic-banking.jpg](/uploads/life-electronic-banking.jpg) *i.e. not this*
 
 But their novelty is also a weakness. How do we help people understand what they are well enough to know whether they want to buy it?
 
@@ -54,4 +54,4 @@ So a core value conflicts with pragmatic advice. What imperative do we honor? We
 
 But this begs again the still-unanswered question: how do we sell a platform?
 
-We don't know yet, but we're being transparent about the issue because writing helps us think and good reader comments help us see problems through fresh eyes. If you've got thoughts, we'll be grateful for for them. We've got \~7 months to figure it out. 
+We don't know yet, but we're being transparent about the issue because writing helps us think and good reader comments help us see problems through fresh eyes. If you've got thoughts, we'll be grateful for for them. We've got \~7 months to figure it out.
