@@ -14,25 +14,25 @@ Let's start with what it means to play. I don't have one single definition. Inst
 
 * competitive play: what you do when you're trying to win a game
 
-* exploratory play: what you do with your action figures on a rainy Sunday when you're 12.
+* imaginative play: what you do with your action figures on a rainy Sunday when you're 12.
 
 Here's the difference:
 
 * competitive play is goal-driven, bound by rules, and not much hindered by fear (in fact fear can drive competitive play). The purpose is to experience the thrill of understanding and achievement beyond what's possible in day-to-day life.
 
-* exploratory play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
+* imaginative play isn't goal-driven, isn't bound by rules, and is hindered by fear. The purpose is to delight in curiosity and imagination.
 
-Each can be critical to learning, each in it's own way. Competitive play is freely available to almost everyone. Exploratory play isn't.
+Each can be critical to learning, each in it's own way. Competitive play is freely available to almost everyone. Imaginative play isn't.
 
-The reason is fear. Exploratory play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to exploratory play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make exploratory play impossible.
+The reason is fear. Imaginative play requires a feeling of freedom, to indulge curiosity, follow your nose, "waste time", and set aside the cost-benefit analyses looping in your head. Worry is kryptonite to imaginative play, and it doesn't take much to make it impossible. The nagging feeling at the edge of consciousness from a looming deadline or an unpaid bill is enough to make imaginative play impossible.
 
 Everyone fears, but some more than others. Kids tend to fear less than adults, the rich less than the poor, whites less than non-whites (in the U.S.), etc. Not only that, but it's hard to control at will.
 
-Fear is what makes exploratory play seem alternately precious and frivolous.
+Fear is what makes imaginative play seem alternately precious and frivolous.
 
-Precious because fear, in degrees minor and profound, is ubiquitous, so exploratory play is rare no matter who you are.
+Precious because fear, in degrees minor and profound, is ubiquitous, so imaginative play is rare no matter who you are.
 
-Frivolous because for many of us, worry is constant enough that exploratory play seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
+Frivolous because for many of us, worry is constant enough that imaginative play seems like a nice perk afforded to the lucky among us who've escaped the need for constant watchfulness.
 
 The bottom line here though is it's easier for some of us to engage in exploratory play than others.
 
