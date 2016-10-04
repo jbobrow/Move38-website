@@ -24,7 +24,7 @@ I fell in love with them the moment [Jonathan](http://cargo.jonathanbobrow.com/)
 
 But their novelty is also a weakness. How do we help people understand what they are well enough to know whether they want to buy it?
 
-The question is complicated by the fact that it's harder to sell a platform than a game. If I tell you I'm selling a platform, I tell you nothing about whether you'll like it. But if I'm selling a game, featuring X, Y and Z, you can understand it because you can relate it to things it you already know.
+The question is complicated in that it's harder to sell a platform than a game. If I tell you I'm selling a platform, I tell you nothing about whether you'll like it. But if I'm selling a game, featuring X, Y and Z, you can understand it because you can relate it to things it you already know.
 
 **Me:** here's a deck building game about Sasquatches
 
@@ -54,4 +54,4 @@ So a core value conflicts with pragmatic advice. What imperative do we honor? We
 
 But this begs again the still-unanswered question: how do we sell a platform?
 
-We don't know yet, but we're being transparent about the issue because writing helps us think and good reader comments help us see problems through fresh eyes. If you've got thoughts, we'll be grateful for for them. We've got \~7 months to figure it out.
+The short answer is that we have to put a lot of effort into creating clear, concise, and evocative demonstrations of the system. We have to find a way to communicate in no more than 30 seconds that we're offering a new kind of platform *and* that it's awesome.  
