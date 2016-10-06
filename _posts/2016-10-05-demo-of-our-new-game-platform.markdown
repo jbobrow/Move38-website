@@ -13,7 +13,7 @@ The game in the video is called Fracture. At the start, the tiles are arranged i
 
 1. The players take turns.
 
-2. On your turn, you break the array of tiles into two chunks and put it back together in another formation.
+2. On your turn, you break the array of tiles into two chunks and put them back together in another formation.
 
 3. When a tile has at least two neighbors but none match its color, it blinks with happiness.
 
@@ -23,11 +23,11 @@ Fracture illustrates a some nice things about the system:
 
 1. It's hard to play a game like this with inanimate pieces because players have to manually scan the array to check for happy tiles, which is annoying and game-delaying. Automatiles show you when they're happy and that lets the game shine through.
 
-2. Because the tiles attach and self-align through magnets, the array has a pleasing organization and is easy to manipulate; you can do so not just on the level of single tiles but of whole groups.
+2. Because the tiles attach and self-align through magnets, the array has a pleasing organization and is easy to manipulate; you can do so not just on the level of single tiles but of groups.
 
 3. There's something mesmerizing about them (in our ever so slightly biased opinion)
 
-As this is a prototype there are one or two glitchy moments, but you get the idea. Note fracture won't be playable with the base set, which won't have enough tiles for it. This is just to give you a feel for the system. 
+As this is a prototype there are one or two glitchy moments, but you get the idea. Note Fracture won't be playable with the base set, which won't have enough tiles for it. This is just to give you a feel for the system. 
 
 Luckily, there are lots of things the tiles can do because they have brains:  
 
