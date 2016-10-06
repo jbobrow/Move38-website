@@ -15,7 +15,7 @@ The game featured in the video is called Fracture. At its start, the tiles are a
 
 2. On your turn, you break the array of tiles into two chunks and put it back together in another formation. 
 
-3. When a tile has at least two neighbors but none match its color, it feels happy and it starts blinking. 
+3. When a tile has at least two neighbors but none match its color, it blinks with happiness. 
 
 4. The first player whose tiles are all happy at once wins.  
 
