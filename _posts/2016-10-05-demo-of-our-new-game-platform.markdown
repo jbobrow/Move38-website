@@ -25,18 +25,18 @@ Fracture illustrates a some nice things about the system:
 
 2. Because the tiles attach and self-align through magnets, the array has a pleasing organization and is easy to manipulate; you can do so not just on the level of single tiles but of groups.
 
-3. There's something mesmerizing about them (in our ever so slightly biased opinion)
+3. The tiles were born out of our love for the tactile, social nature of board games, and we designed them to retain that same magic. When you play with them, you don’t feel like you’re playing a video game on a table; you feel like you’re playing a board game that can think. And that, in our opinion, is awesome. 
 
-As this is a prototype there are one or two glitchy moments, but you get the idea. Note Fracture won't be playable with the base set, which won't have enough tiles for it. This is just to give you a feel for the system. 
+As this is a prototype there are one or two glitchy moments, but you get the idea. Note Fracture won't be playable with the base set, which won't have enough tiles for it. This is just to give you a feel for the system.
 
-Luckily, there are lots of things the tiles can do because they have brains:  
+Luckily, there are lots of things the tiles can do because they have brains:
 
 ![automatile-naked.jpg](/uploads/automatile-naked.jpg)
 
-More about that in future posts. In the meantime, here are some ideas we're toying with for initial games: 
+More about that in future posts. In the meantime, here are some ideas we're toying with for initial games:
 
 1. Solo puzzles where the tiles are happy when they are arranged in some particular configuration, and they get happier the closer you get to it.
 
-2. A flicking game where you're trying to flick the tiles into happy arrangements 
+2. A flicking game where you're trying to flick the tiles into happy arrangements
 
-3. Each tile is a magic rune, and each contains its own spell (i.e. exerts unique effects on other tiles). Players take turns casting spells by attaching their runes to a growing array on the table, until some winning condition is reached. Sort of like Magic: The Gathering. Because the system is open source (Arduino!), players could even invent, program, and distribute their own runes, and there could be a metagame economy where players can make fake or real money by selling the runes they invent to other players. 
+3. Each tile is a magic rune, and each contains its own spell (i.e. exerts unique effects on other tiles). Players take turns casting spells by attaching their runes to a growing array on the table, until some winning condition is reached. Sort of like Magic: The Gathering. Because the system is open source (Arduino!), players could even invent, program, and distribute their own runes, and there could be a metagame economy where players can make fake or real money by selling the runes they invent to other players.
