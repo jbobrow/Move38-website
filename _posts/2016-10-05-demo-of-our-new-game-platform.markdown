@@ -25,7 +25,7 @@ Fracture illustrates a some features of the system:
 
 2. Because the tiles attach and self-align through magnets, the array has a pleasing organization and is easy to manipulate; you can easily move around groups of tiles.
 
-3. The tiles were born of our love for the tactile, social nature of board games, and we designed them to retain that magic. When you play with them, you don’t feel like you’re playing a video game on a table; you feel like you’re playing a board game that can think. 
+3. The tiles were born of our love for the tactile, social nature of board games, and we designed them to retain that magic. When you play, you don’t feel like you’re playing a video game on a table; you feel like you’re playing a board game that can think. 
 
 There are one or two glitchy moments in the video because this is a prototype , but you get the idea. Note Fracture won't be playable with the base set, which won't have enough tiles for it. This is just to give you a feel for the system.
 
