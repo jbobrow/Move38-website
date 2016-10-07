@@ -22,7 +22,7 @@ The game in the video is called Fracture. At the start, the tiles are arranged i
 
 Fracture illustrates a some features of the system:
 
-1. It's hard to play a game like this with inanimate pieces because in that case player would have to manually scan the array to check for happy tiles, which is so annoying it's game-breaking. Automatiles show you when they're happy and that lets the game shine through.
+1. It would be hard to play a game like this with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is so annoying it's game-breaking. Automatiles show you when they're happy, which lets the game shine through.
 
 2. Because the tiles attach and self-align through magnets, the array has a pleasing organization and is easy to manipulate; you can easily move around groups of tiles.
 
