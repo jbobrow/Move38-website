@@ -38,7 +38,7 @@ So we get to design a bunch of games (we may also hold a design contest later on
 
 1. Solo puzzles where the tiles are happy when they are arranged in some particular configuration, and they get happier the closer you get to it.
 
-2. A flicking game where you're trying to flick the tiles into happy arrangements
+2. A flicking game where you're trying to flick the tiles in order to trigger a chain reaction in the array, or in any case to trigger some other kind of neat effect. 
 
 3. A game that teaches you about color-mixing. You place tiles of different colors together, and they mix to form the color that you'd get when say, mixing paint. Perhaps your goal is to create some particular color palette before your opponents create theirs. 
 
