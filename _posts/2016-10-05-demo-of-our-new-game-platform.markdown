@@ -8,9 +8,9 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
 
-The video above shows 3 people playing a prototype of our company's flagship project, a game platform called Automatiles (they may have a different name when they ship. Thinky Blinky Bits?)
+The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (they may have a different name when they ship. Thinky Blinky Bits?)
 
-The game in the video is called Fracture. At the start, the tiles are arranged into bunches, so the tiles of each color are clustered together. Then:
+The game in the video is called Fracture. At the start, the tiles are arranged so the tiles of each color are clustered together. Then:
 
 1. The players take turns.
 
