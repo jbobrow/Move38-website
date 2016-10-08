@@ -9,7 +9,7 @@ tags:
 
 The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (for now; they may have a different name when they ship. Thinky Blinky Bits?)
 
-The pieces are tiny computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
+The game pieces are little computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
 The game in the video is an early demo game called Fracture. At the start, the tiles are arranged so the tiles of each color are clustered together. Then:
 
@@ -23,7 +23,7 @@ The game in the video is an early demo game called Fracture. At the start, the t
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is so annoying it's game-breaking. Automatiles show you when they're happy. They can do all sorts of bookkeeping that would otherwise make all sorts of table games impossible.
+1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is game-breakingly annoying. Automatiles show you when they're happy. They can do bookkeeping that would otherwise make all sorts of table games impossible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 
