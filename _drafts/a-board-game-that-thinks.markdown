@@ -37,7 +37,7 @@ Note Fracture won't be playable with the base set, which won't have enough tiles
 
 Now we get to design a bunch of games, far and away my favorite thing to do in life (we may also hold a design contest if there's interest) Here are a few ideas we're toying with for initial games:
 
-1. **A "hidden movement" game** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))), except there's an AI agent hiding in the tiles and the players have to cooperate to find it.
+1. **A "hidden movement" game** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))), except there's an AI agent hiding in the tiles and the players have to cooperate to find and capture it.
 
 2. **Solo puzzles** where the tiles are happy when they are arranged in some particular configuration, and they get happier the closer you get to it.
 
