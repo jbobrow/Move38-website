@@ -9,7 +9,7 @@ tags:
 
 The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (for now; they may have a different name when they ship. Thinky Blinky Bits?)
 
-The pieces are tiny computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're very easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code. 
+The pieces are tiny computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
 The game in the video is an early demo game called Fracture. At the start, the tiles are arranged so the tiles of each color are clustered together. Then:
 
@@ -23,7 +23,7 @@ The game in the video is an early demo game called Fracture. At the start, the t
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is so annoying it's game-breaking. Automatiles show you when they're happy. They can do all sorts of bookkeeping that would otherwise make all sorts of table games impossible. 
+1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is so annoying it's game-breaking. Automatiles show you when they're happy. They can do all sorts of bookkeeping that would otherwise make all sorts of table games impossible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 
@@ -37,11 +37,11 @@ Note Fracture won't be playable with the base set, which won't have enough tiles
 
 Now we get to design a bunch of games, far and away my favorite thing to do in life (we may also hold a design contest if there's interest) Here are a few ideas we're toying with for initial games:
 
-1. **A "hidden movement game"** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))), except there's an AI agent hiding in the tiles and the players have to cooperate to find it. 
+1. **A "hidden movement" game** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))), except there's an AI agent hiding in the tiles and the players have to cooperate to find it.
 
 2. **Solo puzzles** where the tiles are happy when they are arranged in some particular configuration, and they get happier the closer you get to it.
 
-3. **A flicking game** where you flick tiles across the table with your finger in an attempt to get them to attach in specific ways, and thus trigger events like chain reactions, light shows, etc. 
+3. **A flicking game** where you flick tiles across the table with your finger in an attempt to get them to attach in specific ways, and thus trigger events like chain reactions, light shows, etc.
 
 4. **A game that teaches you about color-mixing**. You place tiles of different colors together, and they mix to form the color that you'd get when mixing paint or light. Perhaps your goal is to create some particular color palette before your opponents create theirs.
 
