@@ -1,5 +1,5 @@
 ---
-title: The first demo of our new game platform
+title: A board game that can think for itself
 date: 2016-10-05 11:06:00 -04:00
 tags:
 - fracture
