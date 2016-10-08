@@ -45,9 +45,9 @@ So now we get to design a bunch of games, which is my far and away my favorite t
 
 4. **A game that teaches you about color-mixing**. You place tiles of different colors together, and they mix to form the color that you'd get when say, mixing paint. Perhaps your goal is to create some particular color palette before your opponents create theirs.
 
-5. **Each tile is a magic rune**, and each contains its own spell (exerts a unique effects on other tiles). Players take turns casting spells by attaching their runes to a growing array on the table, until some winning condition is reached. Because the system is open source, players could invent, program, and distribute their own runes. There could even be a metagame economy where players make fake or real money by selling the runes they invent to other players.
+5. **Each tile is a magic rune**, and each contains its own spell (exerts a unique effects on other tiles). Players take turns casting spells by attaching their runes to a growing array on the table, until some winning condition is reached. Because the system is open source, players could invent, program, and distribute their own runes. There could even be a meta-game economy where players sell the runes they invent.
 
-While we're at it, here's a poll where you can tell us which of the above sounds most interesting to you.
+While we're at it, [here's a poll where you can rank these ideas](https://docs.google.com/forms/d/e/1FAIpQLSf-Cb1Pyuq1FxUHXz_KiL4zICfQlY-6-H-PvLKKPCzfCE1BoQ/viewform) according to how much they appeal to you. We're grateful for feedback.
 
 There's a lot more where that came from. Here's our current stack of game concepts for the system:
 
