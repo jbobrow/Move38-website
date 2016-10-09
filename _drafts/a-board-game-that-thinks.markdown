@@ -11,7 +11,7 @@ The video above shows 3 people playing a prototype of our flagship project, a ga
 
 The game pieces are little computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
-The game in the video is an early demo called Fracture. At the start, the tiles are arranged so like-colors are clustered together. Then:
+The game in the video is an early demo called Fracture. At the start, the tiles are arranged in same-color clusters. Then:
 
 1. The players take turns.
 
@@ -23,7 +23,7 @@ The game in the video is an early demo called Fracture. At the start, the tiles 
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is game-breakingly annoying. Automatiles show you when they're happy. They can do bookkeeping that would otherwise make lots of games impossible.
+1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is game-breakingly annoying. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 
@@ -35,7 +35,7 @@ Note Fracture won't be playable with the base set, which won't have enough tiles
 
 ![automatile-naked.jpg](/uploads/automatile-naked.jpg)
 
-Now we get to design a bunch of games, far and away my favorite thing to do in life (we may also hold a design contest if there's interest) Here are a few ideas we're toying with for initial games:
+Now we get to design a bunch of games, far and away my favorite thing to do in life (we may also hold a design contest if there's interest) Here are a few ideas:
 
 1. **A "hidden movement" game** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))): there's an AI agent hiding in the tiles and the players cooperate to find and capture it.
 
