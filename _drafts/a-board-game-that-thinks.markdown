@@ -11,7 +11,7 @@ The video above shows 3 people playing a prototype of our flagship project, a ga
 
 The game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
-The game in the video is an early demo called Fracture, a game about maximizing diversity. It was designed in collaboration with [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), Associate Professor at [Northeastern’s game design program](http://www.northeastern.edu/camd/gamedesign/). Jon told her they could go from concept to implementation in 3 hours. In fact, they ended up going from *no* concept to implementation in that time. Here's how it works:
+The game in the video is an early demo called Fracture, a game about maximizing diversity. It was designed in collaboration with [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), director of [Northeastern’s game design program](http://www.northeastern.edu/camd/gamedesign/). Jon told her they could go from concept to implementation in 3 hours. In fact they ended up going from *no* concept to implementation in that time. Here's how it works:
 
 At the start, the tiles are arranged in same-color clusters. Then:
 
@@ -31,7 +31,7 @@ Fracture illustrates a few features of the system:
 
 3. The tiles were born of our love for the tactile, social nature of board games, and we designed them to retain that magic. When you play, you don’t feel like you’re playing a video game on a table; you feel like you’re playing a board game that can think.
 
-There are one or two glitchy moments in the video because this is a prototype , but you get the idea.
+There are one or two glitchy moments in the video because this is a prototype , but you get the idea. Fracture will be on display at IndieCade in Los Angeles from October 12-15th (this weekend!).
 
 Note Fracture won't be playable with the base set, which won't have enough tiles for it. Luckily, there are lots of things the tiles can do because of their braaaains:
 
