@@ -39,7 +39,7 @@ Now we get to design a bunch of games, far and away my favorite thing to do in l
 
 1. **A "hidden movement" game** (think [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard_(board_game))): there's an AI agent hiding in the tiles and the players cooperate to find and capture it.
 
-2. **Solo puzzles** where the tiles are happy when they are arranged in some particular configuration, and they get happier the closer you get to it.
+2. **Solo puzzles** where the tiles want to be arranged in some particular configuration, and they glow with anticipation and celebrate their completion.
 
 3. **A flicking game** where you flick tiles across the table with your finger in an attempt to get them to attach in specific ways, and thus trigger events like chain reactions, light shows, etc.
 
