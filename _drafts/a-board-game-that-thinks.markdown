@@ -25,7 +25,7 @@ At the start, the tiles are arranged in same-color clusters. Then:
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because players would have to (manually scan the array to check for happy tiles)(fix this wording), which is game-breakingly annoying. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
+1. It would be hard to play Fracture with inanimate pieces because you wouldn't be able to  see at a glance which tiles are happy. You'd have to check all of each tile's neighbors, which would be both onerous and mistake-prone. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 
