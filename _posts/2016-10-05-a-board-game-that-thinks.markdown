@@ -3,6 +3,7 @@ title: A board game that can think for itself
 date: 2016-10-05 11:06:00 -04:00
 tags:
 - fracture
+- games
 ---
 
 <iframe width="594" height="334" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
