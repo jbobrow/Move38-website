@@ -1,6 +1,6 @@
 ---
 title: A board game that can think for itself
-date: 2016-10-05 11:06:00 -04:00
+date: 2016-10-10 10:30:00 -04:00
 tags:
 - fracture
 - games
