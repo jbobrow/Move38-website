@@ -6,7 +6,7 @@ tags:
 - games
 ---
 
-<iframe width="594" height="334" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
+<iframe max-width="722" max-height="406" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
 
 The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (for now; it may have a different name when it ships. Thinky Blinky Bits?)
 
