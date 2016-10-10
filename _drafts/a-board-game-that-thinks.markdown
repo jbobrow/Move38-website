@@ -11,9 +11,9 @@ The video above shows 3 people playing a prototype of our flagship project, a ga
 
 The game pieces are little computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
-\(insert the 3 points about Fracture: Celia Pearce, Theme, and IndieCade presence)
+The game in the video is an early demo called Fracture, a game about maximizing diversity. It was designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), director of [Northeastern’s game design program](http://www.northeastern.edu/camd/gamedesign/). Jon told her they could go from concept to implementation in 3 hours. In fact they ended up going from *no* concept to implementation in that time. Here's how it works:
 
-The game in the video is an early demo called Fracture. At the start, the tiles are arranged in same-color clusters. Then:
+At the start, the tiles are arranged in same-color clusters. Then:
 
 1. The players take turns.
 
@@ -56,6 +56,8 @@ There's a lot more where that came from. Here's our current stack of game concep
 ![tile-concepts.JPG](/uploads/tile-concepts.JPG)
 
 That's right, we design with notecards in a wood-paneled room. We don't live in the future ALL the time.
+
+If you're interested in developing games for the system, you can sign up for our developer list [here](http://eepurl.com/cjmjqT).
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
