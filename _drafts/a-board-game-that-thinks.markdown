@@ -11,6 +11,8 @@ The video above shows 3 people playing a prototype of our flagship project, a ga
 
 The game pieces are little computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
+(insert the 3 points about Fracture: Celia Pearce, Theme, and IndieCade presence)
+
 The game in the video is an early demo called Fracture. At the start, the tiles are arranged in same-color clusters. Then:
 
 1. The players take turns.
@@ -23,7 +25,7 @@ The game in the video is an early demo called Fracture. At the start, the tiles 
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because players would have to manually scan the array to check for happy tiles, which is game-breakingly annoying. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
+1. It would be hard to play Fracture with inanimate pieces because players would have to (manually scan the array to check for happy tiles)(fix this wording), which is game-breakingly annoying. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 
