@@ -11,7 +11,7 @@ The video above shows 3 people playing a prototype of our flagship project, a ga
 
 The game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
-The game in the video is an early demo called Fracture, a game about maximizing diversity. It was designed in collaboration with [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), Associate Professor at [Northeastern’s game design program](http://www.northeastern.edu/camd/gamedesign/). Jon told her they could go from concept to implementation in 3 hours. In fact they ended up going from *no* concept to implementation in that time. Here's how it works:
+The game in the video is an early demo called Fracture, a game about maximizing diversity. It was designed in collaboration with [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), Associate Professor at [Northeastern’s game design program](http://www.northeastern.edu/camd/gamedesign/). Jon told her they could go from concept to implementation in 3 hours. In fact, they ended up going from *no* concept to implementation in that time. Here's how it works:
 
 At the start, the tiles are arranged in same-color clusters. Then:
 
