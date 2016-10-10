@@ -31,7 +31,7 @@ Fracture illustrates a few features of the system:
 
 3. The tiles were born of our love for the tactile, social nature of board games, and we designed them to retain that magic. When you play, you don’t feel like you’re playing a video game on a table; you feel like you’re playing a board game that can think.
 
-There are one or two glitchy moments in the video because this is a prototype , but you get the idea. Fracture will be on display at IndieCade in Los Angeles from October 12-15th (this weekend!).
+There are one or two glitchy moments in the video because this is a prototype , but you get the idea. Fracture will be on display [at IndieCade in Los Angeles](http://www.indiecade.com/games/selected/fracture-automatiles) from October 12-15th (this weekend!).
 
 Note Fracture won't be playable with the base set, which won't have enough tiles for it. Luckily, there are lots of things the tiles can do because of their braaaains:
 
