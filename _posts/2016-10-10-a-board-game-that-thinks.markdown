@@ -60,6 +60,8 @@ That's right, we design with notecards in a wood-paneled room. We don't live in 
 
 If you're interested in developing games for the system, you can sign up for our developer list [here](http://eepurl.com/cjmjqT).
 
+If you'd like to follow our work (and be alerted when our games launch), sign up here:
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
