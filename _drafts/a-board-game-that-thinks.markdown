@@ -5,13 +5,13 @@ tags:
 - fracture
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
+<iframe width="594" height="334" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
 
 The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (for now; it may have a different name when it ships. Thinky Blinky Bits?)
 
 The game pieces are little computers. They can think, remember, communicate, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
-(insert the 3 points about Fracture: Celia Pearce, Theme, and IndieCade presence)
+\(insert the 3 points about Fracture: Celia Pearce, Theme, and IndieCade presence)
 
 The game in the video is an early demo called Fracture. At the start, the tiles are arranged in same-color clusters. Then:
 
