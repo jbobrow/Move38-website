@@ -17,6 +17,6 @@ You know why you're here. Let's get down to it:
 
 6. Normally we'd stop after 6 bullet points because that's the number of sides a hexagon has, but hexagons are so cool we have to keep going. 
 
-7. Hexagons tile the plane with the minimum total perimeter length. Meaning if you draw a tiled plane, you'll minimize wear and tear on your pencil. 
+7. Hexagons tile the plane with the minimum total perimeter. Meaning if you draw a tiled plane, you'll minimize wear and tear on your pencil if you use hexagons to do it. 
 
 
