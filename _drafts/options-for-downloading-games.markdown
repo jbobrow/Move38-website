@@ -13,7 +13,7 @@ To recap:
 
 > the game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They’re open source so you can invent your own games for them, and they’re easy to program (Arduino!), so they’re also a tool for kids to learn code.
 
-This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". 
+This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess".
 
 \[insert video\]
 
@@ -55,6 +55,6 @@ But we're not sure we fully understand the parameters of the problem yet. If you
 
 ## one last thing
 
-We're looking for electrical engineers to join our team. 
+We're looking for electrical engineers to join our team.
 
 If you or someone you know is one, likes where we're headed, and gets the process of building open source hardware (i.e. Arduino), contact jobs@move38.com
