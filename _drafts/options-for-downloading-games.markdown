@@ -1,5 +1,5 @@
 ---
-title: When a board game can think for itself, how do you tell it what to do?
+title: When a table game can think for itself, how do you tell it what to do?
 date: 2016-10-15 12:56:00 -04:00
 tags:
 - design
