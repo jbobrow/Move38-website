@@ -15,7 +15,7 @@ To recap:
 
 This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess".
 
-\[insert video\]
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
 
 In keeping with our open philosophy, today I'm discussing a design issue we're facing. We hope you'll read it and offer your opinion. It has to do with this bit:
 
