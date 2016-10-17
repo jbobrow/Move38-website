@@ -13,7 +13,7 @@ To recap:
 
 > the game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They’re open source so you can invent your own games for them, and they’re easy to program (Arduino!), so they’re also a tool for kids to learn code.
 
-This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". The reception was warm to say the least. 
+This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". 
 
 \[insert video\]
 
@@ -27,7 +27,7 @@ Right now, you load games into the tiles one-by-one, by removing their covers an
 
 ![IMG_0992.JPG](/uploads/IMG_0992.JPG)
 
-...which is fine for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year olds are crazy in love with the tiles, so switching games must be easy for them.
+...which is fine for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year olds are crazy in love with the tiles, so switching games must be easy even for them.
 
 We need a loading method with the following characteristics:
 
