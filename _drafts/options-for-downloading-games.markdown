@@ -12,7 +12,7 @@ To recap:
 
 > the game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They’re open source so you can invent your own games for them, and they’re easy to program (Arduino!), so they’re also a tool for kids to learn code.
 
-Here's a video we recorded at IndieCade over the weekend:
+Here's a video we recorded at IndieCade this past weekend:
 
 \[insert video\]
 
