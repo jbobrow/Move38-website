@@ -1,5 +1,6 @@
 ---
-title: When board game components can think, how do you tell them what to do?
+title: When board game components can think for themselves, how do you tell them what
+  to do?
 date: 2016-10-15 12:56:00 -04:00
 ---
 
