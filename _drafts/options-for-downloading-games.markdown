@@ -3,7 +3,7 @@ title: When a board game can think for itself, how do you tell it what to do?
 date: 2016-10-15 12:56:00 -04:00
 ---
 
-Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing. It's called Automatiles (but I'm hesitant to use that name because it might be called something different by the time we sell it). 
+Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing. We're calling it AutomaTiles for now.
 
 ![Fracture_hands_01.jpg](/uploads/Fracture_hands_01.jpg)
 
@@ -11,31 +11,31 @@ To recap:
 
 > the game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They’re open source so you can invent your own games for them, and they’re easy to program (Arduino!), so they’re also a tool for kids to learn code.
 
-Here's a video we recorded at IndieCade this past weekend:
+This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name; not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". The reception was warm to say the least. 
 
 \[insert video\]
 
-Today I'm discussing a design issue we're facing. Maybe you'll read it and give us your opinion. It has to do with this bit: 
+In keeping with our open philosophy, today I'm discussing a design issue we're facing. We hope you'll read it and offer your opinion. It has to do with this bit:
 
 > you can load new games into them
 
-The question is: how? 
+The question is: how?
 
-Right now, you have to load games into each tile separately by removing their covers and getting into the hardware, like this: 
+Right now, you have to load games into each tile separately by removing their covers and getting into the hardware, like this:
 
 ![IMG_0992.JPG](/uploads/IMG_0992.JPG)
 
-...which is ok for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year olds are especially in love with the tiles, so switching games must be easy for them. 
+...which is fine for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year olds are crazy in love with the tiles, so switching games must be easy for them.
 
 We need a loading method with the following characteristics:
 
 1. downloading a game should happen at the press of a button
 
-2. a game should download into all the tiles at once, instead of one-by-one. 
+2. the user shouldn't have to load tiles one-by-one.
 
-3. downloading shouldn't require taking the tiles apart.
+3. downloading shouldn't require taking the tiles apart
 
-Luckily we have two good options, but we haven't decided which to implement: 
+Luckily we have two good options, but we haven't decided which to implement:
 
 ## Option #1 - download from phone via Bluetooth
 
@@ -43,12 +43,12 @@ One of the tiles will communicate with your phone by Bluetooth, and there'll be 
 
 ## Option #2  - games on tiles
 
-Each tile will come with a game preprogrammed on it. When you want to play a new game, you attach the tile with the game you want to all the other tiles and hold and press its top. It then sends instructions to all the other tiles. 
+Each tile will come with a game preprogrammed on it. When you want to play a new game, you attach the tile with the game you want to all the other tiles and hold and press its top. It then sends instructions to all the other tiles.
 
-Here are the strengths and weaknesses of these options as we now understand them: 
+Here are the strengths and weaknesses of these options as we now understand them:
 
-\[insert table\]
+![Screen Shot 2016-10-17 at 8.56.44 AM.png](/uploads/Screen%20Shot%202016-10-17%20at%208.56.44%20AM.png)
 
-But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's our entire reason for posting this. We want to suck the knowledge from your delicate brain and leave you a desiccated, ignorant husk.  
+But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's our entire reason for posting this. We want to suck the knowledge from your smart, juicy brain and leave you a desiccated, ignorant husk.
 
 \[solicit team members\]
