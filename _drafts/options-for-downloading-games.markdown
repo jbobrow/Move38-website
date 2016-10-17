@@ -34,7 +34,7 @@ We need a loading method with the following characteristics:
 
 2. a game should download into all the tiles at once, instead of one-by-one. 
 
-3. downloading shouldn't require taking the pieces apart.
+3. downloading shouldn't require taking the tiles apart.
 
 Luckily we have two good options, but we haven't decided which to implement: 
 
