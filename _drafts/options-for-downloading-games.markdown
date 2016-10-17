@@ -1,6 +1,8 @@
 ---
 title: When a board game can think for itself, how do you tell it what to do?
 date: 2016-10-15 12:56:00 -04:00
+tags:
+- design
 ---
 
 Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing. We're calling it AutomaTiles for now.
@@ -11,7 +13,7 @@ To recap:
 
 > the game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They’re open source so you can invent your own games for them, and they’re easy to program (Arduino!), so they’re also a tool for kids to learn code.
 
-This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name; not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". The reception was warm to say the least. 
+This past weekend, a game designed by [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), [Mike Lazer-Walker](http://lazerwalker.com/) (his real name / not his Star Wars name) and company was a finalist at [IndieCade](http://www.indiecade.com/). For 3 days, Jonathan watched hundreds up people play, in the words of Mike, "a futuristic cyber chess". The reception was warm to say the least. 
 
 \[insert video\]
 
@@ -37,11 +39,11 @@ We need a loading method with the following characteristics:
 
 Luckily we have two good options, but we haven't decided which to implement:
 
-## Option #1 - download from phone via Bluetooth
+## option #1 - download from phone via Bluetooth
 
 One of the tiles will communicate with your phone by Bluetooth, and there'll be an app that comes with the tiles. When you want to play a new game, you open the app and select the game you want to play. The phone zaps the instructions to the tile with Bluetooth, and when that tile is attached to all the other tiles, it sends instructions to them via their normal communication (infrared)
 
-## Option #2  - games on tiles
+## option #2  - games on tiles
 
 Each tile will come with a game preprogrammed on it. When you want to play a new game, you attach the tile with the game you want to all the other tiles and hold and press its top. It then sends instructions to all the other tiles.
 
@@ -49,6 +51,10 @@ Here are the strengths and weaknesses of these options as we now understand them
 
 ![Screen Shot 2016-10-17 at 8.56.44 AM.png](/uploads/Screen%20Shot%202016-10-17%20at%208.56.44%20AM.png)
 
-But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's our entire reason for posting this. We want to suck the knowledge from your smart, juicy brain and leave you a desiccated, ignorant husk.
+But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's our entire reason for posting this. We want to suck the knowledge from your succulent brain and leave it a desiccated, ignorant husk.
 
-\[solicit team members\]
+## one last thing
+
+We're looking for electrical engineers to join our team. 
+
+If you or someone you know is one, likes where we're headed, and gets the process of building open source hardware (i.e. Arduino), contact jobs@move38.com
