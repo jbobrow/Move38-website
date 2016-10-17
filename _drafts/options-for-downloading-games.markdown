@@ -23,7 +23,7 @@ In keeping with our open philosophy, today I'm discussing a design issue we're f
 
 The question is: how?
 
-Right now, you have to load games into each tile separately by removing their covers and getting into the hardware, like this:
+Right now, you load games into the tiles one-by-one, by removing their covers and getting into the hardware, like this:
 
 ![IMG_0992.JPG](/uploads/IMG_0992.JPG)
 
