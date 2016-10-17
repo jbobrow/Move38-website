@@ -5,7 +5,7 @@ tags:
 - design
 ---
 
-Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing. We're calling it AutomaTiles for now.
+Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing, called AutomaTiles (for now).
 
 ![Fracture_hands_01.jpg](/uploads/Fracture_hands_01.jpg)
 
@@ -37,7 +37,7 @@ We need a loading method with the following characteristics:
 
 3. downloading shouldn't require taking the tiles apart
 
-Luckily we have two good options, but we haven't decided which to implement:
+We have two options which meet these criteria, but we haven't decided which to implement:
 
 ## option #1 - download from phone via Bluetooth
 
