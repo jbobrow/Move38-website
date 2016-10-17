@@ -50,6 +50,6 @@ Here are the strengths and weaknesses of these options as we now understand them
 
 \[insert table\]
 
-But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's basically our entire reason for posting this. We want to suck all the knowledge from your delicate brain and leave you a desiccated, ignorant husk.  
+But we're not sure we fully understand the parameters of the problem yet. If you have a preference for one of these options, or know of strengths or weaknesses we've missed, let us know in the comments. That's our entire reason for posting this. We want to suck the knowledge from your delicate brain and leave you a desiccated, ignorant husk.  
 
 \[solicit team members\]
