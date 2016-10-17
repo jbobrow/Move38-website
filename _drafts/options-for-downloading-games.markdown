@@ -1,6 +1,6 @@
 ---
 title: When a table game can think for itself, how do you tell it what to do?
-date: 2016-10-15 12:56:00 -04:00
+date: 2016-10-17 12:00:00 -04:00
 tags:
 - design
 ---
