@@ -25,7 +25,7 @@ Right now, you have to load games into each tile separately by removing their co
 
 ![IMG_0992.JPG](/uploads/IMG_0992.JPG)
 
-...which is ok for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year-olds are especially in love with the tiles, so switching games must be easy for them. 
+...which is ok for tinkerers and programmers but not for people who just want to play games. We've learned 6-12 year olds are especially in love with the tiles, so switching games must be easy for them. 
 
 We need a loading method with the following characteristics:
 
