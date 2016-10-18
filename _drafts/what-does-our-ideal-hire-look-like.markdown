@@ -13,4 +13,6 @@ First, there are the straightforward, easy-to-articulate requirements. We're loo
 
 * 
 
-But that's the easy stuff. 
+But these basic requirements are the easy stuff, necessary but not required for us to achieve our dream outcome. What's our dream outcome?
+
+**We help each other work super intelligently, have lots and lots of fun, and become great friends and project partners for life. **
