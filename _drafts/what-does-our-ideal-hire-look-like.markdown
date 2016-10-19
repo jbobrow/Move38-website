@@ -3,7 +3,7 @@ title: Who is our ideal hire?
 date: 2016-10-18 09:57:00 -04:00
 ---
 
-We're looking for an electrical engineer to add our team and thought it would be useful to outline what we're looking for in more expansive terms than one usually sees in job solicitations.
+We're looking for an electrical engineer to add our team and thought it would be useful to outline what we're looking for in more expansive terms than one usually finds in job solicitations.
 
 **the basics**
 
@@ -41,16 +41,16 @@ At present, our team consists of only two people: the incomparable [Jonathan Bob
 
 \[image\]
 
-One thing attracting me to this project is the immediate psychological safety I felt with Jonathan the moment we met. This manifests for me, for example, in the fact that I feel free to discuss my failures with him, something I often find very hard to do, because I have a strong fear of disappointing both myself and others. I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
+One thing attracting me to this project is the immediate psychological safety I felt with Jonathan upon meeting. This manifests for me, for example, in the fact that I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
+
+But this begs the question: how do we find team members that contribute to a culture psychological safety? 
 
 The other 4 predictive factors were:
 
->**Dependability:** Can we count on each other to do high quality work on time?
-> 
->**Structure & clarity:** Are goals, roles, and execution plans on our team clear?
+> **Dependability:** Can we count on each other to do high quality work on time?
 >
->Meaning of work:** Are we working on something that is personally important for each of us?
+> **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 >
->Impact of work:** Do we fundamentally believe that the work we’re doing matters?
-
-All of this is entirely consistent with my own experience. I've been in situations where it was ferociously difficult to work hard and well, and in others where it was effortless. The differentiating factor seems to have been the people I was working with, not the work itself. I think I could enjoy cleaning port-a-potties if I were surrounded by the right people.
+> **Meaning of work:** Are we working on something that is personally important for each of us?
+>
+> **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
