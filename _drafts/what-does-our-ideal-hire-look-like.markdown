@@ -3,7 +3,7 @@ title: Who is our ideal hire?
 date: 2016-10-18 09:57:00 -04:00
 ---
 
-We're looking for an electrical engineer to add to our team and decided it will be useful to outline what we're looking for in more expansive terms than one usually finds in job solicitations. 
+We're looking for an electrical engineer to add to our team and decided it useful to outline what we're looking for in more expansive terms than one usually finds in job solicitations. 
 
 **the basics**
 
