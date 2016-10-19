@@ -45,15 +45,12 @@ One thing attracting me to this project is the immediate psychological safety I 
 
 The other 4 predictive factors were:
 
-> 2. **Dependability:** Can we count on each other to do high quality work on time?
+>**Dependability:** Can we count on each other to do high quality work on time?
+> 
+>**Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 >
+>Meaning of work:** Are we working on something that is personally important for each of us?
 >
-> 3. **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
->
->
-> 4. **Meaning of work:** Are we working on something that is personally important for each of us?
->
->
-> 5. **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
+>Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 
 All of this is entirely consistent with my own experience. I've been in situations where it was ferociously difficult to work hard and well, and in others where it was effortless. The differentiating factor seems to have been the people I was working with, not the work itself. I think I could enjoy cleaning port-a-potties if I were surrounded by the right people.
