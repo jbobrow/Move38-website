@@ -13,7 +13,7 @@ First, there are the straightforward requirements. We're looking for:
 
 * 
 
-But these basic requirements are the easy stuff, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+But the basics are the easy stuff, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 *We help each other work and think with uncommon intelligence, have more fun than anyone has a right to expect, and become great friends and project partners for life.*
 
