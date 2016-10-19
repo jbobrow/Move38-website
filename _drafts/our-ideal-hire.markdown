@@ -3,9 +3,11 @@ title: Who is our ideal hire?
 date: 2016-10-18 09:57:00 -04:00
 ---
 
+\(This will be more interesting reading than you probably assume)
+
 We're looking for an electrical engineer to add to our team. 
 
-Because we believe hiring decisions are the most important decisions we'll make as we build this business, we decided to outline what we're looking for in more expansive terms than one usually finds in job solicitations. Here goes! 
+Because we believe hiring decisions are the most important decisions we make, we decided to discuss what we're looking for in more expansive terms than one usually finds in job solicitations. 
 
 **The Basics**
 
