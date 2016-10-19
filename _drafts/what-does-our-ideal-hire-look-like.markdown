@@ -23,7 +23,7 @@ But these basic requirements are the easy stuff, necessary but not sufficient fo
 
 * we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree. That's ok.
 
-* we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with that ideal outcome, and sometimes we aren't. For example just now I ate way too much chocolate, and my tummy ache is limiting the amount of fun I could be having.
+* we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with that ideal outcome, and sometimes we aren't. For example just now I ate way too much chocolate and my tummy ache is limiting the amount of fun I could be having.
 
 **So what are the less-obvious requirements?**
 
