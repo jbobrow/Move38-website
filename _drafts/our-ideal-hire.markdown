@@ -33,7 +33,7 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all are individually qualified enough to be hired by Google) than on how they treat and relate to each other.
 
-They identified 5 factors that collectively predict the productivity of Google's internal teams. Far and away, the most important factor is *psychological safety.*
+They identified 5 factors that collectively predict the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
@@ -45,7 +45,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the instant safety I felt with Jonathan upon meeting, which has continued. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the instant safety I felt with Jonathan upon meeting, which has continued. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 So  do we find team members that contribute to a culture psychological safety? 
 
