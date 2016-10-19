@@ -3,11 +3,11 @@ title: Who is our ideal hire?
 date: 2016-10-18 09:57:00 -04:00
 ---
 
-\(This will be more interesting reading than you probably assume)
+\(This will be more interesting than you probably assume)
 
-We're looking for an electrical engineer to add to our team. 
+We're looking for an electrical engineer to add to our team.
 
-Because we believe hiring decisions are the most important decisions we make, we decided to discuss what we're looking for in more expansive terms than one usually finds in job solicitations. 
+Because we believe hiring decisions are the most important decisions we make, we decided to discuss what we're looking for in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
@@ -25,7 +25,7 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 * we acknowledge it's a tall order.
 
-* we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree. 
+* we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree.
 
 * we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with our ideal, and sometimes we aren't. For example just now I ate way too much chocolate and my tummy ache is limiting the amount of fun I could be having.
 
@@ -47,7 +47,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 One thing attracting me to Move38 is the instant safety I felt with Jonathan upon meeting, which has continued. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
-So  do we find team members that contribute to a culture psychological safety? 
+So  do we find team members that contribute to a culture psychological safety?
 
 .....
 
