@@ -41,7 +41,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to this project is the immediate psychological safety I felt with Jonathan upon meeting. For example I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to this project is the instant safety I felt with Jonathan upon meeting, which has continued. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 So  do we find team members that contribute to a culture psychological safety? 
 
