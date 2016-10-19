@@ -27,7 +27,7 @@ But these basic requirements are the easy stuff, necessary but not sufficient fo
 
 **So what are the less-obvious requirements?**
 
-Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting the productivity of a team depends less on the qualifications of its members than on how they treat and relate to each other.
+Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members than on how they treat and relate to each other.
 
 They identified 5 factors that collectively predicted the productivity of Google's internal teams. Far and away, the most important factor was something they dubbed *psychological safety.*
 
@@ -41,9 +41,9 @@ At present, our team consists of only two people: the incomparable [Jonathan Bob
 
 \[image\]
 
-One thing attracting me to this project is the instant psychological safety I felt with Jonathan upon meeting. This manifests for me, for example, in that I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
+One thing attracting me to this project is the immediate psychological safety I felt with Jonathan upon meeting. For example I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
 
-But this begs the question: how do we find team members that contribute to a culture psychological safety? 
+So  do we find team members that contribute to a culture psychological safety? 
 
 The other 4 predictive factors were:
 
