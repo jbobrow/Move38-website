@@ -25,7 +25,7 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 * we acknowledge it's a tall order.
 
-* we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree. That's ok.
+* we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree. 
 
 * we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with our ideal, and sometimes we aren't. For example just now I ate way too much chocolate and my tummy ache is limiting the amount of fun I could be having.
 
