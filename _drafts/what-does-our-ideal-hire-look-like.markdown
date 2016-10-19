@@ -45,6 +45,8 @@ One thing attracting me to this project is the immediate psychological safety I 
 
 So  do we find team members that contribute to a culture psychological safety? 
 
+.....
+
 The other 4 predictive factors were:
 
 > **Dependability:** Can we count on each other to do high quality work on time?
