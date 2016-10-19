@@ -7,7 +7,7 @@ We're looking for an electrical engineer to add to our team and decided to outli
 
 **the basics**
 
-First, there are the straightforward, easy-to-articulate requirements. We're looking for:
+First, there are the straightforward requirements. We're looking for:
 
 * 
 
