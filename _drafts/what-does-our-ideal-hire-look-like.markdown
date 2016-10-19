@@ -27,13 +27,13 @@ But these basic requirements are the easy stuff, necessary but not sufficient fo
 
 **So what are the less-obvious requirements?**
 
-Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members than on how they treat and relate to each other.
+Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind that all of them are individually qualified enough to be hired by Google) than on how they treat and relate to each other.
 
 They identified 5 factors that collectively predicted the productivity of Google's internal teams. Far and away, the most important factor was something they dubbed *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
-At present, our team consists of only two people: the incomparable [Jonathan Bobrow:](http://cargo.jonathanbobrow.com/)
+At present, our team consists of two people: the incomparable [Jonathan Bobrow:](http://cargo.jonathanbobrow.com/)
 
 \[image\]
 
