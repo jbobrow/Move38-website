@@ -31,7 +31,7 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 **So what are the less-obvious requirements?**
 
-Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all are individually qualified enough to be hired by Google) than on how they treat and relate to each other.
+Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they treat and relate to each other.
 
 They identified 5 factors that collectively predict the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
 
