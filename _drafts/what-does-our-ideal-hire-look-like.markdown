@@ -3,7 +3,7 @@ title: Who is our ideal hire?
 date: 2016-10-18 09:57:00 -04:00
 ---
 
-We're looking for an electrical engineer to add our team and thought it would be useful to outline what we're looking for in more expansive terms than one usually finds in job solicitations.
+We're looking for an electrical engineer to add to our team and decided it will be useful to outline what we're looking for in more expansive terms than one usually finds in job solicitations. 
 
 **the basics**
 
@@ -41,7 +41,7 @@ At present, our team consists of only two people: the incomparable [Jonathan Bob
 
 \[image\]
 
-One thing attracting me to this project is the immediate psychological safety I felt with Jonathan upon meeting. This manifests for me, for example, in the fact that I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
+One thing attracting me to this project is the instant psychological safety I felt with Jonathan upon meeting. This manifests for me, for example, in that I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing people (and myself). I cherish this feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and nervously hoping no one notices.
 
 But this begs the question: how do we find team members that contribute to a culture psychological safety? 
 
