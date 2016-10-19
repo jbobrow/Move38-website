@@ -56,3 +56,9 @@ The other 4 predictive factors were:
 > **Meaning of work:** Are we working on something that is personally important for each of us?
 >
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
+
+...
+
+Stuff to add: Jim Collin's stuff about getting the right people on the bus in the right seats
+
+Greg popovich stuff
