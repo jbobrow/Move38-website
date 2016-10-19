@@ -5,7 +5,7 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking for an electrical engineer to add to our team and decided to outline what we're looking for in more expansive terms than one usually finds in job solicitations. 
 
-**the basics**
+**The Basics**
 
 First, there are the straightforward requirements. We're looking for:
 
