@@ -53,7 +53,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
@@ -83,9 +83,9 @@ The other 4 predictive factors from Google's study were:
 
 How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
-If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other documentation that might convince us beautiful music will be made, to jobs@move38.com.
+If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other documentation suggesting beautiful music will be made, to jobs@move38.com.
 
-If you're not an electrical engineer, we would be very, very grateful if you forwarded this on to people you know who might be interested. Life is fleeting and we *really* don't want to waste ours or anyone else's time by hiring the wrong person. 
+If you're not an electrical engineer, we'll be grateful to those who forward this on to people you know who might be interested. Life is fleeting and we *really* don't want to waste anyone's time by hiring the wrong person. 
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
