@@ -13,13 +13,13 @@ Because we believe hiring decisions are the most important decisions a business 
 
 First, there are the straightforward requirements. We're looking for:
 
-* a great electrical engineer, with:
+1. a great electrical engineer, with:
 
-* a healthy work ethic and ability to focus (duh), who:
+2. a healthy work ethic and ability to focus (duh), who:
 
-* knows her or his way around open source projects, and who:
+3. knows her or his way around open source projects, and who:
 
-* loves games
+4. loves games
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
