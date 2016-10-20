@@ -5,17 +5,19 @@ date: 2016-10-18 09:57:00 -04:00
 
 \(This will be more interesting than you probably assume)
 
-We're looking for an electrical engineer to add to our team.
+We're looking to hire an electrical engineer.
 
-Because we believe hiring decisions are the most important decisions a business makes, we decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
+Because we believe hiring decisions are the most important decisions a business makes, we've decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
 First, there are the straightforward requirements. We're looking for:
 
-* a healthy work ethic and good focus (duh)
+* a great electrical engineer, with:
 
-* 
+* a healthy work ethic and ability to focus (duh), who:
+
+* knows her or his way around open source projects
 
 But the basics are the easy stuff, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
@@ -29,13 +31,13 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 * we acknowledge it's a tall order.
 
-* we acknowledge that, like most ideals, we'll fail to achieve it in some way or to some degree.
+* we acknowledge we'll fail to achieve it in some way or to some degree. Such are ideals.
 
 * we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with our ideal, and sometimes we aren't. For example just now I ate way too much chocolate and my tummy ache is limiting the amount of fun I could be having.
 
 **So what are the less-obvious requirements?**
 
-Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they treat and relate to each other.
+Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
 They identified 5 factors that collectively predict the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
 
@@ -65,9 +67,9 @@ So  do we find team members that contribute to a culture of psychological safety
 
 * curiosity
 
-How do we find out if someone has these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a specific, short-term project, and if everyone is happy with the results, then we get married. 
+So looking for those traits are top priority.
 
-The other 4 predictive factors were:
+The other 4 predictive factors from Google's study were:
 
 > **Dependability:** Can we count on each other to do high quality work on time?
 >
@@ -77,8 +79,6 @@ The other 4 predictive factors were:
 >
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 
-...
+How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us! 
 
-Stuff to add: Jim Collin's stuff about getting the right people on the bus in the right seats
-
-Greg popovich stuff
+If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume and/or any other documentation that might convince us beautiful music will be made, to jobs@move38.com.
