@@ -21,6 +21,10 @@ First, there are the straightforward requirements. We're looking for:
 
 4. loves games
 
+5. values simplicity over complexity
+
+6. 
+
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 1. *We help each other work, think, and live with uncommon intelligence*
@@ -114,3 +118,9 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 <!--End mc_embed_signup-->
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
+
+to add: 
+
+link to "a board game that thinks"
+
+mention contingent on funding
