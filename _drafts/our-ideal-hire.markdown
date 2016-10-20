@@ -17,7 +17,9 @@ First, there are the straightforward requirements. We're looking for:
 
 * a healthy work ethic and ability to focus (duh), who:
 
-* knows her or his way around open source projects
+* knows her or his way around open source projects, and who:
+
+* loves games
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
