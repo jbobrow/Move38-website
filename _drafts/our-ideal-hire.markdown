@@ -57,7 +57,7 @@ So  do we find team members that contribute to a culture of psychological safety
 
 * an ability to enjoy someone else's success
 
-* prioritizes listening over talking (and yet is happy to talk)
+* prioritizes listening over talking (yet enjoys talking)
 
 * not given to anger or apprehension
 
