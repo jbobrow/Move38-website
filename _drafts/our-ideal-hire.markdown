@@ -19,7 +19,7 @@ First, there are the straightforward requirements. We're looking for:
 
 * knows her or his way around open source projects
 
-But the basics are the easy stuff, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -33,13 +33,13 @@ But the basics are the easy stuff, necessary but not sufficient for our ideal ou
 
 * we acknowledge we'll fail to achieve it in some way or to some degree. Such are ideals.
 
-* we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve this unless we're living and working in ways consistent with our ideal, and sometimes we aren't. For example just now I ate way too much chocolate and my tummy ache is limiting the amount of fun I could be having.
+* we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve it without living and working consistently with our ideal, and sometimes we don't. For example just now I ate way too much chocolate and my tummy ache is limiting the fun I could be having.
 
 **So what are the less-obvious requirements?**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
-They identified 5 factors that collectively predict the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
+They identified 5 factors collectively predicting the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
@@ -51,9 +51,9 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
-So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate: 
+So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
 * a warm sense of humor
 
@@ -79,9 +79,9 @@ The other 4 predictive factors from Google's study were:
 >
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 
-How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us! 
+How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
-If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume and/or any other documentation that might convince us beautiful music will be made, to jobs@move38.com.
+If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other documentation that might convince us beautiful music will be made, to jobs@move38.com.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
