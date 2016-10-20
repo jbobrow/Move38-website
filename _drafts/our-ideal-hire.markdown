@@ -85,7 +85,7 @@ How do we find out if someone has all these traits? Spend lots of time with them
 
 If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other documentation suggesting beautiful music will be made, to jobs@move38.com.
 
-If you're not an electrical engineer, we'll be grateful if you forward this on to people you know who might be interested. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person. 
+If you're not an electrical engineer, we'll be grateful if you forward this to people who might be interested. Life is fleeting and precious and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
