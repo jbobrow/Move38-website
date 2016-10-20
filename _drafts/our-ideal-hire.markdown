@@ -1,5 +1,5 @@
 ---
-title: Who is our ideal hire?
+title: An unusually philosophical job solicitation
 date: 2016-10-18 09:57:00 -04:00
 ---
 
