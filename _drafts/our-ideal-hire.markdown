@@ -41,7 +41,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
-They identified 5 factors collectively predicting the productivity of Google's internal teams. Far and away, the most important factor was *psychological safety.*
+They identified 5 factors collectively predicting the productivity of Google's internal teams. Far and away, the most important was *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
