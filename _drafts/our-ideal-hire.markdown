@@ -119,8 +119,4 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
 
-to add: 
-
 link to "a board game that thinks"
-
-mention contingent on funding
