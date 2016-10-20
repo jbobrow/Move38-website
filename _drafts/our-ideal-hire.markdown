@@ -7,19 +7,23 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking for an electrical engineer to add to our team.
 
-Because we believe hiring decisions are the most important decisions we make, we decided to discuss what we're looking for in more expansive terms than one usually finds in job solicitations.
+Because we believe hiring decisions are the most important decisions we make, we decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
 First, there are the straightforward requirements. We're looking for:
 
-* 
+* a healthy work ethic
 
 * 
 
 But the basics are the easy stuff, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
-*We help each other work, think, and live with uncommon intelligence, have more fun than anyone has a right to expect, and become great friends and project partners for life.*
+1. *We help each other work, think, and live with uncommon intelligence*
+
+2. *We have more fun than anyone has a right to expect*
+
+3. *We become great friends and project partners for life*
 
 **disclaimers**
 
@@ -45,9 +49,21 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the instant safety I felt with Jonathan upon meeting, which has continued. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the instant safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish the feeling because talking about my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
-So  do we find team members that contribute to a culture psychological safety?
+So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate: 
+
+* a non-insult-based sense of humor
+
+* an ability to enjoy someone else's success
+
+* prioritizes listening a little more than talking
+
+* not given to anger or apprehension
+
+* empathy
+
+* curiosity
 
 .....
 
