@@ -23,7 +23,7 @@ First, there are the straightforward requirements. We're looking for:
 
 5. values simplicity over complexity
 
-6. 
+6. relishes thinking wholistically about systems
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
