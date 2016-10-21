@@ -3,8 +3,6 @@ title: An unusually philosophical job solicitation
 date: 2016-10-18 09:57:00 -04:00
 ---
 
-\(This will be more interesting than you probably assume)
-
 We're looking to hire an electrical engineer.
 
 Because we think hiring decisions are the most important decisions a business makes, we've decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
@@ -59,7 +57,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
-So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
+How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
 * a warm sense of humor
 
@@ -85,9 +83,9 @@ The other 4 predictive factors from Google's study were:
 >
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 
-How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
-If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made, to jobs@move38.com.
+If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
 
 If you're not an electrical engineer, we'll be grateful if you forward this to people who might be interested. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
