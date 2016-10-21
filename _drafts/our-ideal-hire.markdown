@@ -31,7 +31,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 3. *We become friends and project partners for life*
 
-**We acknowledge: **
+\*\*We acknowledge: \*\*
 
 * it's a tall order.
 
@@ -59,9 +59,9 @@ One thing attracting me to Move38 is the safety I felt with Jonathan upon meetin
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
-* a warm sense of humor
+* a warm sense of humor - diffuses tension and creates perspective
 
-* an ability to enjoy someone else's success
+* an ability to enjoy someone else's success - we feel safe if we're confident those around us are pulling for us. 
 
 * prioritizes listening over talking (yet enjoys talking)
 
@@ -69,9 +69,9 @@ How  do we find team members that contribute to a culture of psychological safet
 
 * empathy
 
-* curiosity
+* humility
 
-So looking for those traits are top priority.
+* curiosity
 
 The other 4 predictive factors from Google's study were:
 
