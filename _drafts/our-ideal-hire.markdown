@@ -7,7 +7,7 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because we believe hiring decisions are the most important decisions a business makes, we've decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
+Because we think hiring decisions are the most important decisions a business makes, we've decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
@@ -15,15 +15,15 @@ First, there are the straightforward requirements. We're looking for:
 
 1. a great electrical engineer, with:
 
-2. a healthy work ethic and ability to focus (duh), who:
+2. a healthy work ethic and focus, who:
 
-3. knows her or his way around open source projects, and who:
+3. knows her or his way around open source projects
 
-4. loves games
+4. loves games and thinks [this](http://move38.com/blog/a-board-game-that-thinks/) sounds exciting
 
 5. values simplicity over complexity
 
-6. relishes thinking wholistically about systems
+6. relishes thinking holistically about systems
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
@@ -31,21 +31,21 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 2. *We have more fun than anyone has a right to expect*
 
-3. *We become great friends and project partners for life*
+3. *We become friends and project partners for life*
 
-**disclaimers**
+**We acknowledge: **
 
-* we acknowledge it's a tall order.
+* it's a tall order.
 
-* we acknowledge we'll fail to achieve it in some way or to some degree. Such are ideals.
+* we'll fail to achieve it in some way or to some degree. Such are ideals.
 
-* we acknowledge getting there depends as much on us as it does on who we hire. We can't achieve it without living and working consistently with our ideal, and sometimes we don't. For example just now I ate way too much chocolate and my tummy ache is limiting the fun I could be having.
+* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
 
-**So what are the less-obvious requirements?**
+**What are the non-basic requirements?**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
-They identified 5 factors collectively predicting the productivity of Google's internal teams. Far and away, the most important was *psychological safety.*
+They found 5 factors collectively predicted the productivity of Google's internal teams. The most important by far was *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
@@ -57,7 +57,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which has persisted. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 So  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
@@ -87,9 +87,9 @@ The other 4 predictive factors from Google's study were:
 
 How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring someone on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
-If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other documentation suggesting beautiful music will be made, to jobs@move38.com.
+If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made, to jobs@move38.com.
 
-If you're not an electrical engineer, we'll be grateful if you forward this to people who might be interested. Life is fleeting and precious and we don't want to waste anyone's time by hiring the wrong person.
+If you're not an electrical engineer, we'll be grateful if you forward this to people who might be interested. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
@@ -118,5 +118,3 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 <!--End mc_embed_signup-->
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
-
-link to "a board game that thinks"
