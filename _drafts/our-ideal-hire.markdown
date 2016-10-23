@@ -1,5 +1,5 @@
 ---
-title: An unusually philosophical job solicitation
+title: An unusually wordy job solicitation
 date: 2016-10-18 09:57:00 -04:00
 ---
 
