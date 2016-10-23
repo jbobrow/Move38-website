@@ -76,11 +76,8 @@ How  do we find team members that contribute to a culture of psychological safet
 The other 4 predictive factors from Google's study were:
 
 > **Dependability:** Can we count on each other to do high quality work on time?
->
 > **Meaning of work:** Are we working on something that is personally important for each of us?
->
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
->
 > **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
 How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
