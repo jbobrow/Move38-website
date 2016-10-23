@@ -54,4 +54,4 @@ So a core value conflicts with pragmatic advice. What imperative do we honor? We
 
 But this begs again the still-unanswered question: how do we sell a platform?
 
-We have to take pains to creat clear, concise, and evocative demonstrations of the system. To find a way to communicate in no more than 30 seconds that we're offering a new kind of platform *and* that it's awesome.  
+We have to take pains to create clear, concise, and evocative demonstrations of the system. To find a way to communicate in no more than 30 seconds that we're offering a new kind of platform *and* that it's awesome.
