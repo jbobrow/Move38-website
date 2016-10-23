@@ -83,13 +83,13 @@ The other 4 predictive factors from Google's study were:
 >
 > **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
-How do we find out if someone has all these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
-If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
+If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
 
-We're grateful to those who forward this around. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
+We're grateful to those who share this around. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
