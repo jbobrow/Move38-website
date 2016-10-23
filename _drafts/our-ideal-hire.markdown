@@ -5,7 +5,7 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations. 
+Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
@@ -35,9 +35,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 * it's a tall order.
 
-* we'll fail to achieve it to some degree. Such are ideals.
-
-* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. 
+* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
 
 **The non-basics**
 
@@ -63,11 +61,11 @@ How  do we find team members that contribute to a culture of psychological safet
 
 * an ability to enjoy someone else's success
 
-* prioritizes listening over talking (yet enjoys talking) 
+* prioritizes listening over talking (yet enjoys talking)
 
 * not given to anger or apprehension
 
-* empathy 
+* empathy
 
 * humility
 
