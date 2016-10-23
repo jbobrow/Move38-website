@@ -39,7 +39,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 **The non-basics**
 
-Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
+Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
 They found 5 factors collectively predicted the productivity of Google's internal teams. The most important by far was *psychological safety.*
 
