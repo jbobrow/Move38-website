@@ -5,7 +5,7 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because we think hiring decisions are the most important decisions a business makes, we've decided to discuss our hiring goals in more expansive terms than one usually finds in job solicitations.
+Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations.
 
 **The Basics**
 
@@ -21,7 +21,7 @@ First, there are the straightforward requirements. We're looking for:
 
 5. values simplicity over complexity
 
-6. relishes thinking holistically about systems <<this one feels the weakest, difficult to not be vague here, but it is related to something I am interested in finding in someone>>
+6. thinks products are more than the sums of their features
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
@@ -31,13 +31,13 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 3. *We become friends and project partners for life*
 
-\*\*We acknowledge: \*\*
+**We acknowledge:**
 
 * it's a tall order.
 
-* we'll fail to achieve it in some way or to some degree. Such are ideals.
+* we'll fail to achieve it to some degree. Such are ideals.
 
-* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. <<second sentence doesn't read well for me, but I like the example in the third>>
+* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. 
 
 **What are the non-basic requirements?**
 
@@ -55,19 +55,19 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I usually find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
-* a warm sense of humor - diffuses tension and creates perspective
+* a warm sense of humor
 
-* an ability to enjoy someone else's success - we feel safe if we're confident those around us are pulling for us.
+* an ability to enjoy someone else's success
 
-* prioritizes listening over talking (yet enjoys talking)
+* prioritizes listening over talking (yet enjoys talking) 
 
 * not given to anger or apprehension
 
-* empathy
+* empathy 
 
 * humility
 
@@ -77,17 +77,19 @@ The other 4 predictive factors from Google's study were:
 
 > **Dependability:** Can we count on each other to do high quality work on time?
 >
-> **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
->
 > **Meaning of work:** Are we working on something that is personally important for each of us?
 >
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
+>
+> **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
-How do we find out if someone has all these traits? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+How do we find out if someone has all these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a defined, short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+
+![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
 If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
 
-If you're not an electrical engineer, we'll be grateful if you forward this to people who might be interested. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
+We'll be grateful if you forward this to others. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
