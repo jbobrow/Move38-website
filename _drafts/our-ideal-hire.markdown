@@ -9,7 +9,7 @@ Because hiring decisions are the most important decisions a business makes, we'r
 
 **The Basics**
 
-First, there's the straightforward stuff. We're looking for:
+First there's the straightforward stuff. We're looking for:
 
 1. a great electrical engineer, with:
 
