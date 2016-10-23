@@ -9,7 +9,7 @@ Because hiring decisions are the most important decisions a business makes, we'r
 
 **The Basics**
 
-First, there are the straightforward requirements. We're looking for:
+First, there's the straightforward stuff. We're looking for:
 
 1. a great electrical engineer, with:
 
@@ -39,7 +39,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 * success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. 
 
-**What are the non-basic requirements?**
+**The non-basics**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on the qualifications of its members (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
@@ -89,7 +89,7 @@ How do we find out if someone has all these traits (ignoring Structure and Clari
 
 If you're an electrical engineer, you're still reading, we haven't scared you off, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
 
-We'll be grateful if you forward this to others. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
+We're grateful to those who forward this around. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
