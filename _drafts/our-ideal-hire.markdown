@@ -53,7 +53,7 @@ At present, our team consists of two people: the incomparable [Jonathan Bobrow:]
 
 \[image\]
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I usually find hard to do, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
