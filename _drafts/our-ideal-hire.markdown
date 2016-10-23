@@ -37,7 +37,7 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 * we'll fail to achieve it in some way or to some degree. Such are ideals.
 
-* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
+* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. <<second sentence doesn't read well for me, but I like the example in the third>>
 
 **What are the non-basic requirements?**
 
@@ -61,7 +61,7 @@ How  do we find team members that contribute to a culture of psychological safet
 
 * a warm sense of humor - diffuses tension and creates perspective
 
-* an ability to enjoy someone else's success - we feel safe if we're confident those around us are pulling for us. 
+* an ability to enjoy someone else's success - we feel safe if we're confident those around us are pulling for us.
 
 * prioritizes listening over talking (yet enjoys talking)
 
