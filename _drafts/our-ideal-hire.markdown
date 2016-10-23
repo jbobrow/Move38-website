@@ -5,7 +5,7 @@ date: 2016-10-18 09:57:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations.
+Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations. 
 
 **The Basics**
 
@@ -21,7 +21,7 @@ First, there are the straightforward requirements. We're looking for:
 
 5. values simplicity over complexity
 
-6. thinks products are more than the sums of their features
+6. knows products are more than the sums of their features
 
 But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
