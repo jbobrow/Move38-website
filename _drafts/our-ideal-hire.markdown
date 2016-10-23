@@ -45,13 +45,15 @@ They found 5 factors collectively predicted the productivity of Google's interna
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
-At present, our team consists of two people: the incomparable [Jonathan Bobrow:](http://cargo.jonathanbobrow.com/)
+At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jonathanbobrow.com/)
 
 \[image\]
 
-... and [yours truly:](https://nickbentleygames.wordpress.com/)
+...who has nice hair, and [yours truly:](https://nickbentleygames.wordpress.com/)
 
 \[image\]
+
+...who is balding
 
 One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
