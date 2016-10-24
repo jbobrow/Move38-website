@@ -55,6 +55,8 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
 
+<<This part may simply be implied by the stories we tell>>
+
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
 * a warm sense of humor
