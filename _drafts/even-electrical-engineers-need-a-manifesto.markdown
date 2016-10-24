@@ -5,13 +5,21 @@ date: 2016-10-24 02:06:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations. In fact, we really just want you to know us to the core and if you are sitting at your desk at Google, or working on a pet project at home, and feel compelled to reach out, if this speaks to you, we are ready with listening ears. 
+Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals, and what we're about, in more expansive terms than one usually finds in job solicitations.
 
-**Our Vision**
+If what follows speaks to you, get in touch with us. 
 
-Move38 is founded on play as a mode of interaction, a method for learning,  and a space where magic circles exist to provide safe spaces for exploration and self-expression. We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole is not simply the sum of its parts.  We believe that everyone plays games, even those that wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
+## Us
 
-We whole-heartedly believe the work we are doing will change the world for the better. We think that the toys and tools we play with have the ability to shape the way we think. We want to inspire and foster curiosity, the opposite of fear. We want to teach the world new skills, new ways of thinking, and do so when people learn best, while they are having fun. Most schools don't yet know why they need what we do, but they will. 
+We founded Move38 to promote playfulness as a way of life.
+
+We've noticed we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more, and we're happier.   
+
+But playfulness is delicate. We're all born with it but if it's not cultivated, it can wither in the heat of life's hardships. We see ourselves as cultivators. 
+
+as a mode of interaction, a method for learning,  and a space where magic circles exist to provide safe spaces for exploration and self-expression. We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole isn't the sum of its parts.  Everyone plays games, even those who wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
+
+We whole-heartedly believe the work we are doing will change the world for the better. We think that the toys and tools we play with have the ability to shape the way we think. We want to inspire and foster curiosity, the opposite of fear. We want to teach the world new skills, new ways of thinking, and do so when people learn best, while they are having fun. Most schools don't yet know why they need what we do, but they will.
 
 **Team Goals**
 
