@@ -19,9 +19,11 @@ But playfulness is delicate. We're born with it but if it's not cultivated it ca
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).   
 
+It has a friendly, tactile, screenless interface, and feels like a living thing.
+
 Our first prerogative for it is fun, because delight fosters playfulness. If and only if it offers a proper rocking time, it will also encourage its players to think in unfamiliar and valuable ways 
 
-It'll encourage wholistic thinking about systems of simple interacting parts
+Specifically, it'll encourage wholistic thinking about systems of simple interacting parts
 
 We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole isn't the sum of its parts.  Everyone plays games, even those who wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
 
