@@ -17,11 +17,7 @@ We think we're at our best when we're able to approach our lives playfully. Our 
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. So we want to be green thumbs for playfulness. 
 
-Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).   
-
-It has a friendly, tactile, screenless interface, and feels like a living thing.
-
-Our first prerogative for it is fun, because delight fosters playfulness. If and only if it offers a proper rocking time, it will also encourage its players to think in unfamiliar and valuable ways 
+Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a friendly, tactile, screenless interface, it feels like a living thing. It offers a new kind of play experience that fosters valuable and uncommon modes of thinking.  
 
 Specifically, it'll encourage wholistic thinking about systems of simple interacting parts
 
