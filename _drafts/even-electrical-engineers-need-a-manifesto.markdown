@@ -9,15 +9,15 @@ Because hiring decisions are the most important decisions a business makes, we'r
 
 **Our Vision**
 
-Move38 is founded on play as a mode of interaction, a method for learning, and and a space where magic circles exist, providing safe spaces for exploration and self-expression. We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole is not simply the sum of its parts.  We are dedicated to friendly, tactile, interfaces, and  know that screen-based interfaces are not 
+Move38 is founded on play as a mode of interaction, a method for learning, and and a space where magic circles exist, providing safe spaces for exploration and self-expression. We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole is not simply the sum of its parts.  We believe that everyone plays games, even those that wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
 
 **Team Goals**
 
-*We help each other work, think, and live with uncommon intelligence*
+1. *We help each other work, think, and live with uncommon intelligence*
 
-1. *We have more fun than anyone has a right to expect*
+2. *We have more fun than anyone has a right to expect*
 
-2. *We become friends and project partners for life*
+3. *We become friends and project partners for life*
 
 **We acknowledge:**
 
