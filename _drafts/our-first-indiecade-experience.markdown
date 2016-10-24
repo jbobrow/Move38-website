@@ -1,0 +1,26 @@
+---
+title: Our first IndieCade experience
+date: 2016-10-24 13:03:00 -04:00
+---
+
+This blog post is about to be as cheesy as it sounds. Two weeks ago, I got to go to IndieCade for the first time ever, and I absolutely loved it. Everything about the 4 days (3 main festival days) could not have been more enjoyable... well, there was one thing, but I'll get to that.
+
+ First of all, I would like to thank the hundreds of people who not only came out to IndieCade, but in a festival full of video games, said, "sure, I'll try this cyber futuristic board game." Secondly, but really in no particular order, I would like to thank Celia Pearce, for her game design skills and some helpful poking and prodding to actually submit to IndieCade.
+
+The festival started off with a handful of tool building workshops, from starting a company and grant writing to making table-top games workshop. Almost feels like this festival knew what I needed. On day one I met some wonderful developers and designers including [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO (I'll lovingly call Deton-ocho, written Deton8 :)
+
+With my good friend and talented game designer, Mike Lazer-Walker, by my side, I hit the ground running. The first day of the festival only allowed for \~2 hours of playing Fracture, but I ended up extending to 4 hours and packing up only when the staff kindly let us know we needed to leave. The events of the day nearly convinced me that I should buy a ticket for Nick to fly out and join me, I was having so much fun and time was flying. If this was going to be how each day was, I wasn't quite sure how I would sleep, but the answer to that is with a big smile on my face.
+
+Each day continued to build on the previous one, with one amazing player even exclaiming that he had dreamed about playing Fracture again the night before and coming back to see if he could reign champion (which he did). 
+
+Some players approached the game out of the gates with heavy analysis and found the game to be long lasting as they each played defensively, preventing a win condition one move at a time.
+
+Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
+
+Lastly I want to address two topics that were not as happy, but are important and meant a lot to me.
+
+1\. I spoke about Fracture as a "competitive game towards diversity"... I would love to keep this conversation going, please share your thoughts on the matter (respectfully).
+
+The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading or possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become simply a strategic abstract game.
+
+2\. A person playing a game at our table was acting in a way that made another player uncomfortable. I very seriously said that Move38 provides safe-spaces, and that behavior was not allowed, as it compromises someone else's safe-space. This person stopped their behavior, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves.
