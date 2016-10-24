@@ -13,7 +13,7 @@ If what follows speaks to you, get in touch with us.
 
 We founded Move38 to encourage playfulness as a way of life.
 
-We've think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more, and we're happier.   
+We think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more, and we're happier.   
 
 But playfulness is delicate. We're all born with it but if it's not cultivated, it can wither in the heat of life's hardships. So we want to be green thumbs for playfulness. 
 
