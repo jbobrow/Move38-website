@@ -1,5 +1,5 @@
 ---
-title: The Move38 Manifesto, if it speaks to you, you should speak to us.
+title: Even Electrical Engineers need a Manifesto
 date: 2016-10-24 02:06:00 -04:00
 ---
 
