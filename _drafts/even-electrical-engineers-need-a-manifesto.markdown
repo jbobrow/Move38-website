@@ -82,6 +82,10 @@ The other 4 predictive factors from Google's study were:
 
 How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
+**The First Responsibility**
+
+We couldn't be more excited to put AutomaTiles into the hands of all the people our there that want them, but more importantly, we are excited to put a slightly refined version of our current beta into the hands of developers and early adopters alike. The hardware is simple and straight-forward, but needs to be robust. There are few features that need to be added, including power management and understanding costs of components. We have a wonderful relationship with a PCBA house and plan to iterate with them to arrive at the next revisions. Ownership and agency are important to us and we built this tech from the ground up with the help of a wonderful MIT Undergrad, Joshua Sloane. <<I'm fading a bit, so I can revisit in the morning>>
+
 ![xkcd-wedding-cake.jpg](/api/v2/sites/57e500c951359653028d3f3c/source/_uploads/xkcd-wedding-cake.jpg?download)
 
 If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
