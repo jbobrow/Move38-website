@@ -15,9 +15,13 @@ We founded Move38 to encourage playfulness as a way of life.
 
 We think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.   
 
-But playfulness is delicate. We're all born with it but if it's not cultivated, it can wither in the heat of life's hardships. So we want to be green thumbs for playfulness. 
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. So we want to be green thumbs for playfulness. 
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).   
+
+Our first prerogative for it is fun, because delight fosters playfulness. If and only if it offers a proper rocking time, it will also encourage its players to think in unfamiliar and valuable ways 
+
+It'll encourage wholistic thinking about systems of simple interacting parts
 
 We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole isn't the sum of its parts.  Everyone plays games, even those who wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
 
