@@ -5,11 +5,13 @@ date: 2016-10-24 02:06:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations.
+Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals in more expansive terms than one usually finds in job solicitations. In fact, we really just want you to know us to the core and if you are sitting at your desk at Google, or working on a pet project at home, and feel compelled to reach out, if this speaks to you, we are ready with listening ears. 
 
 **Our Vision**
 
 Move38 is founded on play as a mode of interaction, a method for learning, and and a space where magic circles exist, providing safe spaces for exploration and self-expression. We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole is not simply the sum of its parts.  We believe that everyone plays games, even those that wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
+
+We whole-heartedly believe the work we are doing will change the world for the better. We think that the toys and tools we play with have the ability to shape the way we think. We want to inspire and foster curiosity, the opposite of fear. We want to teach the world new skills, new ways of thinking, and do so when people learn best, while they are having fun. Most schools don't yet know why they need what we do, but they will. 
 
 **Team Goals**
 
@@ -25,7 +27,15 @@ Move38 is founded on play as a mode of interaction, a method for learning, and a
 
 * success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
 
-**Dropping some science on y'all**
+**Our Origins**
+
+<<The bit about feeling comfortable can go here>>
+
+**Our Values**
+
+The two of us enjoy ourselves a great deal but also treat sensitive issues with the seriousness they deserve. We are an equal opportunity employer. We feel our lives are enriched by the diverse group of friends, colleagues, and mentors we surround ourselves with. We aim to be as reflective as possible, without losing focus. We value our partners in life and our time on this planet, so our work schedules reflect that. We love what we do, so exceptions are made, but those are exceptions, not the rule. We are team players, helping each other out, picking each other up, anticipating each others moves, and whether we win or lose we are always good sports.
+
+**The Science of Successful Teams (Dropping some science on y'all)**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
