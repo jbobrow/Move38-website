@@ -25,7 +25,7 @@ Move38 is founded on play as a mode of interaction, a method for learning, and a
 
 * success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
 
-**The non-basics**
+**Dropping some science on y'all**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
