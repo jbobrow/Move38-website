@@ -41,7 +41,7 @@ We acknowledge:
 
 **Our Values**
 
-We enjoy ourselves but also treat sensitive issues seriously. We're an equal opportunity employer. Our friends, colleagues, and mentors are precious to us. We aim to be reflective without losing focus. We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are exceptions, not the rule. We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports.
+We enjoy ourselves but also treat sensitive issues seriously. We're an equal opportunity employer. Our friends, colleagues, and mentors are precious to us. We believe in thinking time. We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are exceptions, not the rule. We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports.
 
 **The Science of Successful Teams (Dropping some science on y'all)**
 
