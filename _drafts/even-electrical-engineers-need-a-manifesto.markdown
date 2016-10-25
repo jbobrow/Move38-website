@@ -7,7 +7,7 @@ We're looking to hire an electrical engineer.
 
 Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals, and what we're about, in more expansive terms than one usually finds in job solicitations.
 
-If what follows overclocks your cpu, get in touch.
+If what follows overclocks your cpu, do get in touch.
 
 ## Us
 
