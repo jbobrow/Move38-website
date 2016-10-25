@@ -17,35 +17,31 @@ We think we're at our best when we're able to approach our lives playfully. Our 
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. We want to be green thumbs for playfulness.
 
-## The Work
+## The Current Work
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and adults for that matter) aren't otherwise much exposed.
 
 Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and how to live well in it) but which even now are confined mostly to the walled gardens of academia.
 
-But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster real playfulness. We learn best from the things we love most. 
+But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster real playfulness. We learn best from the things we love most.
 
 **Team Goals**
 
-1. *We help each other work, think, and live with uncommon intelligence*
+1. We help each other work, think, and live with uncommon intelligence
 
-2. *We have more fun than anyone has a right to expect*
+2. We have more fun than anyone has a right to expect
 
-3. *We become friends and project partners for life*
+3. We become friends and project partners for life
 
-**We acknowledge:**
+We acknowledge:
 
 * it's a tall order.
 
 * success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
 
-**Our Origins**
-
-<<The bit about feeling comfortable can go here>>
-
 **Our Values**
 
-The two of us enjoy ourselves a great deal but also treat sensitive issues with the seriousness they deserve. We are an equal opportunity employer. We feel our lives are enriched by the diverse group of friends, colleagues, and mentors we surround ourselves with. We aim to be as reflective as possible, without losing focus. We value our partners in life and our time on this planet, so our work schedules reflect that. We love what we do, so exceptions are made, but those are exceptions, not the rule. We are team players, helping each other out, picking each other up, anticipating each others moves, and whether we win or lose we are always good sports.
+We enjoy ourselves but also treat sensitive issues seriously. We're an equal opportunity employer. Our friends, colleagues, and mentors are precious to us. We aim to be reflective without losing focus. We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are exceptions, not the rule. We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports.
 
 **The Science of Successful Teams (Dropping some science on y'all)**
 
