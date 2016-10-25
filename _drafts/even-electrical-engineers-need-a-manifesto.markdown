@@ -7,23 +7,23 @@ We're looking to hire an electrical engineer.
 
 Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals, and what we're about, in more expansive terms than one usually finds in job solicitations.
 
-If what follows speaks to you, get in touch with us. 
+If what follows overclocks your cpu, get in touch with us.
 
 ## Us
 
 We founded Move38 to encourage playfulness as a way of life.
 
-We think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.   
+We think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. So we want to be green thumbs for playfulness. 
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. We want to be green thumbs for playfulness.
 
-Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a friendly, tactile, screenless interface, it feels like a living thing. It offers a new kind of play experience that fosters valuable and uncommon modes of thinking.  
+## The Work
 
-Specifically, it'll encourage wholistic thinking about systems of simple interacting parts
+Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and adults for that matter) aren't otherwise much exposed.
 
-We envision a future where children gain an intuition for systems, a wholistic view, understanding how even simple singular acts contribute to complexity, and the whole isn't the sum of its parts.  Everyone plays games, even those who wouldn't use that word, and that people who play games can make games too, when given the right tools. We are dedicated to friendly and tactile interfaces, the kind that don't need screens but feel responsive, alert, alive. The physical world delights all of our senses, we will make *smart* table-top games to delight them as well.
+Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and how to live well in it) but which even now are confined mostly to the walled gardens of academia.
 
-We whole-heartedly believe the work we are doing will change the world for the better. We think that the toys and tools we play with have the ability to shape the way we think. We want to inspire and foster curiosity, the opposite of fear. We want to teach the world new skills, new ways of thinking, and do so when people learn best, while they are having fun. Most schools don't yet know why they need what we do, but they will.
+We emphasize here that our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like crap. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster real playfulness. We learn best from the things we love most. 
 
 **Team Goals**
 
