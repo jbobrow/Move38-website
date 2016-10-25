@@ -21,7 +21,7 @@ But playfulness is delicate. We're born with it but if it's not cultivated it ca
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and adults for that matter) aren't otherwise much exposed.
 
-Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and how to live well in it) but which even now are confined mostly to the walled gardens of academia.
+Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and even how to live well in it) but which even now are confined mostly to the walled gardens of academia.
 
 But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster playfulness. We learn best from the things we love most.
 
