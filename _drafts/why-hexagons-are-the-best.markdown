@@ -7,11 +7,11 @@ You know why you're here. Let's get down to it:
 
 1. Hexagons one of only three kinds of regular polygons that tile the plane. The others are equilateral triangles (boring) and squares (square)
 
-2. They have more sides than any other regular polygon that tiles the plane. So hotttt.
+2. There's a [20,000 mile wide hexagon on Saturn](http://www.dailymail.co.uk/sciencetech/article-3867924/What-happening-giant-hexagon-Saturn-s-north-pole-Mystery-Nasa-images-area-changed-blue-gold-just-four-years.html). It's still unknown whether there's a similar structure on Uranus. 
 
-3. Honeybees make honey in them.
+3. They have more sides than any other regular polygon that tiles the plane. So hotttt.
 
-4. There's a [20,000 mile wide hexagon on Saturn](http://www.dailymail.co.uk/sciencetech/article-3867924/What-happening-giant-hexagon-Saturn-s-north-pole-Mystery-Nasa-images-area-changed-blue-gold-just-four-years.html). No Joke. No one knows yet if a similar structure can be found on Uranus. 
+4. Honeybees make honey in them.
 
 5. if you're into fancy dancy design stuff, you're legally obligated to use hexagons these days.
 
