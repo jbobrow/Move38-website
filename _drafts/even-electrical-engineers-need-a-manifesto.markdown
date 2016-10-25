@@ -23,7 +23,7 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and how to live well in it) but which even now are confined mostly to the walled gardens of academia.
 
-But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster real playfulness. We learn best from the things we love most.
+But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster playfulness. We learn best from the things we love most.
 
 **Team Goals**
 
