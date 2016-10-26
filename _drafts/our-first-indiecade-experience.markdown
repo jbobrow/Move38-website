@@ -9,7 +9,7 @@ Two weeks ago, I went to IndieCade for the first time and fell head over heals f
 
 First, thanks to the hundreds of people who came to IndieCade and peeled themselves away from the tsunami of video games long enough to give our cyber-futurismo board game a shot.
 
-Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to submit a game to IndieCade.
+Second, a big warm thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to submit a game to IndieCade.
 
 **Hands-on collaborative prototyping**
 
