@@ -27,27 +27,29 @@ I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.c
 
 **The stuff of dreams**
 
-Each day continued to build on the previous one, with one amazing player even exclaiming that he had dreamed about playing Fracture again the night before and coming back to see if he could reign champion (which he did).
+So the first day of Fracture demos was fantastic, and it only got better. One player exclaimed he'd dreamt about playing Fracture the night after playing it, and he'd come back the next day to see if he could reign as champion (he did).
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
 
-Some players approached the game out of the gates with heavy analysis and found the game to be long lasting as they each played defensively, preventing a win condition one move at a time.
+Some players approached the game with heavy analysis and complicated defensive maneuvering.
 
 ![409C9596.JPG](/uploads/409C9596.JPG)
 
-Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
+Others worked collaboratively to achieve a Super Win, a rule invented by Celia Pearce to encourage more cooperative play. If every tile is put in a happy state, everyone wins (are there any other games that can be totally cooperative or competitive depending on the trajectory through its state space?)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6SYrYEp3CE8" frameborder="0" allowfullscreen></iframe>
 
 **Developers wanted**
 
-Another delightful aspect of IndieCade is that a large portion of the population don't only think of themselves as game enthusiasts or game players, but also game makers. As mentioned in our previous post\[link\], we are looking for collaborators and developers as this platform lends itself to an entirely new form of tabletop games. One student of USC could not stop raving about how much fun she had playing, but even more-so, the thought of developing for them opens up a whole world of possibilities. It meant a lot to hear how the subtle affordances of each tile, such as the weight and feel, were noticed and appreciated.
+Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned\[link\], we're looking for collaborators and developers to help bring our new platform to fruition. 
+
+One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. It meant a lot to hear comments like that. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
 **Mechanics and message**
 
-I spoke about Fracture as a "competitive game towards diversity" which speaks to the origins of the game, being very abstractly about social integration, but the game evolved to become a strategic competitive game, not simply cooperative. The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading and possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become a strategic abstract game. 
+I spoke about Fracture as a "competitive game towards diversity" which speaks to the origins of the game, being (abstractly) about social integration, but the game evolved to become a strategic competitive game, not simply cooperative. The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading and possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become a strategic abstract game. 
 
 Lastly I want to address a moment that was not happy, but is important and meant a lot to me. (and ultimately ended up alright)
 
