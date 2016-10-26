@@ -49,7 +49,18 @@ One USC student couldn't stop raving about how much fun she had playing, and the
  
 **In which one of our core values is put to the test**
 
-A group of players arriving at the table were in a bit of a dispute over social issues as spawned from the content of another game. One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. I very seriously said that Move38 provides safe-spaces, and that behavior and disrespecting another's opinion was not allowed in our space. This person stopped their behavior, and stuck around to play, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves. (Note: The recipient of the poor behavior came over to hug out what was a frustrating situation)
+Here's the part I didn't love. 
+
+A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played. 
+
+One of the players began acting in a way that made another player uncomfortable and was not acceptable to me.
+
+[the above is vague and the vagueness is distracting. I suggest more specificity if you feel comfortable with it. There should be enough information that the reader should be able to evaluate for themselves whether the behavior was appropriate. Otherwise she'll read this section wondering what it's really all about]
+
+I told the offending player that I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
+
+It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm proud to have walked our talk.   
+
 
 All in all, the trip to Los Angeles, my hometown of 26 years was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for quite a while.
 
