@@ -59,7 +59,7 @@ One of the players began acting in a way that made another player uncomfortable 
 
 I told the offending player I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
 
-It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm pleased with the outcome. I should also give props to IndieCade, as their staff managed to follow up on the situation to enforce their strict inclusivity policy.
+It's easy to talk about values, but harder to live in accordance with them. Values are at their most valuable in difficult situations, especially where there's temptation to let stuff slide. I didn't enjoy the situation but I'm pleased with the outcome. I should also give props to IndieCade, as their staff managed to follow up on the situation to enforce their strict inclusivity policy.
 
 All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for a geological age.
 
