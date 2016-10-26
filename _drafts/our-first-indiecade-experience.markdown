@@ -23,7 +23,7 @@ In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new 
 
 **Time flies like an arrow. Fruit flies like a banana.**
 
-I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.com), a talented game designer. The first day of the festival only allowed 2 hours for playing Fracture, but I ended up going 4 hours and packing up only when the staff kindly told us to scram. The events of the day nearly convinced me to ignore our commitment to frugality and buy a ticket for Nick to fly out. The bean-counter in me prevailed though.
+I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.com), a talented game designer. The first day of the festival only allowed 2 hours for playing Fracture, but I ended up going 4 hours and packing up only when the staff kindly told us to scram. The events of the day nearly convinced me to ignore our commitment to frugality and buy a ticket for Nick to fly out. The bean-counter in me prevailed, to the relief of our wallets.
 
 **The stuff of dreams**
 
