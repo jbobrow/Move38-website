@@ -5,6 +5,8 @@ date: 2016-10-24 13:03:00 -04:00
 
 This blog post is about to be as cheesy as it sounds. Two weeks ago, I got to go to IndieCade for the first time ever, and I absolutely loved it. Everything about the 4 days (3 main festival days) could not have been more enjoyable... well, there was one thing, but I'll get to that.
 
+![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
+
 First of all, I would like to thank the hundreds of people who not only came out to IndieCade, but in a festival full of video games, said, "sure, I'll try this cyber futuristic board game." Secondly, I would like to thank [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), for her game design skills and some helpful poking and prodding to actually submit to IndieCade.
 
 The festival started off with a handful of tool building workshops, from starting a company and grant writing to making table-top games workshop. Almost feels like this festival knew what I needed. On day one I met some wonderful developers and designers including [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO (I'll lovingly call Deton-ocho, written Deton8 :)
@@ -15,17 +17,15 @@ With my good friend and talented game designer, [Mike Lazer-Walker](http://lazer
 
 Each day continued to build on the previous one, with one amazing player even exclaiming that he had dreamed about playing Fracture again the night before and coming back to see if he could reign champion (which he did).
 
-> Insert video of guy saying he dreamt of playing again <
-
-https://www.youtube.com/watch?v=JajZLRV4laY
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
 
 Some players approached the game out of the gates with heavy analysis and found the game to be long lasting as they each played defensively, preventing a win condition one move at a time.
 
->Image of people focussed while playing<
+> Image of people focussed while playing<
 
 Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
 
->Video from super win<
+> Video from super win<
 
 Lastly I want to address two topics that were not as happy, but are important and meant a lot to me.
 
@@ -37,10 +37,10 @@ The point was brought up that it seems hypocritical to have a game mechanic that
 
 All in all, the trip to Los Angeles, my hometown of 26 years was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for quite a while.
 
-The community of people at IndieCade is what really made the trip for me. The fact that Fracture was a finalist, was flattering, and put me in company I felt lucky to be a part of. The awards ceremony put the entire diverse crowd inside of a single room and some truly meaningful works of passion won well deserved awards. In the words of [Rami Ismail](http://ramiismail.com/) 
+The community of people at IndieCade is what really made the trip for me. The fact that Fracture was a finalist, was flattering, and put me in company I felt lucky to be a part of. The awards ceremony put the entire diverse crowd inside of a single room and some truly meaningful works of passion won well deserved awards. In the words of [Rami Ismail](http://ramiismail.com/)
 
 > A Dutch-Egyptian developer handed out the Grand Prize of a major games event to an Iranian-Canadian developer, for the creation of a game about the history of a Middle-Eastern country.  –  [source](http://ramiismail.com/2016/10/indiecade-awards-2016/)
 
-And ultimately it feels great to be at an event where that happens.   
+And ultimately it feels great to be at an event where that happens.
 
 Nick and I both decided that these kinds of events are definitely worth attending, so feel free to let us know some of your favorite game festivals that we should be at in the comments.
