@@ -57,7 +57,7 @@ One of the players began acting in a way that made another player uncomfortable 
 
 [the above is vague and the vagueness is distracting. I suggest more specificity if you feel comfortable with it. There should be enough information that the reader should be able to evaluate for themselves whether the behavior was appropriate. Otherwise she'll read this section wondering what it's really all about]
 
-I told the offending player that I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
+I told the offending player I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
 
 It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm proud to have walked our talk.   
 
