@@ -3,15 +3,19 @@ title: Our first IndieCade experience
 date: 2016-10-24 13:03:00 -04:00
 ---
 
-This blog post is about to be as cheesy as it sounds. Two weeks ago, I got to go to IndieCade for the first time ever, and I absolutely loved it. Everything about the 4 days (3 main festival days) could not have been more enjoyable... well, there was one thing, but I'll get to that.
+Two weeks ago, I went to IndieCade for the first time and I fell ass over teakettle for it. It couldn't have been more enjoyable (well, except for one thing, but I'll get to that).
 
 ![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
 
-First of all, I would like to thank the hundreds of people who not only came out to IndieCade, but in a festival full of video games, said, "sure, I'll try this cyber futuristic board game." Secondly, I would like to thank [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), for her game design skills and some helpful poking and prodding to actually submit to IndieCade.
+First, thank you to the hundreds of people who came out to IndieCade and peeled themselves away from the cavalcade of video games long enough to give our cyber-futurismo board game a shot. 
+
+Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to get off my duff and submit to IndieCade.
 
 **Hands-on collaborative prototyping**
 
-The festival started off with a handful of tool building workshops, from starting a company and grant writing to making table-top games workshop. Almost feels like this festival knew what I needed. On day one I met some wonderful developers and designers including [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO (I'll lovingly call Deton-ocho, written Deton8, documentation is in the works). In the span of 15 -30 minutes, we had deconstructed a game and reconstructed it together, adding mechanics and balancing the game on the fly. Another wonderful reminder that hands-on, tactile table top games, are incredibly fun to prototype, an aspect of AutomaTiles I look forward to others experiencing. (Note: Fracture originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
+The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference organized exclusively around my current needs. I also met some wonderful developers and designers. To whit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
+
+In the span of 15 -30 minutes, we had deconstructed a game and reconstructed it together, adding mechanics and balancing the game on the fly. Another wonderful reminder that hands-on, tactile table top games, are incredibly fun to prototype, an aspect of AutomaTiles I look forward to others experiencing. (Note: Fracture originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
 **Time flies when you're having fun**
 
