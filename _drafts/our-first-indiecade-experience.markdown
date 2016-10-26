@@ -9,7 +9,11 @@ This blog post is about to be as cheesy as it sounds. Two weeks ago, I got to go
 
 First of all, I would like to thank the hundreds of people who not only came out to IndieCade, but in a festival full of video games, said, "sure, I'll try this cyber futuristic board game." Secondly, I would like to thank [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/), for her game design skills and some helpful poking and prodding to actually submit to IndieCade.
 
-The festival started off with a handful of tool building workshops, from starting a company and grant writing to making table-top games workshop. Almost feels like this festival knew what I needed. On day one I met some wonderful developers and designers including [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO (I'll lovingly call Deton-ocho, written Deton8 :)
+**Hands-on collaborative prototyping**
+
+The festival started off with a handful of tool building workshops, from starting a company and grant writing to making table-top games workshop. Almost feels like this festival knew what I needed. On day one I met some wonderful developers and designers including [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO (I'll lovingly call Deton-ocho, written Deton8, documentation is in the works). In the span of 15 -30 minutes, we had deconstructed a game and reconstructed it together, adding mechanics and balancing the game on the fly. Another wonderful reminder that hands-on, tactile table top games, are incredibly fun to prototype, an aspect of AutomaTiles I look forward to others experiencing. (Note: Fracture originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
+
+**Time flies when you're having fun**
 
 With my good friend and talented game designer, [Mike Lazer-Walker](http://lazerwalker.com), by my side, we hit the ground running. The first day of the festival only allowed for \~2 hours of playing Fracture, but I ended up extending to 4 hours and packing up only when the staff kindly let us know we needed to leave. The events of the day nearly convinced me that I should buy a ticket for Nick to fly out and join us, I was having so much fun and time was flying. If this was going to be how each day was, I wasn't quite sure how I would sleep, but the answer to that is with a big smile on my face.
 
@@ -25,7 +29,7 @@ Some players approached the game out of the gates with heavy analysis and found 
 
 Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
 
-> Video from super win<
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6SYrYEp3CE8" frameborder="0" allowfullscreen></iframe>
 
 Lastly I want to address two topics that were not as happy, but are important and meant a lot to me.
 
