@@ -19,9 +19,9 @@ I also met wonderful developers and designers. To wit: [John Kane](https://twitt
 
 In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing. 
 
-([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
+([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, also originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
-**Time flies when you're having fun**
+**Time flies like an arrow. Fruit flies like a banana.**
 
 With my good friend and talented game designer, [Mike Lazer-Walker](http://lazerwalker.com), by my side, we hit the ground running. The first day of the festival only allowed for \~2 hours of playing Fracture, but I ended up extending to 4 hours and packing up only when the staff kindly let us know we needed to leave. The events of the day nearly convinced me that I should buy a ticket for Nick to fly out and join us, I was having so much fun and time was flying. If this was going to be how each day was, I wasn't quite sure how I would sleep, but the answer to that is with a big smile on my face.
 
