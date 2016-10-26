@@ -53,7 +53,7 @@ Here's the part I didn't love.
 
 A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played. 
 
-One of the players began acting in a way that made another player uncomfortable and was not acceptable to me.
+One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. We've made a strong commitment to inclusion, which means helping people feel safe to be themselves and freely express opinion. 
 
 [the above is vague and the vagueness is distracting. I suggest more specificity if you feel comfortable with it. There should be enough information that the reader should be able to evaluate for themselves whether the behavior was appropriate. Otherwise she'll read this section wondering what it's really all about]
 
