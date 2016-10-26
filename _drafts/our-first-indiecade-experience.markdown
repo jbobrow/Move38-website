@@ -3,7 +3,7 @@ title: Our first IndieCade experience
 date: 2016-10-24 13:03:00 -04:00
 ---
 
-Two weeks ago, I went to IndieCade for the first time and I fell ass over teakettle for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
+Two weeks ago, I went to IndieCade for the first time and fell ass over teakettle for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
 
 ![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
 
