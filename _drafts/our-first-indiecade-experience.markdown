@@ -45,7 +45,7 @@ Lastly I want to address a moment that was not happy, but is important and meant
 
 **Inclusivity**
 
-A person playing a game at our table was acting in a way that made another player uncomfortable. I very seriously said that Move38 provides safe-spaces, and that behavior was not allowed, as it compromises someone else's safe-space. This person stopped their behavior, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves.
+A group of players arriving at the table were in a bit of a dispute over social issues as spawned from the content of another game. One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. I very seriously said that Move38 provides safe-spaces, and that behavior and disrespecting another's opinion was not allowed in our space. This person stopped their behavior, and stuck around to play, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves. (Note: The recipient of the poor behavior came over to hug out what was a frustrating situation)
 
 All in all, the trip to Los Angeles, my hometown of 26 years was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for quite a while.
 
