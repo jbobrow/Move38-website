@@ -43,17 +43,11 @@ Others worked collaboratively to achieve a Super Win, a rule invented by Celia P
 
 Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned\[link\], we're looking for collaborators and developers to help bring our new platform to fruition. 
 
-One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. It meant a lot to hear comments like that. 
+One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. There were a lot of comments like that and it meant a lot to hear them. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
-
-**Mechanics and message**
-
-I spoke about Fracture as a "competitive game towards diversity" which speaks to the origins of the game, being (abstractly) about social integration, but the game evolved to become a strategic competitive game, not simply cooperative. The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading and possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become a strategic abstract game. 
-
-Lastly I want to address a moment that was not happy, but is important and meant a lot to me. (and ultimately ended up alright)
-
-**Inclusivity**
+ 
+**In which one of our core values is put to the test**
 
 A group of players arriving at the table were in a bit of a dispute over social issues as spawned from the content of another game. One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. I very seriously said that Move38 provides safe-spaces, and that behavior and disrespecting another's opinion was not allowed in our space. This person stopped their behavior, and stuck around to play, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves. (Note: The recipient of the poor behavior came over to hug out what was a frustrating situation)
 
