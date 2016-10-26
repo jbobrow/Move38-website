@@ -31,6 +31,12 @@ Others worked collaboratively to achieve a Super Win, a rule invented once again
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6SYrYEp3CE8" frameborder="0" allowfullscreen></iframe>
 
+**Developers wanted**
+
+Another delightful aspect of IndieCade is that a large portion of the population don't only think of themselves as game enthusiasts or game players, but also game makers. As mentioned in our previous post\[link\], we are looking for collaborators and developers as this platform lends itself to an entirely new form of tabletop games. One student of USC could not stop raving about how much fun she had playing, but even more-so, the thought of developing for them opens up a whole world of possibilities. It meant a lot to hear how the subtle affordances of each tile, such as the weight and feel, were noticed and appreciated.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
+
 Lastly I want to address two topics that were not as happy, but are important and meant a lot to me.
 
 1\. I spoke about Fracture as a "competitive game towards diversity"... I would love to keep this conversation going, please share your thoughts on the matter (respectfully).
