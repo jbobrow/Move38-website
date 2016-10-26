@@ -51,7 +51,7 @@ One USC student couldn't stop raving about how much fun she had playing, and the
 
 Here's the part I didn't love.
 
-A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played.
+A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played. 
 
 One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. One of our core values is inclusivity, which means helping people feel safe to be themselves and freely express opinion. I felt he was making that impossible.
 
