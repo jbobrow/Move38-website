@@ -3,23 +3,23 @@ title: Our first IndieCade experience
 date: 2016-10-24 13:03:00 -04:00
 ---
 
-Two weeks ago, I went to IndieCade for the first time and fell ass over teakettle for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
+Two weeks ago, I went to IndieCade for the first time and fell head over heals for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
 
 ![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
 
-First, thanks to the hundreds of people who came to IndieCade and peeled themselves away from the tsunami of video games long enough to give our cyber-futurismo board game a shot. 
+First, thanks to the hundreds of people who came to IndieCade and peeled themselves away from the tsunami of video games long enough to give our cyber-futurismo board game a shot.
 
 Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to submit a game to IndieCade.
 
 **Hands-on collaborative prototyping**
 
-The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference tailored exclusively to my needs. 
+The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference tailored exclusively to my needs.
 
 I also met wonderful developers and designers. To wit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
 
-In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing. 
+In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing.
 
-([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, also originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
+\([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, also originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
 **Time flies like an arrow. Fruit flies like a banana.**
 
@@ -41,25 +41,25 @@ Others worked collaboratively to achieve a Super Win, a rule invented by Celia P
 
 **Developers wanted**
 
-Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned\[link\], we're looking for collaborators and developers to help bring our new platform to fruition. 
+Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned\[link\], we're looking for collaborators and developers to help bring our new platform to fruition.
 
-One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. There were a lot of comments like that and it meant a lot to hear them. 
+One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. There were a lot of comments like that and it meant a lot to hear them.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
- 
+
 **In which one of our core values is put to the test**
 
-Here's the part I didn't love. 
+Here's the part I didn't love.
 
-A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played. 
+A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played.
 
-One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. One of our core values is inclusivity, which means helping people feel safe to be themselves and freely express opinion. I felt he was making that impossible.  
+One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. One of our core values is inclusivity, which means helping people feel safe to be themselves and freely express opinion. I felt he was making that impossible.
 
-[the above is vague and the vagueness is distracting. I suggest more specificity if you feel comfortable with it. There should be enough information that the reader should be able to evaluate for themselves whether the behavior was appropriate. Otherwise she'll read this section wondering what it's really all about]
+\[the above is vague and the vagueness is distracting. I suggest more specificity if you feel comfortable with it. There should be enough information that the reader should be able to evaluate for themselves whether the behavior was appropriate. Otherwise she'll read this section wondering what it's really all about\]
 
 I told the offending player I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
 
-It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm proud to have walked our talk.   
+It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm proud to have walked our talk.
 
 All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for a geological age.
 
