@@ -27,7 +27,7 @@ I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.c
 
 **The stuff of dreams**
 
-So the first day of Fracture demos was fantastic, and it only got better. One player exclaimed he'd dreamt about playing Fracture the night after playing it, and he'd come back the next day to see if he could reign as champion (he did).
+So the first day of Fracture demos was fantastic, and it only got better from there. One player exclaimed he'd dreamt about playing Fracture the night after playing it, and he came back the next day to see if he could reign as champion (he did).
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
 
