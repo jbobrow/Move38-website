@@ -3,27 +3,29 @@ title: Our first IndieCade experience
 date: 2016-10-24 13:03:00 -04:00
 ---
 
-Two weeks ago, I went to IndieCade for the first time and I fell ass over teakettle for it. It couldn't have been more enjoyable (well, except for one thing, but I'll get to that).
+Two weeks ago, I went to IndieCade for the first time and I fell ass over teakettle for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
 
 ![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
 
 First, thanks to the hundreds of people who came to IndieCade and peeled themselves away from the tsunami of video games long enough to give our cyber-futurismo board game a shot. 
 
-Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to get off my duff and submit to IndieCade.
+Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to submit a game to IndieCade.
 
 **Hands-on collaborative prototyping**
 
-The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference organized exclusively around my current needs. 
+The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference tailored exclusively to my needs. 
 
 I also met wonderful developers and designers. To wit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
 
-In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing. 
+In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how painless, nay delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing. 
 
 ([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, also originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
 **Time flies like an arrow. Fruit flies like a banana.**
 
-With my good friend and talented game designer, [Mike Lazer-Walker](http://lazerwalker.com), by my side, we hit the ground running. The first day of the festival only allowed for \~2 hours of playing Fracture, but I ended up extending to 4 hours and packing up only when the staff kindly let us know we needed to leave. The events of the day nearly convinced me that I should buy a ticket for Nick to fly out and join us, I was having so much fun and time was flying. If this was going to be how each day was, I wasn't quite sure how I would sleep, but the answer to that is with a big smile on my face.
+I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.com), a talented game designer. The first day of the festival only allowed 2 hours for playing Fracture, but I ended up going 4 hours and packing up only when the staff kindly told us to scram. The events of the day nearly convinced me to ignore our commitment to frugality and buy a ticket for Nick to fly out. The bean-counter in me prevailed though.  
+
+If this was going to be how each day was, I wasn't sure how I would sleep, but the answer to that is with a big smile on my face.
 
 **The stuff of dreams**
 
