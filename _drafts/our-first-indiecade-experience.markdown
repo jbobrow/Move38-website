@@ -25,7 +25,7 @@ Each day continued to build on the previous one, with one amazing player even ex
 
 Some players approached the game out of the gates with heavy analysis and found the game to be long lasting as they each played defensively, preventing a win condition one move at a time.
 
-> Image of people focussed while playing<
+> Image of people focussed while playing
 
 Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
 
