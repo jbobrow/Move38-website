@@ -61,13 +61,12 @@ I told the offending player I wouldn't allow  disrespect in our space. Happily, 
 
 It's easy to talk about values, but harder to live in accordance with them. Values are at their most, erm, valuable in difficult situations where there's temptation to let stuff slide. I didn't enjoy the situation but I'm proud to have walked our talk.   
 
+All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for a geological age.
 
-All in all, the trip to Los Angeles, my hometown of 26 years was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for quite a while.
-
-The community of people at IndieCade is what really made the trip for me. The fact that Fracture was a finalist, was flattering, and put me in company I felt lucky to be a part of. The awards ceremony put the entire diverse crowd inside of a single room and some truly meaningful works of passion won well deserved awards. In the words of [Rami Ismail](http://ramiismail.com/)
+The IndieCade community made the trip for me. It was flattering that Fracture was a finalist, and put me in company I felt lucky to be associated with. The awards ceremony put the entire diverse crowd inside of a single room and some truly meaningful works of passion won well deserved awards. In the words of [Rami Ismail](http://ramiismail.com/)
 
 > A Dutch-Egyptian developer handed out the Grand Prize of a major games event to an Iranian-Canadian developer, for the creation of a game about the history of a Middle-Eastern country.  –  [source](http://ramiismail.com/2016/10/indiecade-awards-2016/)
 
 And ultimately it feels great to be at an event where that happens.
 
-Nick and I both decided that these kinds of events are definitely worth attending, so feel free to let us know some of your favorite game festivals that we should be at in the comments.
+Nick and I both decided that these kinds of events are worth attending, so feel free to let us know which festivals you think we should attend in the comments.
