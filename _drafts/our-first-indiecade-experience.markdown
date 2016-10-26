@@ -25,7 +25,7 @@ Each day continued to build on the previous one, with one amazing player even ex
 
 Some players approached the game out of the gates with heavy analysis and found the game to be long lasting as they each played defensively, preventing a win condition one move at a time.
 
-> Image of people focussed while playing
+![409C9596.JPG](/uploads/409C9596.JPG)
 
 Others worked collaboratively to achieve a Super Win, a rule invented once again by Celia Pearce, to encourage more cooperative play. The idea for this is that if in a single move, every tile can be put in a happy state, everyone wins, and the person who figured it out, extra wins :)
 
@@ -37,13 +37,15 @@ Another delightful aspect of IndieCade is that a large portion of the population
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
-Lastly I want to address two topics that were not as happy, but are important and meant a lot to me.
+**Mechanics and message**
 
-1\. I spoke about Fracture as a "competitive game towards diversity"... I would love to keep this conversation going, please share your thoughts on the matter (respectfully).
+I spoke about Fracture as a "competitive game towards diversity" which speaks to the origins of the game, being very abstractly about social integration, but the game evolved to become a strategic competitive game, not simply cooperative. The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading and possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become a strategic abstract game. 
 
-The point was brought up that it seems hypocritical to have a game mechanic that suggest segregating others to make yourself more diverse, and call it a game towards diversity. I agree that game mechanics are often the way in which we learn behaviors, and to have mechanics inconsistent with the theme or message of a game is misleading or possibly upsetting. I am curious to discuss this more, as I think the cooperative version of this game still shows promise, but I can also change the language around the game, as it really has become simply a strategic abstract game.
+Lastly I want to address a moment that was not happy, but is important and meant a lot to me. (and ultimately ended up alright)
 
-2\. A person playing a game at our table was acting in a way that made another player uncomfortable. I very seriously said that Move38 provides safe-spaces, and that behavior was not allowed, as it compromises someone else's safe-space. This person stopped their behavior, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves.
+**Inclusivity**
+
+A person playing a game at our table was acting in a way that made another player uncomfortable. I very seriously said that Move38 provides safe-spaces, and that behavior was not allowed, as it compromises someone else's safe-space. This person stopped their behavior, but I want everyone to know that this is a core value of our company and one we will always stand by. There are respectful ways of treating each other no matter how big the disagreement, and we hold our players to the same standard we hold ourselves.
 
 All in all, the trip to Los Angeles, my hometown of 26 years was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for quite a while.
 
