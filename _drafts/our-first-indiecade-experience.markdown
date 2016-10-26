@@ -7,15 +7,19 @@ Two weeks ago, I went to IndieCade for the first time and I fell ass over teaket
 
 ![FractureIndieCade2016.jpg](/uploads/FractureIndieCade2016.jpg)
 
-First, thank you to the hundreds of people who came out to IndieCade and peeled themselves away from the cavalcade of video games long enough to give our cyber-futurismo board game a shot. 
+First, thanks to the hundreds of people who came to IndieCade and peeled themselves away from the cavalcade of video games long enough to give our cyber-futurismo board game a shot. 
 
 Second, a fat puffy thanks to [Celia Pearce](http://www.northeastern.edu/camd/gamedesign/people/celia-pearce/) for her game design skills and for prodding me to get off my duff and submit to IndieCade.
 
 **Hands-on collaborative prototyping**
 
-The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference organized exclusively around my current needs. I also met some wonderful developers and designers. To whit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
+The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference organized exclusively around my current needs. 
 
-In the span of 15 -30 minutes, we had deconstructed a game and reconstructed it together, adding mechanics and balancing the game on the fly. Another wonderful reminder that hands-on, tactile table top games, are incredibly fun to prototype, an aspect of AutomaTiles I look forward to others experiencing. (Note: Fracture originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
+I also met wonderful developers and designers. To wit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
+
+In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing. 
+
+([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
 **Time flies when you're having fun**
 
