@@ -11,9 +11,7 @@ If what follows overclocks your cpu, do get in touch.
 
 ## Us
 
-We founded Move38 to foster playfulness as a way of life.
-
-We think we're at our best when we approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
+We founded Move38 to foster playfulness as a way of life, because we think we're at our best when we approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be. 
 
@@ -31,13 +29,13 @@ We're devoted to designing things that are delightful in their bones, Chocolate 
 
 * We enjoy ourselves but also treat sensitive issues seriously
 
-* Our friends, colleagues, and mentors are precious to us
-
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
 * We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports
 
 * We believe in [thinking time](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
+
+* We believe in facing our own flaws without shame and working steadily to improve.  
 
 ## You
 
@@ -67,13 +65,13 @@ But the basics are easy, necessary but not sufficient for our ideal outcome. Wha
 
 * it's a tall order.
 
-* success depends on much more than who we wire. We have to live and work consistently with our ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. But it starts with who we hire, so we're looking for more than the basic qualifications listed above. Here we come to:
+* success depends on much more than who we wire. We have to live and work consistently with our ideal, which isn't always easy. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. But it starts with who we hire, so we're looking for more than the basic qualifications listed above. Here we come to:
 
 ## **The Non-Basics**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
-They found 5 factors collectively predicted the productivity of Google's internal teams. The most important by far was *psychological safety.*
+They found 5 factors collectively predict the productivity of Google's internal teams. The most important by far is *psychological safety.*
 
 **Psychological safety: the feeling that you can take risks without feeling embarrassed or insecure**
 
@@ -87,7 +85,7 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 ...who is balding
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices. (Note psychological safety *doesn't* mean not feeling bad; it means knowing the people around you believe in you and have your back, even when everything sucks)
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
@@ -114,11 +112,13 @@ The other 4 predictive factors from Google's study were:
 
 How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
-**The First Responsibility**
-
-We couldn't be more excited to put AutomaTiles into the hands of all the people our there that want them, but more importantly, we are excited to put a slightly refined version of our current beta into the hands of developers and early adopters alike. The hardware is simple and straight-forward, but needs to be robust. There are few features that need to be added, including power management and understanding costs of components. We have a wonderful relationship with a PCBA house and plan to iterate with them to arrive at the next revisions. Ownership and agency are important to us and we built this tech from the ground up with the help of a wonderful MIT Undergrad, Joshua Sloane. <<I'm fading a bit, so I can revisit in the morning>>
-
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
+
+## **What you'll be doing when you join**
+
+One of our key short term goals is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we first need to make the hardware more robust, add a few features like power management, and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
+
+## Bottom Line
 
 If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
 
