@@ -11,21 +11,37 @@ If what follows overclocks your cpu, do get in touch.
 
 ## Us
 
-We founded Move38 to encourage playfulness as a way of life.
+We founded Move38 to foster playfulness as a way of life.
 
-We think we're at our best when we're able to approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
+We think we're at our best when we approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. We want to be green thumbs for playfulness.
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be. 
 
 ## Current Work
 
-Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and adults for that matter) aren't otherwise much exposed.
+Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
 
-Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computing. Ideas critical for understanding how the world works (and even how to live well in it) but which even now are confined mostly to the walled gardens of academia.
+Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding how the world works but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-But we emphasize our first priority is to generate thundering fun. We're ferocious subscribers (did you know you can subscribe ferociously?) to the Chocolate Broccoli analogy: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". We're committed to designing things that are delightful in their bones, because that's the only way to foster playfulness. We learn best from the things we love most.
+But we emphasize our first priority is to generate thundering fun. We're ferociously opposed to Chocolate Broccoli: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". 
 
-**Team Goals**
+We're devoted to designing things that are delightful in their bones, Chocolate Chocolate if you will, because that's the only way to foster playfulness. We learn best from the things we love most. 
+
+## **Values**
+
+* We enjoy ourselves but also treat sensitive issues seriously
+
+* Our friends, colleagues, and mentors are precious to us
+
+* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are just that: exceptions
+
+* We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports
+
+* We believe in [thinking time](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
+
+## You
+
+## **Team Goals**
 
 1. We help each other work, think, and live with uncommon intelligence
 
@@ -38,10 +54,6 @@ We acknowledge:
 * it's a tall order.
 
 * success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
-
-**Our Values**
-
-We enjoy ourselves but also treat sensitive issues seriously. We're an equal opportunity employer. Our friends, colleagues, and mentors are precious to us. We believe in thinking time. We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are exceptions, not the rule. We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports.
 
 **The Science of Successful Teams (Dropping some science on y'all)**
 
