@@ -33,7 +33,7 @@ We're devoted to designing things that are delightful in their bones, Chocolate 
 
 * Our friends, colleagues, and mentors are precious to us
 
-* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but those are just that: exceptions
+* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
 * We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports
 
@@ -41,21 +41,35 @@ We're devoted to designing things that are delightful in their bones, Chocolate 
 
 ## You
 
-## **Team Goals**
+First there's the straightforward stuff. We're looking for:
 
-1. We help each other work, think, and live with uncommon intelligence
+1. a great electrical engineer, with:
 
-2. We have more fun than anyone has a right to expect
+2. a healthy work ethic and focus, who:
 
-3. We become friends and project partners for life
+3. knows her or his way around open source projects
 
-We acknowledge:
+4. loves games 
+
+5. values simplicity over complexity
+
+6. knows products are more than the sums of their features
+
+But the basics are easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+
+1. *We help each other work, think, and live with uncommon intelligence*
+
+2. *We have more fun than anyone has a right to expect*
+
+3. *We become friends and project partners for life*
+
+## **We acknowledge:**
 
 * it's a tall order.
 
-* success depends as much on us as on who we hire. We have to live consistently with ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having.
+* success depends on much more than who we wire. We have to live and work consistently with our ideal, and sometimes we don't. For example just now I ate too much chocolate and my tummy ache is limiting the fun I could be having. But it starts with who we hire, so we're looking for more than the basic qualifications listed above. Here we come to:
 
-**The Science of Successful Teams (Dropping some science on y'all)**
+## **The Non-Basics**
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
@@ -74,8 +88,6 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 ...who is balding
 
 One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish that because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices.
-
-<<This part may simply be implied by the stories we tell>>
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
