@@ -21,9 +21,9 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding how the world works but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-But we emphasize our first priority is to generate thundering fun. We're ferociously opposed to Chocolate Broccoli: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". 
+But we emphasize our first priority is to generate thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". 
 
-We're devoted to designing things that are delightful in their bones, Chocolate Chocolate if you will, because that's the only way to foster playfulness. We learn best from the things we love most. 
+We're devoted to designing things that are delightful in their bones, chocolate chocolate if you will, because that's the only way to foster playfulness. We learn best from the things we love most. 
 
 ## **Values**
 
