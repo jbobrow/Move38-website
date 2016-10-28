@@ -1,5 +1,5 @@
 ---
-title: Even Electrical Engineers need a Manifesto
+title: 'Us and You: an unusually wordy job solicitation'
 date: 2016-10-24 02:06:00 -04:00
 ---
 
