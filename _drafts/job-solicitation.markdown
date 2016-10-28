@@ -15,7 +15,7 @@ We founded Move38 to foster playfulness as a way of life, because we think we're
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be.
 
-**Values**
+## **Values**
 
 * We enjoy ourselves but treat sensitive issues seriously.
 
