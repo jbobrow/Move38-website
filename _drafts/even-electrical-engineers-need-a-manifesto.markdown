@@ -13,7 +13,7 @@ If what follows overclocks your cpu, do get in touch.
 
 We founded Move38 to foster playfulness as a way of life, because we think we're at our best when we approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be. 
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be.
 
 ## Current Work
 
@@ -21,9 +21,9 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding how the world works but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-But we emphasize our first priority is to generate thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun". 
+But we emphasize our first priority is to generate thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it'll still taste like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
-We're devoted to designing things that are delightful in their bones, chocolate chocolate if you will, because that's the only way to foster playfulness. We learn best from the things we love most. 
+We're devoted to designing things that are delightful in their bones, chocolate chocolate if you will, because that's the only way to foster playfulness. We learn best from the things we love most.
 
 ## **Values**
 
@@ -35,7 +35,7 @@ We're devoted to designing things that are delightful in their bones, chocolate 
 
 * We believe in [thinking time](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
-* We believe in facing our own flaws without shame and working steadily to improve.  
+* We believe in facing our own flaws with a light heart and working steadily to improve.
 
 ## You
 
@@ -47,7 +47,7 @@ First there's the straightforward stuff. We're looking for:
 
 3. knows her or his way around open source projects
 
-4. loves games 
+4. loves games
 
 5. values simplicity over complexity
 
