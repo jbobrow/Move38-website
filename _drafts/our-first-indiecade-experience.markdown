@@ -41,23 +41,17 @@ Others worked collaboratively to achieve a Super Win, a rule invented by Celia P
 
 **Developers wanted**
 
-Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned\[link\], we're looking for collaborators and developers to help bring our new platform to fruition.
+Another delightful aspect of IndieCade is many attendees aren't just game players, they're makers. A good thing for us, because as we've mentioned, we're looking for [collaborators](mailto:jobs@move38.com) and [developers](http://eepurl.com/cmozAz) to help bring our new platform to fruition.
 
 One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. There were a lot of comments like that and it meant a lot to hear them.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
-**Values t**
+And a moment that wasn't simply pure happy happy, joy joy.
 
-Here's the part I didn't love.
+**IndieCade colors don't run**
 
-A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played.
-
-One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. One of our core values is inclusivity, which means helping people feel safe to be themselves and freely express opinion. I felt he was making that impossible.
-
-I told the offending player I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
-
-It's easy to talk about values, but harder to live in accordance with them. Values are at their most valuable in difficult situations, especially where there's temptation to let stuff slide. I didn't enjoy the situation but I'm pleased with the outcome. I should also give props to IndieCade, as their staff managed to follow up on the situation to enforce their strict inclusivity policy.
+Without getting into the weeds, I did want to address the fact that there was a kerfuffle amongst IndieCade visitors in my space, and I decided to pipe up and stop the shenanigans. One of the reasons I love games is that they often provide a safe-space or a "magic circle" in which people can become temporary enemies or besties.  When that safe-space is broken for anyone involved, it is no longer fun or tolerable and in this case, IndieCade was quick to act . So let this be a shout-out to IndieCade, as their staff managed to follow up on the situation to enforce their strict inclusivity policy.
 
 **Going the distance**
 
