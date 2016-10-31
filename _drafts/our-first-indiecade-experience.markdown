@@ -15,7 +15,7 @@ Second, a big warm thanks to [Celia Pearce](http://www.northeastern.edu/camd/gam
 
 The festival started with workshops, on subjects like starting a company, grant writing, and making table-top games. It felt like a bespoke conference tailored exclusively to my needs.
 
-I also met wonderful developers and designers. To wit: [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO. I'll lovingly call Deton-ocho, written Deton8.
+During the table-top games workshop, I met wonderful developers and designers. One such designer was [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO, I'll lovingly call Deton-ocho, written Deton8.
 
 In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing.
 
@@ -47,17 +47,19 @@ One USC student couldn't stop raving about how much fun she had playing, and the
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
-**In which one of our core values is put to the test**
+**Values t**
 
 Here's the part I didn't love.
 
-A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played. 
+A group of players arriving at the table brought with them a dispute over social issues that had started over another game they'd played.
 
 One of the players began acting in a way that made another player uncomfortable and was not acceptable to me. One of our core values is inclusivity, which means helping people feel safe to be themselves and freely express opinion. I felt he was making that impossible.
 
 I told the offending player I wouldn't allow  disrespect in our space. Happily, he eased off, and even stuck around to play.
 
 It's easy to talk about values, but harder to live in accordance with them. Values are at their most valuable in difficult situations, especially where there's temptation to let stuff slide. I didn't enjoy the situation but I'm pleased with the outcome. I should also give props to IndieCade, as their staff managed to follow up on the situation to enforce their strict inclusivity policy.
+
+**Going the distance**
 
 All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for a geological age.
 
