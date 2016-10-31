@@ -31,7 +31,7 @@ So the first day of Fracture demos was fantastic, and it only got better from th
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
 
-Some players approached the game with heavy analysis and complicated defensive maneuvering.
+Some players approached the game with heavy analysis and complicated defensive maneuvering. (Note the player threatening another with a prop gun in the following image)
 
 ![409C9596.JPG](/uploads/409C9596.JPG)
 
