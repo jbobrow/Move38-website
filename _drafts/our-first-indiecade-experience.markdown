@@ -47,7 +47,7 @@ One USC student couldn't stop raving about how much fun she had playing, and the
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
-And a moment that wasn't simply pure happy happy, joy joy.
+And that one moment I mentioned that wasn't [happy happy joy joy](https://www.youtube.com/watch?v=eVM1nUmDHHc).
 
 **IndieCade colors don't run**
 
@@ -55,7 +55,7 @@ Without getting into the weeds, I did want to address the fact that there was a 
 
 **Going the distance**
 
-All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was excited to show new people something that has been in the works for a geological age.
+All in all, the trip to Los Angeles, my hometown of 26 years, was wonderful. The hour and half commute each way from the valley felt like nothing when every morning I was greeted with eager play testers and the chance to share a vision for a different type of tactile play.
 
 The IndieCade community made the trip for me. It was flattering that Fracture was a finalist, and put me in company I felt lucky to be associated with. The awards ceremony put the entire diverse crowd inside of a single room and some truly meaningful works of passion won well deserved awards. In the words of [Rami Ismail](http://ramiismail.com/)
 
