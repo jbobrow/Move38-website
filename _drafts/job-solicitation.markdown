@@ -1,5 +1,5 @@
 ---
-title: 'Us and You: an unusually wordy job solicitation'
+title: An unusually wordy job solicitation
 date: 2016-10-24 02:06:00 -04:00
 ---
 
