@@ -11,7 +11,7 @@ If what follows overclocks your cpu, do get in touch.
 
 ## Us
 
-We founded Move38 to foster playfulness as a way of life, because we think we're at our best when we approach our lives playfully. Our thinking is clearer, we learn faster, we work better, contribute more to the lives of others, and we're happier.
+We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. We founded Move38 to foster playfulness as a way of life.
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be.
 
@@ -51,7 +51,7 @@ First there's the straightforward stuff. We're looking for:
 
 5. values simplicity over complexity
 
-6. knows products are more than the sums of their features (they're emergent phenomena!) 
+6. knows products are more than the sums of their features (they're emergent phenomena!)
 
 But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
@@ -107,13 +107,10 @@ The other 4 predictive factors from Google's study were:
 
 > **Dependability:** Can we count on each other to do high quality work on time?
 >
-> 
 > **Meaning of work:** Are we working on something that is personally important for each of us?
 >
-> 
 > **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 >
-> 
 > **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
 How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
