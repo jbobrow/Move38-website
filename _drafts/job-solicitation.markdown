@@ -3,9 +3,9 @@ title: An unusually wordy job solicitation
 date: 2016-10-24 02:06:00 -04:00
 ---
 
-We're looking to hire an electrical engineer.
+We're looking to hire an electrical engineer. 
 
-Because hiring decisions are the most important decisions a business makes, we're discussing our hiring goals, and what we're about, in more expansive terms than one usually finds in job solicitations.
+If you are one, please read this!  If you're not one, please also read this! We'll likely hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a read to those interested in entrepreneurship. 
 
 If what follows overclocks your cpu, do get in touch.
 
@@ -15,23 +15,23 @@ We think we're at our best when we approach our lives playfully. It makes our th
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be.
 
-## **Values**
-
-* We enjoy ourselves but treat sensitive issues seriously.
+## **Other Key Values**
 
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
-* We help each other out, pick each other up, anticipate each others' moves, and win or lose we're always good sports.
+* We help each other out, pick each other up, and anticipate each others' moves.
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
-* We believe in facing our own flaws with a light heart and working steadily to improve.
+* We try to face our flaws with a light heart and work steadily to improve.
+
+* We think puns are cool. 
 
 ## Current Work
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
 
-Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding how the world works but which even now are confined mostly to the walled gardens of academia and tech companies.
+Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
 We emphasize our first priority is to generate thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it still tastes like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
@@ -39,21 +39,7 @@ We're devoted to designing things that are delightful through and through, choco
 
 ## You
 
-First there's the straightforward stuff. We're looking for:
-
-1. a great electrical engineer, with:
-
-2. a healthy work ethic and focus, who:
-
-3. knows her or his way around open source projects
-
-4. loves games
-
-5. values simplicity over complexity
-
-6. knows products are more than the sums of their features (they're emergent phenomena!)
-
-But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+First there's the straightforward stuff. We're looking for a great electrical engineer who gets deep satisfaction from her/his work. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -65,7 +51,7 @@ But the basics are (relatively) easy, necessary but not sufficient for our ideal
 
 * it's a tall order.
 
-* success depends on much more than who we hire. We have to live and work consistently with our ideal, which isn't always easy. For example just now I ate too many chips and my tummy ache is limiting the fun I could be having. But it *starts* with who we hire, so we're looking for more than the basic qualifications listed above. Here we come to:
+* success depends on much more than who we hire. We have to live and work consistently with our ideal, which isn't always easy. For example just now I ate too many chips and my tummy ache is limiting the fun I could be having. But it *starts* with the team, so we're looking for more than the basic qualifications listed above. Here we come to:
 
 ## **The Non-Basics**
 
@@ -85,7 +71,7 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 ...who is balding
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish it because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices. (Note psychological safety *doesn't* mean feeling invulnerable; it means knowing the people around you believe in you and have your back, even when everything sucks)
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish it because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices. (Note psychological safety *doesn't* mean feeling invulnerable or like you're traipsing through daisies all the time; it means knowing the people around you believe in you and have your back, even and especially when things are hard)
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
 
@@ -113,13 +99,13 @@ The other 4 predictive factors from Google's study were:
 >
 > **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
-How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend lots of time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
 ## **Your first project**
 
-A key short term goals is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features like power management, and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
+A key short term goal is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features (like power management), and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
 
 ## Bottom Line
 
