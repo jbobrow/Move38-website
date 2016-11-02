@@ -3,9 +3,9 @@ title: An unusually wordy job solicitation
 date: 2016-10-24 02:06:00 -04:00
 ---
 
-We're looking to hire an electrical engineer. 
+We're looking to hire an electrical engineer.
 
-If you are one, please read this!  If you're not one, please also read this! We'll likely hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a read to those interested in entrepreneurship. 
+If you're one, please read this!  If you're not, please also read this! We'll likely hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a read to those interested in entrepreneurship.
 
 If what follows overclocks your cpu, do get in touch.
 
@@ -13,7 +13,7 @@ If what follows overclocks your cpu, do get in touch.
 
 We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. We founded Move38 to foster playfulness as a way of life.
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness and that's who we want to be.
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness. That's us. 
 
 ## **Other Key Values**
 
@@ -25,7 +25,7 @@ But playfulness is delicate. We're born with it but if it's not cultivated it ca
 
 * We try to face our flaws with a light heart and work steadily to improve.
 
-* We think puns are cool. 
+* We think dad jokes, puns especially, are cool.
 
 ## Current Work
 
@@ -33,9 +33,9 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, nonlinear dynamics, emergent complexity, and parallel computation. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-We emphasize our first priority is to generate thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it still tastes like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
+We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it still tastes like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
-We're devoted to designing things that are delightful through and through, chocolate chocolate if you will, because that's the way to foster playfulness. We learn best from the things we love most.
+We're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that's the way to foster playfulness. We learn best from the things we love most.
 
 ## You
 
