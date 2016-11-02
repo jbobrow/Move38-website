@@ -47,11 +47,7 @@ First there's the straightforward stuff. We're looking for a great electrical en
 
 3. *We become friends and project partners for life*
 
-## **We acknowledge:**
-
-* it's a tall order.
-
-* success depends on much more than who we hire. We have to live and work consistently with our ideal, which isn't always easy. For example just now I ate too many chips and my tummy ache is limiting the fun I could be having. But it *starts* with the team, so we're looking for more than the basic qualifications listed above. Here we come to:
+That brings us to...
 
 ## **The Non-Basics**
 
