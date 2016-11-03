@@ -29,8 +29,6 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
-* We help each other out, pick each other up, and anticipate each others' moves.
-
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
 * We try to face our flaws with a light heart and work steadily to improve.
@@ -103,13 +101,13 @@ How do we know if someone will contribute to a group culture to foster these qua
 
 ## **Your first project**
 
-A key short term goal is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features (like power management), and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
+A key near-term goal is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features (like power management), and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
 
 ## Bottom Line
 
-If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send us your resume, 3 references, and any other evidence beautiful music will be made to jobs@move38.com.
+If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send your resume, 3 references, and other evidence beautiful music will be made to jobs@move38.com.
 
-We're grateful to those who share this around. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
+We're grateful to those who share this. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
