@@ -5,7 +5,7 @@ date: 2016-10-24 02:06:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-If you're one, please read this!  If you're not, please also read this! We'll likely hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a read to those interested in entrepreneurship.
+If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth reading for those interested in entrepreneurship.
 
 If what follows overclocks your cpu, do get in touch.
 
@@ -13,7 +13,7 @@ If what follows overclocks your cpu, do get in touch.
 
 We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. We founded Move38 to foster playfulness as a way of life.
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness. That's us. 
+But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness. That's us.
 
 ## **Other Key Values**
 
@@ -25,7 +25,7 @@ But playfulness is delicate. We're born with it but if it's not cultivated it ca
 
 * We try to face our flaws with a light heart and work steadily to improve.
 
-* We think dad jokes, puns especially, are cool.
+* We think dad jokes are cool.
 
 ## Current Work
 
@@ -35,11 +35,11 @@ Principles of, for example, nonlinear dynamics, emergent complexity, and paralle
 
 We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it still tastes like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
-We're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that's the way to foster playfulness. We learn best from the things we love most.
+So we're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
 
 ## You
 
-First there's the straightforward stuff. We're looking for a great electrical engineer who gets deep satisfaction from her/his work. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+First there's the straightforward stuff. We're looking for a great electrical engineer who's into her/his work, and ideally also games and design thinking. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -49,7 +49,7 @@ First there's the straightforward stuff. We're looking for a great electrical en
 
 That brings us to...
 
-## **The Non-Basics**
+## More Complicated Team Stuff
 
 Google's HR people [conducted a study](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) suggesting a team's productivity depends less on its members' traditional qualifications (bearing in mind all study subjects were qualified to be Googlers) than on how they relate to each other.
 
@@ -67,11 +67,9 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 ...who is balding
 
-One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish it because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices. (Note psychological safety *doesn't* mean feeling invulnerable or like you're traipsing through daisies all the time; it means knowing the people around you believe in you and have your back, even and especially when things are hard)
+One thing attracting me to Move38 is the safety I felt with Jonathan upon meeting, which persists. I feel free to discuss my failures with him, something I otherwise find difficult, thanks to a fear of disappointing others (and myself). I cherish it because discussing my weaknesses helps me accept and work on them, rather than pretending they're not there and hoping no one notices. (Note psychological safety *doesn't* mean feeling like you're traipsing through daisies all the time; it means knowing others believe in you and have your back, especially when things are hard)
 
 How  do we find team members that contribute to a culture of psychological safety? Here are traits we think correlate:
-
-* a warm sense of humor
 
 * an ability to enjoy someone else's success
 
@@ -79,23 +77,27 @@ How  do we find team members that contribute to a culture of psychological safet
 
 * not given to anger or apprehension
 
+* a warm sense of humor
+
 * empathy
 
 * humility
 
 * curiosity
 
-The other 4 predictive factors from Google's study were:
+Note we only think these factors are correlational, and that no single factor is particularly predictive. I know utterly humorless people who make others feel quite safe, for example. So don't worry if you're not the living embodiment of these qualities.  
+
+The other 4 predictive factors from Google's study were (Google says psychological safety underlies all of these, which is why it's so important):
 
 > **Dependability:** Can we count on each other to do high quality work on time?
 >
-> **Meaning of work:** Are we working on something that is personally important for each of us?
+> **Meaning of work:** Are we working on something personally important to us?
 >
-> **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
+> **Impact of work:** Do we believe the work we’re doing matters?
 >
 > **Structure & clarity:** Are goals, roles, and execution plans on our team clear?
 
-How do we know if someone has these traits (ignoring Structure and Clarity, which isn't a trait)? Spend time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring at first on contract for a short-term project, and if everyone is happy with the results, we get married. Mazel tov to us!
+How do we know if someone will contribute to a group culture to foster these qualities? Spend time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov to us!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
