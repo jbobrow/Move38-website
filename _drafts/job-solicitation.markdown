@@ -83,7 +83,7 @@ How  do we find team members that contribute to a culture of psychological safet
 
 * curiosity
 
-Note we only think these factors are correlational, and that no single factor is particularly predictive. I know utterly humorless people who make others feel quite safe, for example. So don't worry if you're not the living embodiment of these qualities.  
+Note we only think these factors are correlational, and that no single factor is particularly predictive. I know utterly humorless people who make others feel quite safe, for example. So don't worry if you're not the living embodiment of these qualities.
 
 The other 4 predictive factors from Google's study were (Google says psychological safety underlies all of these, which is why it's so important):
 
@@ -105,7 +105,7 @@ A key near-term goal is to put a refined version of our current beta into the ha
 
 ## Bottom Line
 
-If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send your resume, 3 references, and other evidence beautiful music will be made to jobs@move38.com. If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch. 
+If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send your resume, 3 references, and other evidence beautiful music will be made to jobs@move38.com. If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
 We're grateful to those who share this. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
