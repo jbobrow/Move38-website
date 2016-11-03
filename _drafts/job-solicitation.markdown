@@ -5,7 +5,7 @@ date: 2016-10-24 02:06:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth reading for those interested in entrepreneurship.
+If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a look for those interested in entrepreneurship.
 
 If what follows overclocks your cpu, do get in touch.
 
@@ -14,18 +14,6 @@ If what follows overclocks your cpu, do get in touch.
 We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. We founded Move38 to foster playfulness as a way of life.
 
 But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness. That's us.
-
-## **Other Key Values**
-
-* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
-
-* We help each other out, pick each other up, and anticipate each others' moves.
-
-* We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
-
-* We try to face our flaws with a light heart and work steadily to improve.
-
-* We think dad jokes are cool.
 
 ## Current Work
 
@@ -36,6 +24,18 @@ Principles of, for example, nonlinear dynamics, emergent complexity, and paralle
 We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli, and it still tastes like it. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
 So we're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
+
+**Other Key Values**
+
+* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
+
+* We help each other out, pick each other up, and anticipate each others' moves.
+
+* We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
+
+* We try to face our flaws with a light heart and work steadily to improve.
+
+* We think dad jokes are cool.
 
 ## You
 
