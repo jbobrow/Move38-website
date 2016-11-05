@@ -29,7 +29,9 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 ## Current Work
 
-Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
+Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It's called AutomaTiles. It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
+
+![409C9542.JPG](/uploads/409C9542.JPG)
 
 Principles of, for example, distributed computation, nonlinear dynamics, emergent complexity. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
@@ -87,7 +89,7 @@ We don't think we can understand what someone is like from a resume and an inter
 
 ## **Your first project**
 
-AutomaTiles exist, they function, and with the help of MIT Undergrad\['17\], Joshua Sloane, they have polish. Nonetheless your first task will be to redesign them. Two reasons:
+AutomaTiles exist, they function, and with the help of MIT Undergrad Joshua Sloane, they have polish. Nonetheless your first task will be to redesign them. Two reasons:
 
 * The lead engineer should completely understand and own the hardware.
 
