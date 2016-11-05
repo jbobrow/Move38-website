@@ -7,7 +7,7 @@ We're looking to hire an electrical engineer.
 
 If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
 
-If what follows overclocks your cpu, do get in touch.
+If what follows overclocks your CPU, do get in touch.
 
 ## About Us
 
