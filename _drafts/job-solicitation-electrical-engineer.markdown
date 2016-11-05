@@ -15,15 +15,17 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 \[image\]
 
-...who has nice hair, and [yours truly:](https://nickbentleygames.wordpress.com/)
+...who is a mathematician, designer and recent MIT Media Lab alum with nice hair, and [yours truly:](https://nickbentleygames.wordpress.com/)
 
 \[image\]
 
-...who is balding
+...who is a balding game designer and former computational neuroscientist 
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. 
 
-But playfulness is delicate. We're born with it but if it's not cultivated [it can wither in the heat of life's hardships](http://move38.com/blog/is-play-a-right/). The world needs green thumbs for playfulness. That's us.
+We're pursuing that end by inventing modes of play that wouldn't exist if we didn't invent them. Games are our focus because they're ferociously compelling and have a proven ability to live in culture for thousands of years. 
+
+We're inventing hardware, tangible user interfaces, and game patterns. And we're inventing this technology to support our mission, not the other way around. Our mission is, ultimately, to define the future of play and thereby change the way minds develop and solve problems. 
 
 ## Current Work
 
@@ -37,7 +39,7 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 ## **Other Key Values**
 
-* We relish detail without getting lost in it.
+* We sweat details without getting lost in them.
 
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
@@ -49,7 +51,7 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 ## You 
 
-First there's the straightforward stuff. We're looking for a great electrical engineer who's into her/his work, and ideally also games and design thinking. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+First there's the straightforward stuff. We're looking for a great electrical engineer who loves her/his work, and ideally also games and design thinking. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -71,7 +73,7 @@ Achieving these depends on more than our qualifications; it depends on what kind
 
 ## How we'll hire
 
-We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov to us!
+We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
@@ -81,7 +83,15 @@ A key near-term goal is to put a refined version of our current beta into the ha
 
 ## Bottom Line
 
-If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, send your resume, 3 references, and other evidence beautiful music will be made to jobs@move38.com. If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
+If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, tell us:
+
+* why you're a great fit.
+
+* what your favorite childhood toy was and why. 
+
+* Include 3 references
+
+* other evidence beautiful music will be made to jobs@move38.com. If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
 We're grateful to those who share this. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
