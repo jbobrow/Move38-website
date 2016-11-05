@@ -7,7 +7,7 @@ We're looking to hire an electrical engineer.
 
 If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
 
-If what follows overclocks your CPU, do get in touch.
+If what follows overclocks your CPU, do [get in touch](mailto:jobs@move38.com).
 
 ## About Us
 
@@ -19,13 +19,13 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 \[image\]
 
-...who is a balding game designer and former computational neuroscientist 
+...who is a balding game designer, game marketer and former computational neuroscientist
 
-We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. 
+We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier.
 
-We're pursuing that end by inventing modes of play that wouldn't exist if we didn't invent them. Games are our focus because they're ferociously compelling and have a proven ability to live in culture for thousands of years. Not even architecture lasts that long ([mostly](https://en.wikipedia.org/wiki/Stonehenge)). 
+We're pursuing that end by inventing modes of play that wouldn't exist if we didn't invent them. Games are our focus because they're ferociously compelling and have a proven ability to live in culture for thousands of years. Not even architecture lasts that long ([mostly](https://en.wikipedia.org/wiki/Stonehenge)).
 
-We're inventing hardware, tangible user interfaces, and game patterns. And we're inventing this technology to support our mission, not the other way around. Our mission is, ultimately, to define the future of play and thereby change the way minds develop and solve problems. 
+We're inventing hardware, tangible user interfaces, and game patterns. And we're inventing this technology to support our mission, not the other way around. Our mission is, ultimately, to define the future of play and thereby change the way minds develop and solve problems.
 
 ## Current Work
 
@@ -45,11 +45,11 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
-* We try to cultivate an atmosphere of [psychological safety](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0). 
+* We try to cultivate an atmosphere of [psychological safety](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0).
 
 * We try to face our flaws with a light heart and work steadily to improve.
 
-## You 
+## You
 
 First there's the straightforward stuff. We're looking for a great electrical engineer who loves her/his work, and ideally also games and design thinking. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
 
@@ -87,7 +87,7 @@ If you're an electrical engineer, you're still reading, and you think we might m
 
 * why you're a great fit.
 
-* what your favorite childhood toy was and why. 
+* what your favorite childhood toy was and why.
 
 * Include 3 references
 
