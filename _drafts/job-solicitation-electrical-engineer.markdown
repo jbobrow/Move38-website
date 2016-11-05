@@ -79,6 +79,8 @@ We don't think we can understand what someone is like from a resume and an inter
 
 ## **Your first project**
 
+AutomaTiles exist, they function, and with the help of MIT Undergrad\['17\], Joshua Sloane, have polish. Your first task will be to redesign the AutomaTile. Because the PCB isn't tucked away inside a plastic case, it is the backbone of a beautifully engineered, designed-to-be-held product, this will require a holistic view, understanding the mechanical engineering, the pcb design, as well as the firmware development to be an ecosystem for game designers and children alike.  
+
 A key near-term goal is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features (like power management), and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
 
 ## Bottom Line
@@ -89,7 +91,7 @@ If you're an electrical engineer, you're still reading, and you think we might m
 
 * what your favorite childhood toy was and why.
 
-Include 3 references and other evidence beautiful music will be made to jobs@move38.com. 
+Include 3 references and other evidence beautiful music will be made to [jobs@move38.com](mailto:jobs@move38.com).
 
 If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
