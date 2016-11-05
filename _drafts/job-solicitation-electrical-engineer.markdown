@@ -73,13 +73,13 @@ Achieving these depends on what kind of people we are and how we carry ourselves
 
 * can enjoy others' successes
 
-* prioritize listening over talking (yet enjoy talking)
+* prioritizes listening over talking (yet enjoy talking)
 
-* aren't given to anger or apprehension
+* isn't given to anger or apprehension
 
-* have a warm sense of humor
+* has a warm sense of humor
 
-* exhibit empathy, humility, and curiosity
+* exhibits empathy, humility, and curiosity
 
 ## How we'll hire
 
