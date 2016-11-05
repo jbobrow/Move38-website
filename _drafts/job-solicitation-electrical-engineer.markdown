@@ -103,7 +103,7 @@ Include 3 references and other evidence beautiful music will be made to [jobs@mo
 
 If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
-We're grateful to those who share this. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
+We're grateful to those who share this. 
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
