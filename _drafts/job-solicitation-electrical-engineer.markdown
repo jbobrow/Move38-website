@@ -81,7 +81,7 @@ We acknowledge these are ambitious goals. Achieving them (or even coming close) 
 
 ## How we'll hire
 
-We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
+We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
