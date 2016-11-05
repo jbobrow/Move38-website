@@ -59,7 +59,7 @@ The inner workings of our products aren't tucked away out of view; they're acces
 
 *photo: [Miguel Perez](http://miguelperez.cc/)*
 
-In addition to technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
+In addition to technical qualifications, we're looking for someone who can help build our culture. Here's what we want it to look like:  
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
