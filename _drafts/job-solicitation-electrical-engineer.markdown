@@ -23,7 +23,7 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. 
 
-We're pursuing that end by inventing modes of play that wouldn't exist if we didn't invent them. Games are our focus because they're ferociously compelling and have a proven ability to live in culture for thousands of years. 
+We're pursuing that end by inventing modes of play that wouldn't exist if we didn't invent them. Games are our focus because they're ferociously compelling and have a proven ability to live in culture for thousands of years. Not even architecture lasts that long ([mostly](https://en.wikipedia.org/wiki/Stonehenge)). 
 
 We're inventing hardware, tangible user interfaces, and game patterns. And we're inventing this technology to support our mission, not the other way around. Our mission is, ultimately, to define the future of play and thereby change the way minds develop and solve problems. 
 
