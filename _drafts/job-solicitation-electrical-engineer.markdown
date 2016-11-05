@@ -83,7 +83,7 @@ We acknowledge these are ambitious goals. Achieving them (or even coming close) 
 
 We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
 
-![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
+![giphy_carlton.gif](/uploads/giphy_carlton.gif)
 
 ## **Your first project**
 
