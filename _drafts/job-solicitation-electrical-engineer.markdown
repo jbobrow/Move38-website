@@ -69,7 +69,7 @@ In addition to technical qualifications, we're looking for someone who can help 
 
 3. *We become friends and project partners for life*
 
-Achieving these depends on what kind of people we are and how we carry ourselves. So we're looking for someone who:
+We acknowledge these are ambitious goals. Achieving them (or even coming close) depends on what kind of people we are and how we carry ourselves. So we're looking for someone who:
 
 * can enjoy others' successes
 
