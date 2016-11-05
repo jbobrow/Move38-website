@@ -1,5 +1,5 @@
 ---
-title: An unusually wordy job solicitation
+title: Overqualified engineer misfit wanted
 date: 2016-10-24 02:06:00 -04:00
 ---
 
@@ -56,6 +56,8 @@ We're looking for a great electrical engineer who loves her/his work, games and 
 The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who think holistically about product experience, who understands the mechanical engineering, PCB design, firmware, etc., as an integrated ecosystem.
 
 ![AutomaTiles_Uncased.jpg](/uploads/AutomaTiles_Uncased.jpg)
+
+*photo: [Miguel Perez](http://miguelperez.cc/)*
 
 In addition to technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
 
