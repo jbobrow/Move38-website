@@ -53,7 +53,7 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 ## You
 
-We're looking for a great electrical engineer who loves her/his work, games and design thinking. 
+We're looking for a great electrical engineer who loves her/his work, games and design thinking.
 
 The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who thinks holistically about product experience, who understands the mechanical engineering, PCB design, firmware, etc., as an integrated ecosystem.
 
@@ -61,7 +61,7 @@ The inner workings of our products aren't tucked away out of view; they're acces
 
 *photo: [Miguel Perez](http://miguelperez.cc/)*
 
-In addition to technical qualifications, we're looking for someone who can help build our culture. Here's the ideal we're shooting for:  
+In addition to technical qualifications, we're looking for someone who can help build our culture. Here's the ideal we're shooting for:
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -91,11 +91,11 @@ AutomaTiles exist, they function, and with the help of MIT Undergrad Joshua Sloa
 
 * The lead engineer should completely understand and own the hardware.
 
-* The hardware must be transformed from an MIT Media Lab project into commercial product. For example, they need to be more robust, durable, and child-safe, with better power management and built for scale. 
+* The hardware must be transformed from an MIT Media Lab project into commercial product. For example they need to be more robust, durable, and child-safe, with better power management and built for scale.
 
 ## Bottom Line
 
-If you're an electrical engineer, you're still reading, and you think we might make beautiful music together, tell us:
+If you're an electrical engineer and you think we might make beautiful music together, tell us:
 
 * why you're a great fit.
 
@@ -105,7 +105,7 @@ Include 3 references and other evidence beautiful music will be made to [jobs@mo
 
 If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
-We're grateful to those who share this. 
+We're grateful to those who share this.
 
 If you'd like to follow our work (and be alerted when our games launch), sign up here:
 
