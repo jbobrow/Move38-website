@@ -3,7 +3,7 @@ title: An unusually wordy job solicitation
 date: 2016-10-24 02:06:00 -04:00
 ---
 
-We're looking to hire an electrical engineer.
+We're looking to hire an lead engineer / electrical engineer.
 
 If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
 
@@ -51,7 +51,11 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 ## You
 
-First there's the straightforward stuff. We're looking for a great electrical engineer who loves her/his work, and ideally also games and design thinking. But the basics are (relatively) easy, necessary but not sufficient for our ideal outcome. What's our ideal outcome?
+We're looking for a great electrical engineer who loves her/his work, games and design thinking. 
+
+The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who think holistically about the product experience, who understands the mechanical engineering, the PCB design, the firmware, etc., as an integrated ecosystem.
+
+Beyond technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -59,7 +63,7 @@ First there's the straightforward stuff. We're looking for a great electrical en
 
 3. *We become friends and project partners for life*
 
-Achieving these depends on more than our qualifications; it depends on what kind of people we are and how we carry ourselves. Likewise we're looking for people who can help get us there, people who:
+Achieving these depends on what kind of people we are and how we carry ourselves. So we're looking for people who:
 
 * can enjoy others' successes
 
@@ -79,9 +83,11 @@ We don't think we can understand what someone is like from a resume and an inter
 
 ## **Your first project**
 
-AutomaTiles exist, they function, and with the help of MIT Undergrad\['17\], Joshua Sloane, have polish. Your first task will be to redesign the AutomaTile. Because the PCB isn't tucked away inside a plastic case, it is the backbone of a beautifully engineered, designed-to-be-held product, this will require a holistic view, understanding the mechanical engineering, the pcb design, as well as the firmware development to be an ecosystem for game designers and children alike.  
+AutomaTiles exist, they function, and with the help of MIT Undergrad\['17\], Joshua Sloane, they have polish. Nonetheless your first task will be to redesign them. Two reasons:
 
-A key near-term goal is to put a refined version of our current beta into the hands of developers and early adopters. To do that, we need to make the hardware more robust, add a few features (like power management), and better understand our options for managing component costs. Working through these issues (possibly in collaboration with a PCBA house we will work with) will be your first assignment.
+* The lead engineer should completely understand and own the hardware.
+
+* The hardware must be transformed from an MIT Media Lab project into commercial product. For example, they need to be more robust, durable, and child-safe, with better power management and built for scale. 
 
 ## Bottom Line
 
