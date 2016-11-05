@@ -21,9 +21,9 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 ...who is balding
 
-We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. We founded Move38 to foster playfulness as a way of life.
+We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier. 
 
-But playfulness is delicate. We're born with it but if it's not cultivated it can wither in the heat of life's hardships. The world needs green thumbs for playfulness. That's us.
+But playfulness is delicate. We're born with it but if it's not cultivated [it can wither in the heat of life's hardships](http://move38.com/blog/is-play-a-right/). The world needs green thumbs for playfulness. That's us.
 
 ## Current Work
 
@@ -31,13 +31,13 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, distributed computation, nonlinear dynamics, emergent complexity. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
+We emphasize our first product priority is to offer thundering fun. We stand athwart chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
 So we're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
 
 ## **Other Key Values**
 
-* We relish details without getting lost in them.
+* We relish detail without getting lost in it.
 
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
@@ -57,25 +57,21 @@ First there's the straightforward stuff. We're looking for a great electrical en
 
 3. *We become friends and project partners for life*
 
-Achieving these depends on more than our qualifications; it depends on what kind of people we are and how we carry ourselves. Likewise we're looking for people who can help get us there. 
+Achieving these depends on more than our qualifications; it depends on what kind of people we are and how we carry ourselves. Likewise we're looking for people who can help get us there, people who:
 
-* an ability to enjoy someone else's success
+* can enjoy others' successes
 
-* prioritizes listening over talking (yet enjoys talking)
+* prioritize listening over talking (yet enjoy talking)
 
-* not given to anger or apprehension
+* aren't given to anger or apprehension
 
-* a warm sense of humor
+* have a warm sense of humor
 
-* empathy
+* exhibit empathy, humility, and curiosity
 
-* humility
+## How we'll hire
 
-* curiosity
-
-## How we hire
-
- Spend time with them, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov to us!
+We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. [There are lots of ways to do so](http://www.huffingtonpost.com/young-entrepreneur-council/15-ideas-for-testing-your_b_2680528.html). We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov to us!
 
 ![xkcd-wedding-cake.jpg](/uploads/xkcd-wedding-cake.jpg)
 
