@@ -53,7 +53,7 @@ So we're devoted to designing things that are delightful all the way through, ch
 
 We're looking for a great electrical engineer who loves her/his work, games and design thinking. 
 
-The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who think holistically about the product experience, who understands the mechanical engineering, the PCB design, the firmware, etc., as an integrated ecosystem.
+The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who think holistically about product experience, who understands the mechanical engineering, PCB design, firmware, etc., as an integrated ecosystem.
 
 ![AutomaTiles_Uncased.jpg](/uploads/AutomaTiles_Uncased.jpg)
 
