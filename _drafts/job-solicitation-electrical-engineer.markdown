@@ -57,7 +57,7 @@ The inner workings of our products aren't tucked away out of view; they're acces
 
 ![AutomaTiles_Uncased.jpg](/uploads/AutomaTiles_Uncased.jpg)
 
-Beyond technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
+In addition to technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
 
 1. *We help each other work, think, and live with uncommon intelligence*
 
@@ -65,7 +65,7 @@ Beyond technical qualifications, we're looking for someone who can help build ou
 
 3. *We become friends and project partners for life*
 
-Achieving these depends on what kind of people we are and how we carry ourselves. So we're looking for people who:
+Achieving these depends on what kind of people we are and how we carry ourselves. So we're looking for someone who:
 
 * can enjoy others' successes
 
