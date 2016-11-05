@@ -5,7 +5,7 @@ date: 2016-10-24 02:06:00 -04:00
 
 We're looking to hire an electrical engineer.
 
-If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks, plus this document is more than just a job solicitation and may be worth a look for those interested in entrepreneurship.
+If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
 
 If what follows overclocks your cpu, do get in touch.
 
