@@ -89,9 +89,9 @@ If you're an electrical engineer, you're still reading, and you think we might m
 
 * what your favorite childhood toy was and why.
 
-* Include 3 references
+Include 3 references and other evidence beautiful music will be made to jobs@move38.com. 
 
-* other evidence beautiful music will be made to jobs@move38.com. If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
+If you're not an electrical engineer but think you could make a vital contribution and want us to keep you in mind, do also get in touch.
 
 We're grateful to those who share this. Life is fleeting and we don't want to waste anyone's time by hiring the wrong person.
 
