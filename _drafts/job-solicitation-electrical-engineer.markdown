@@ -55,6 +55,8 @@ We're looking for a great electrical engineer who loves her/his work, games and 
 
 The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who think holistically about the product experience, who understands the mechanical engineering, the PCB design, the firmware, etc., as an integrated ecosystem.
 
+![AutomaTiles_Uncased.jpg](/uploads/AutomaTiles_Uncased.jpg)
+
 Beyond technical qualifications, we're looking for someone who can help build our culture. Here's what it looks like:  
 
 1. *We help each other work, think, and live with uncommon intelligence*
