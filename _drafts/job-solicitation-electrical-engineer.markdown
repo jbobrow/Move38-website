@@ -19,7 +19,7 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 \[image\]
 
-...who is a balding game designer, game marketer and former computational neuroscientist
+...who is a balding game designer, game marketer and former computational neuroscientist.
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier.
 
