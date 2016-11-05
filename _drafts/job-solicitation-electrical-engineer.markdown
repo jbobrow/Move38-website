@@ -1,6 +1,6 @@
 ---
 title: Overqualified engineer misfit wanted
-date: 2016-10-24 02:06:00 -04:00
+date: 2016-11-07 10:00:00 -05:00
 ---
 
 We're looking to hire an lead engineer / electrical engineer.
