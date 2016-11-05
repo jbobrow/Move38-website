@@ -77,8 +77,6 @@ Achieving these depends on what kind of people we are and how we carry ourselves
 
 * isn't given to anger or apprehension
 
-* has a warm sense of humor
-
 * exhibits empathy, humility, and curiosity
 
 ## How we'll hire
