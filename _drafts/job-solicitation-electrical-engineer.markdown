@@ -16,6 +16,8 @@ If what follows overclocks your CPU, do [get in touch](mailto:jobs@move38.com).
 
 At present, our team consists of two people:
 
+![Nick_Jon_110616.jpg](/uploads/Nick_Jon_110616.jpg)
+
 1. [Jonathan Bobrow](http://cargo.jonathanbobrow.com/) (left), a mathematician, designer and recent MIT Media Lab alum with nice hair.
 
 2. [Nick Bentley](https://nickbentleygames.wordpress.com/) (right), a balding game designer, game marketer, and former computational neuroscientist.
