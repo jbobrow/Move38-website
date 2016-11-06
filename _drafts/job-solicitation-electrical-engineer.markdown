@@ -34,7 +34,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
-* We try to face our flaws with a light heart and work steadily to improve.
+* We try to face our flaws with light hearts and work steadily to improve.
 
 ## Current Work
 
