@@ -143,7 +143,6 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 <div id="mc_embed_signup">
 <form action="//move38.us14.list-manage.com/subscribe/post?u=7857fa104de3ffc5bbe78d94c&amp;id=0a2dafa3d5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
