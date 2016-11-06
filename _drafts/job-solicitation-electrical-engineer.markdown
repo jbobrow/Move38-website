@@ -16,9 +16,9 @@ If what follows overclocks your CPU, do [get in touch](mailto:jobs@move38.com).
 
 At present, our team consists of two people:
 
-* [Jonathan Bobrow](http://cargo.jonathanbobrow.com/) (left), a mathematician, designer and recent MIT Media Lab alum with nice hair.
+1. [Jonathan Bobrow](http://cargo.jonathanbobrow.com/) (left), a mathematician, designer and recent MIT Media Lab alum with nice hair.
 
-* [Nick Bentley](https://nickbentleygames.wordpress.com/) (right), a balding game designer, game marketer, and former computational neuroscientist (that's me).
+2. [Nick Bentley](https://nickbentleygames.wordpress.com/) (right), a balding game designer, game marketer, and former computational neuroscientist.
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier.
 
@@ -30,7 +30,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 * We sweat details without getting lost in them.
 
-* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect our personal lives. 
+* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect our personal lives.
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
