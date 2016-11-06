@@ -1,5 +1,5 @@
 ---
-title: Looking for games astronauts to help us invent new kinds of play
+title: We’re hiring game astronauts to help us invent new kinds of play
 date: 2016-10-24 02:06:00 -04:00
 tags:
 - jobs
@@ -14,15 +14,11 @@ If what follows overclocks your CPU, do [get in touch](mailto:jobs@move38.com).
 
 ## About Us
 
-At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jonathanbobrow.com/)
+At present, our team consists of two people:
 
-\[image\]
+* [Jonathan Bobrow](http://cargo.jonathanbobrow.com/) (left), a mathematician, designer and recent MIT Media Lab alum with nice hair.
 
-...who is a mathematician, designer and recent MIT Media Lab alum with nice hair, and [yours truly:](https://nickbentleygames.wordpress.com/)
-
-\[image\]
-
-...a balding game designer, game marketer, and former computational neuroscientist.
+* [Nick Bentley](https://nickbentleygames.wordpress.com/) (right), a balding game designer, game marketer, and former computational neuroscientist (that's me).
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier.
 
