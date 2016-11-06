@@ -1,6 +1,9 @@
 ---
-title: Overqualified engineer misfit wanted
+title: Looking for games astronauts to help us invent new kinds of play
 date: 2016-10-24 02:06:00 -04:00
+tags:
+- jobs
+- engineering
 ---
 
 We're looking to hire an lead engineer / electrical engineer.
@@ -19,7 +22,7 @@ At present, our team consists of two people: [Jonathan Bobrow:](http://cargo.jon
 
 \[image\]
 
-...who is a balding game designer, game marketer and former computational neuroscientist.
+...a balding game designer, game marketer, and former computational neuroscientist.
 
 We founded Move38 to foster playfulness as a way of life. We think we're at our best when we approach our lives playfully. It makes our thinking clearer, our learning faster, our work better, and us happier.
 
@@ -29,7 +32,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 ## Current Work
 
-Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves](http://www.move38.com/blog/a-board-game-that-thinks/).  It's called AutomaTiles. It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
+Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves, ](http://www.move38.com/blog/a-board-game-that-thinks/)called AutomaTiles. It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
 
 ![409C9542.JPG](/uploads/409C9542.JPG)
 
@@ -46,8 +49,6 @@ So we're devoted to designing things that are delightful all the way through, ch
 * We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
-
-* We try to cultivate an atmosphere of [psychological safety](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0).
 
 * We try to face our flaws with a light heart and work steadily to improve.
 
