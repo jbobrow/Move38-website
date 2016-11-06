@@ -30,6 +30,16 @@ We're pursuing that end by inventing modes of play that wouldn't exist if we did
 
 We're inventing hardware, tangible user interfaces, and game patterns. And we're inventing this technology to support our mission, not the other way around. Our mission is, ultimately, to define the future of play and thereby change the way minds develop and solve problems.
 
+## Other Values
+
+* We sweat details without getting lost in them.
+
+* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we take care not to neglect our personal lives. 
+
+* We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
+
+* We try to face our flaws with a light heart and work steadily to improve.
+
 ## Current Work
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves, ](http://www.move38.com/blog/a-board-game-that-thinks/)called AutomaTiles. It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
@@ -41,16 +51,6 @@ Principles of, for example, distributed computation, nonlinear dynamics, and eme
 We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
 So we're devoted to designing things that are delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
-
-## **Other Key Values**
-
-* We sweat details without getting lost in them.
-
-* We value our partners in life and our time on Earth, and our schedules reflect that. Sometimes we make exceptions because we love what we do, but we don't let exceptions become the norm.
-
-* We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
-
-* We try to face our flaws with a light heart and work steadily to improve.
 
 ## You
 
