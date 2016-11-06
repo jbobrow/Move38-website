@@ -107,7 +107,7 @@ If you're not an electrical engineer but think you could make a vital contributi
 
 We're grateful to those who share this.
 
-If you'd like to follow our work (and be alerted when our games launch), sign up here:
+If you'd like to follow our work (and be alerted when our Kickstarter launches), sign up here:
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -133,6 +133,7 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[2\]='LNAME';ftypes\[2\]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+If you'd like to be alerted to our Kickstarter campaign only, without receiving weekly blog updates, sign up here: 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -158,7 +159,5 @@ If you'd like to follow our work (and be alerted when our games launch), sign up
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
-Super duper pooper scooper,
 
 -[Nick Bentley](https://nickbentleygames.wordpress.com/)
