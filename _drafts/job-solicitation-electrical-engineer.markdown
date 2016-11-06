@@ -48,7 +48,7 @@ Principles of, for example, distributed computation, nonlinear dynamics, and eme
 
 We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
-So we're devoted to making this product delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
+So we're devoted to making AutomaTiles delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
 
 ## You
 
