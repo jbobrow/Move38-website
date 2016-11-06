@@ -6,9 +6,7 @@ tags:
 - engineering
 ---
 
-We're looking to hire an lead engineer / electrical engineer.
-
-If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
+We're looking to hire an lead engineer / electrical engineer. If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
 
 If what follows overclocks your CPU, do [get in touch](mailto:jobs@move38.com).
 
@@ -32,7 +30,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 * We sweat details without getting lost in them.
 
-* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect our personal lives.
+* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect them.
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
