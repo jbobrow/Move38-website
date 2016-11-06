@@ -36,7 +36,7 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 ![409C9542.JPG](/uploads/409C9542.JPG)
 
-Principles of, for example, distributed computation, nonlinear dynamics, emergent complexity. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
+Principles of, for example, distributed computation, nonlinear dynamics, and emergent complexity. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
 We emphasize our first product priority is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
