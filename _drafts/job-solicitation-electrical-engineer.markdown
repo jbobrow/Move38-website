@@ -34,7 +34,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 * We sweat details without getting lost in them.
 
-* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we take care not to neglect our personal lives. 
+* We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect our personal lives. 
 
 * We believe in [thinking time.](http://www.inc.com/empact/why-successful-people-spend-10-hours-a-week-just-thinking.html)
 
