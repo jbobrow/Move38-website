@@ -94,7 +94,7 @@ AutomaTiles exist, they function, and with the help of MIT Undergrad [Joshua Slo
 
 If you're an electrical engineer and you think we might make beautiful music together, tell us:
 
-* why you're a great fit.
+* why Move38 is a great fit for you. 
 
 * what your favorite childhood toy was and why.
 
