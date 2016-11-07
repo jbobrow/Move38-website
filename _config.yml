@@ -42,7 +42,7 @@ disqus:
 url: http://www.move38.com
 baseurl: 
 permalink: "/blog/:title/"
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 markdown: kramdown
 kramdown:
