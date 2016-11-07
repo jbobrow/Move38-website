@@ -78,7 +78,7 @@ We acknowledge these are ambitious goals. Achieving them (or even coming close) 
 
 ## How we'll hire
 
-We don't think we can understand what someone is like from a résumé and an interview. We want to spend time with you, ideally working. We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
+We don't think we can understand what someone is like from a resume and an interview. We want to spend time with you, ideally working. We favor hiring on contract for a short-term project at first, and if everyone is happy with the results, we get married. Mazel tov!
 
 ![giphy_carlton.gif](/uploads/giphy_carlton.gif)
 
