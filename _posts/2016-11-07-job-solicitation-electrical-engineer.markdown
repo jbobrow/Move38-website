@@ -1,6 +1,6 @@
 ---
 title: We’re hiring games astronauts to help us invent new kinds of play
-date: 2016-11-07 02:06:00 -05:00
+date: 2016-11-07 22:00:00 -05:00
 tags:
 - jobs
 - engineering
