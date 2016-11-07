@@ -84,7 +84,7 @@ We don't think we can understand what someone is like from a resume and an inter
 
 ## **Your first project**
 
-AutomaTiles exist, they function, and with the help of MIT Undergrad Joshua Sloane, they have polish. Nonetheless your first task will be to redesign them. Two reasons:
+AutomaTiles exist, they function, and with the help of MIT Undergrad [Joshua Sloane](https://www.linkedin.com/in/joshua-sloane), they have polish. Nonetheless your first task will be to redesign them. Two reasons:
 
 * The lead engineer should completely understand and own the hardware.
 
