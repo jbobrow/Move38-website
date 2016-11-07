@@ -28,7 +28,7 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 ## Other Values
 
-* We sweat details without getting lost in them.
+* We sweat the details without getting lost in them.
 
 * We [value our partners in life](https://boardgamegeek.com/blogpost/44834/designer-diary-stinker-or-party-game-i-designed-in) and we don't neglect them.
 
@@ -52,7 +52,7 @@ So we're devoted to making the system delightful all the way through, chocolate 
 
 We're looking for a great electrical engineer who loves her/his work, games and design thinking.
 
-The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who thinks holistically about product experience, who understands the mechanical engineering, PCB design, firmware, etc., as an integrated ecosystem.
+The inner workings of our products aren't tucked away out of view; they're accessible to the consumer and part of the product experience. We therefore need an engineer who thinks holistically about that experience, who understands the mechanical engineering, PCB design, firmware, etc., as an integrated ecosystem.
 
 ![AutomaTiles_Uncased.jpg](/uploads/AutomaTiles_Uncased.jpg)
 
