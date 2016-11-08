@@ -36,6 +36,8 @@ We're inventing hardware, tangible user interfaces, and game patterns. And we're
 
 * We try to face our flaws with light hearts and work steadily to improve.
 
+* We value diversity, and not in a cover-our-asses HR kind of way.
+
 ## Current Work
 
 Our first project, the one for which we're hiring, is a [tabletop game platform with programmable components that can think for themselves, ](http://www.move38.com/blog/a-board-game-that-thinks/)called AutomaTiles. It has a screenless, friendly, tactile interface, and it feels like a living thing. It offers a new play experience that builds intuition for principles to which kids (and many adults) aren't otherwise much exposed.
@@ -94,7 +96,7 @@ AutomaTiles exist, they function, and with the help of MIT Undergrad [Joshua Slo
 
 If you're an electrical engineer and you think we might make beautiful music together, tell us:
 
-* why Move38 is a great fit for you. 
+* why Move38 is a great fit for you.
 
 * what your favorite childhood toy was and why.
 
