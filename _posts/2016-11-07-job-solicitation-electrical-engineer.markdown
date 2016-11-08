@@ -46,7 +46,7 @@ Our first project, the one for which we're hiring, is a [tabletop game platform 
 
 Principles of, for example, distributed computation, nonlinear dynamics, and emergent complexity. Ideas critical for understanding the modern world but which even now are confined mostly to the walled gardens of academia and tech companies.
 
-We emphasize our first priority for Automatiles is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
+We emphasize our first priority for AutomaTiles is to offer thundering fun. We object to chocolate broccoli: if you put chocolate on broccoli, it's still broccoli. Likewise if you try to dress up an "educational" game with a veneer of "fun".
 
 So we're devoted to making the system delightful all the way through, chocolate chocolate if you will, because that way lies playfulness. We learn best from the things we love most.
 
