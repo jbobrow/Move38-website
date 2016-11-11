@@ -1,5 +1,5 @@
 ---
-title: 'Live Free or Die: a game we''re developing'
+title: 'Live Free or Die: new game in development'
 date: 2016-11-10 15:39:00 -05:00
 ---
 
