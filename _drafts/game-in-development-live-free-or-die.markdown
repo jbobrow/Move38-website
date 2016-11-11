@@ -3,9 +3,9 @@ title: 'Live Free or Die: a game we''re developing'
 date: 2016-11-10 15:39:00 -05:00
 ---
 
-We've been posting about our new game platform for more than a month now, but we've only shown off one game so far. That's a crime and it's time for justice.
+We've been posting about our new game platform for more than a month, but we've only shown off one game so far. That's a crime and it's time for justice.
 
-Today we're showing off an in-development game that wouldn't likely exist without our system to play it on. I'll describe the current rules first, and then discuss where it came from and where it's going.
+Today we're showing off an in-development game that wouldn't likely exist without our system to play it on. I'll describe the current rules first, and then where it came from and where it's going.
 
 The key idea behind the game is that *the pieces age and die, and the last player with a living piece wins.*
 
