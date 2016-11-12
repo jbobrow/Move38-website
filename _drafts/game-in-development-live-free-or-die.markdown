@@ -46,10 +46,14 @@ In Tamsk:
 
 * When you move a sand-timer, you flip it. 
 
-There are additional rules that make it more complicated, but the goal is the same: kill all your opponent's pieces by making them run out of time. 
+There are additional rules that make it somewhat complicated, but the goal is the same: kill all your opponent's pieces by making them run out of time. 
 
-Tamsk didn't work for a number of reasons: mainly that the game was expensive, the sand-timers could be glitchy, and it was maybe a little too complicated for the time-pressure it put players under. 
+Tamsk didn't work for a number of reasons: it was expensive, the sand-timers could be glitchy, and it was maybe too complicated for the time-pressure it put players under. 
 
-That's no knock against the designer though (Kris Burm, one of the greatest board game designers ever, for my money). It's just really hard to create a traditional game with time as an intrinsic strategic variable.
+That's no knock against the designer though (Kris Burm, one of the greatest board game designers ever, for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
 
-But for Automatiles it's no problem, so I thought we should try to design one. Live Free or Die is still very much in progress and may change considerably before we're done, by the central idea, aging pieces, will always be what it's about.      
+But for AutomaTiles it's easy, so we thought we should try to design a game like that. And so we have. 
+
+Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like cute little retributive vampires. 
+
+Live Free or Die is still in development and may change a lot before we're done; feel free to share your opinions about how you'd like to see it develop (though know we may feel free to ignore them), or other ideas for games this might inspire. 
