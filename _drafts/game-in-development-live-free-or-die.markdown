@@ -7,7 +7,7 @@ We've been posting about our new table game platform for more than a month, but 
 
 For those who don't know what I'm talking about, Automatiles are little hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say so, they might be mistaken for a new form of life. 
 
-Today we show off an in-development game that wouldn't likely exist without our system to play it on. I'll describe the current rules first, and then where it came from.
+Today we show off an in-development game that wouldn't likely exist without AutomaTiles. I'll describe the current rules first, and then where it came from.
 
 The key idea behind the game is that *the pieces age and die, and the last player with a living piece wins.*
 
