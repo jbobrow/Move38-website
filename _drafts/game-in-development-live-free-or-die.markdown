@@ -11,7 +11,7 @@ For those who haven't yet heard about our platform (i.e.  nearly everyone), Auto
 
 Today we show off an in-development game that wouldn't likely exist without AutomaTiles. I'll describe the current rules first, and then where it came from.
 
-The key idea behind the game is that *the pieces age and die, and the last player with a living piece wins.*
+The key idea behind the game is that ***the pieces age and die, and the last player with a living piece wins.***
 
 **Current Rules**
 
