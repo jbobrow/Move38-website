@@ -5,11 +5,11 @@ date: 2016-11-10 15:39:00 -05:00
 
 We've been posting about [our new table game platform](http://move38.com/blog/a-board-game-that-thinks/) for more than a month, but we've only shown off one game. That's a crime and it's time for justice.
 
-For those who haven't yet heard about our platform (i.e.  nearly everyone), AutomaTiles are small hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say so, they might be mistaken for a new form of life.
+For those who haven't yet heard about our platform (i.e.  nearly everyone), AutomaTiles are small hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say, they might be mistaken for a new form of life.
 
 ![fracture_hands_01_8mb.gif](/uploads/fracture_hands_01_8mb.gif)
 
-Today we show off an in-development game that wouldn't likely exist without AutomaTiles. I'll describe the current rules first, and then where it came from.
+Today we show off an in-development game that wouldn't likely exist without AutomaTiles. I'll describe the current (and still changing) rules first, and then where it came from.
 
 The key idea behind the game is that ***the pieces age and die, and the last player with a living piece wins.***
 
