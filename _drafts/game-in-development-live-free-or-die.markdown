@@ -40,11 +40,9 @@ Each game is intense and lasts just a minute or two. Because you gain life each 
 
 **Origin**
 
-One of the weirdest games in the annals of board game history is called Tamsk:
+One of the weirdest games in the annals of board game history is Tamsk:
 
 ![tamsk.jpg](/uploads/tamsk.jpg)
-
-In Tamsk:
 
 * each piece is a sand-timer, and each player owns several.
 
@@ -52,13 +50,13 @@ In Tamsk:
 
 * When you move a sand-timer, you flip it, thus delaying its death.
 
-There are additional rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponents movement), but the goal is the same: kill all your opponent's pieces by making them run out of time.
+There are additional rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponent's movement), but the goal is the same: kill all your opponent's pieces by making them run out of time.
 
 Tamsk didn't work for a number of reasons: it was expensive, the sand-timers could be glitchy, and it was maybe too complicated for the time-pressure it put players under.
 
 That's no knock against the designer though ([Kris Burm](https://en.wikipedia.org/wiki/Kris_Burm), one of the greatest board game designers ever for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
 
-But for AutomaTiles it's easier, so we thought we should try to design a game like that. And so we're working on it.
+But for AutomaTiles it's easier, so we thought we should try to design a game like that. 
 
 Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like cute little retributive vampires (and indeed they do).
 
