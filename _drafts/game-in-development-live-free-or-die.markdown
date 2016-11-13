@@ -19,24 +19,23 @@ The key idea behind the game is that ***the pieces age and die, and the last pla
 
 * one player owns 3 purple tiles; the other owns 3 green tiles.
 
-* at the start, the pieces are arranged like this:
-
+* at the start each players' 3 tiles are arranged in a triangular clump, and the clumps are put them together to start the game.
 
 * the players take turns
 
 * on your turn, you must move any tile (of either color), or any group of tiles (of any combination of colors). This means you detach them from the group and put them back together with the group in any arrangement. The tiles you move must be detachable without lifting them from the table (for example you can't move a tile surrounded by 5-6 other tiles).
 
-* The tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic increasingly as death approaches). When a piece dies it becomes white (a ghost).
+* The tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic increasingly as death approaches). When a piece dies it becomes a ghost (pulses white).
 
 * The rate at which each piece ages depends on who its neighbors are. A piece with more enemies than friends around it will age quickly. A piece with equal numbers of enemies and friends will age at a medium rate, and a piece with more friends than enemies around it will age slowly.
 
 * When you move a single piece, it gains life (20% of its starting life - exercise is good!) Note: when you move more than one piece as a group, none gain life.
 
-* You may not move an individual ghost, but you may a ghost as part of a group.
-
 * The last player with a living tile on the table wins.
 
-Each game is intense and lasts just a minute or two. Because you gain life each time you move, it's rarely to your advantage to delay taking your turn while you wait for enemy pieces to die.
+Each game is intense and lasts just a minute or two (though we can make it as long as we want by setting the tiles to age more slowly). 
+
+Here's an example from a playtest session at [Babycastles](http://babycastles.com/) in New York City:
 
 **Origin**
 
@@ -58,9 +57,9 @@ That's no knock against the designer though ([Kris Burm](https://en.wikipedia.or
 
 But for AutomaTiles it's easier, so we thought we should try to design a game like that. 
 
-Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like cute little retributive vampires (and indeed they do).
+Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like little retributive vampires (which indeed they do in this game).
 
-Live Free or Die is still in development and may change a lot before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
+Live Free or Die is still in development and will change before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
 
 If you'd like to follow our work and be notified when our Kickstarter launches, sign up here:
 
