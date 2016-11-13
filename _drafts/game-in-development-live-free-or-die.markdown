@@ -35,7 +35,7 @@ The key idea behind the game is that ***the pieces age and die, and the last pla
 
 Each game is intense and lasts just a minute or two (though we can make it as long as we want by setting the tiles to age more slowly). 
 
-Here's an example from a playtest session at [Babycastles](http://babycastles.com/) in New York City:
+Here's an example from a session at [Babycastles](http://babycastles.com/) in New York City:
 
 **Origin**
 
