@@ -1,6 +1,6 @@
 ---
 title: 'Live Free or Die: new game in development'
-date: 2016-11-10 15:39:00 -05:00
+date: 2016-11-14 10:00:00 -05:00
 ---
 
 We've been posting about [our new table game platform](http://move38.com/blog/a-board-game-that-thinks/) for more than a month, but we've only shown off one game. That's a crime and it's time for justice.
