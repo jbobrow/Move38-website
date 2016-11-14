@@ -41,7 +41,7 @@ Here's an example from a session at [Babycastles](http://babycastles.com/) in Ne
 
 **Origin**
 
-Live Free or Die is inspired by one of the weirdest games in the history of board games: Tamsk
+Live Free or Die is inspired by one of the weirdest games in the history of board games: [Tamsk](https://boardgamegeek.com/boardgame/108/tamsk)
 
 ![tamsk.jpg](/uploads/tamsk.jpg)
 
@@ -53,11 +53,11 @@ In Tamsk:
 
 * When you move a sand-timer, you flip it, thus delaying its death.
 
-There are more rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponent's movement), but the goal is the same: kill all your opponent's pieces by making them run out of time.
+There are more rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponent's movement), but the goal is the same: kill your opponent's pieces by making them run out of time, before yours do.
 
 Tamsk didn't work for a number of reasons: it was expensive, the sand-timers could be glitchy, and it was maybe too complicated for the time-pressure it put players under.
 
-That's no knock against the designer though ([Kris Burm](https://en.wikipedia.org/wiki/Kris_Burm), one of the greatest board game designers ever for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
+That's no knock against the designer ([Kris Burm](https://en.wikipedia.org/wiki/Kris_Burm), one of the greatest board game designers ever for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
 
 But for AutomaTiles it's easier, so we thought we should try to design a game like that.
 
