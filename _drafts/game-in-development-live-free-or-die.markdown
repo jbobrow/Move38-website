@@ -25,13 +25,13 @@ The key idea behind the game is that ***the pieces age and die, and the last pla
 
 * on your turn, you must move any tile (of either color), or any group of tiles (of any combination of colors). This means you detach them from the group and put them back together with the group in any arrangement. The tiles you move must be detachable without lifting them from the table (for example you can't move a tile surrounded by 5-6 other tiles).
 
-* The tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic as death approaches). When a piece dies it becomes a ghost (pulses white).
+* the tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic as death approaches). When a piece dies it becomes a ghost (pulses white).
 
-* The rate at which each piece ages depends on who its neighbors are. A piece with more enemies than friends around it will age quickly. A piece with equal numbers of enemies and friends will age at a medium rate, and a piece with more friends than enemies around it will age slowly.
+* the rate at which each piece ages depends on who its neighbors are. A piece with more enemies than friends around it will age quickly. A piece with equal numbers of enemies and friends will age at a medium rate, and a piece with more friends than enemies around it will age slowly.
 
-* When you move a single piece, it gains life (20% of its starting life - exercise is good!) Note: when you move more than one piece as a group, none gain life.
+* when you move a single piece, it gains life (20% of its starting life - exercise is good!) Note: when you move more than one piece as a group, none gain life.
 
-* The last player with a living tile on the table wins.
+* the last player with a living tile on the table wins.
 
 Each game is intense and lasts just a minute or two (though we can make it as long as we want by making the tiles age more slowly).
 
