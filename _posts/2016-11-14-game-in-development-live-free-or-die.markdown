@@ -7,7 +7,7 @@ We've been posting about [our new table game platform](http://move38.com/blog/a-
 
 For those who don't yet know about it (nearly everyone), AutomaTiles are small hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say, they might be mistaken for a new form of life.
 
-![fracture_hands_01_8mb.gif](/uploads/fracture_hands_01_8mb.gif)
+![fracture_hands_01.gif](/uploads/fracture_hands_01.gif)
 
 Today we show off an in-development game that wouldn't likely exist without AutomaTiles. I'll describe the current (and still changing) rules first, and then where it came from.
 
