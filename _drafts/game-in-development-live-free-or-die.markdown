@@ -33,9 +33,11 @@ The key idea behind the game is that ***the pieces age and die, and the last pla
 
 * The last player with a living tile on the table wins.
 
-Each game is intense and lasts just a minute or two (though we can make it as long as we want by making the tiles age more slowly). 
+Each game is intense and lasts just a minute or two (though we can make it as long as we want by making the tiles age more slowly).
 
 Here's an example from a session at [Babycastles](http://babycastles.com/) in New York City:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hxT5uG2SBz8" frameborder="0" allowfullscreen></iframe>
 
 **Origin**
 
@@ -57,7 +59,7 @@ Tamsk didn't work for a number of reasons: it was expensive, the sand-timers cou
 
 That's no knock against the designer though ([Kris Burm](https://en.wikipedia.org/wiki/Kris_Burm), one of the greatest board game designers ever for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
 
-But for AutomaTiles it's easier, so we thought we should try to design a game like that. 
+But for AutomaTiles it's easier, so we thought we should try to design a game like that.
 
 Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like little retributive vampires (which indeed they do in this game).
 
