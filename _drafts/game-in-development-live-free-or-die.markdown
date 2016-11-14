@@ -19,13 +19,13 @@ The key idea behind the game is that ***the pieces age and die, and the last pla
 
 * one player owns 3 purple tiles; the other owns 3 green tiles.
 
-* at the start each players' 3 tiles are arranged in a triangular clump, and the clumps are put them together to start the game.
+* at the start each players' 3 tiles are arranged in a triangular clump, and the clumps are put together to start the game.
 
 * the players take turns
 
 * on your turn, you must move any tile (of either color), or any group of tiles (of any combination of colors). This means you detach them from the group and put them back together with the group in any arrangement. The tiles you move must be detachable without lifting them from the table (for example you can't move a tile surrounded by 5-6 other tiles).
 
-* The tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic increasingly as death approaches). When a piece dies it becomes a ghost (pulses white).
+* The tiles' lights pulse gently, and the rate of the pulse indicates how close they are to death (they panic as death approaches). When a piece dies it becomes a ghost (pulses white).
 
 * The rate at which each piece ages depends on who its neighbors are. A piece with more enemies than friends around it will age quickly. A piece with equal numbers of enemies and friends will age at a medium rate, and a piece with more friends than enemies around it will age slowly.
 
@@ -53,7 +53,7 @@ In Tamsk:
 
 * When you move a sand-timer, you flip it, thus delaying its death.
 
-There are additional rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponent's movement), but the goal is the same: kill all your opponent's pieces by making them run out of time.
+There are more rules that make it somewhat complicated (having to do with depositing rings around the board to restrict your opponent's movement), but the goal is the same: kill all your opponent's pieces by making them run out of time.
 
 Tamsk didn't work for a number of reasons: it was expensive, the sand-timers could be glitchy, and it was maybe too complicated for the time-pressure it put players under.
 
@@ -63,7 +63,7 @@ But for AutomaTiles it's easier, so we thought we should try to design a game li
 
 Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like little retributive vampires (which indeed they do in this game).
 
-Live Free or Die is still in development and will change before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
+Live Free or Die is still in development and will surely change before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
 
 If you'd like to follow our work and be notified when our Kickstarter launches, sign up here:
 
