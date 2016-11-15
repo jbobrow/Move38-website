@@ -5,7 +5,7 @@ date: 2016-10-13 17:22:00 -04:00
 
 You know why you're here. Let's get down to it:
 
-1. Hexagons one of only three kinds of regular polygons that tile the plane. Regular polygons are of course awesome because they're the most symmetrical polygons and symmetry is the basis for everything that is good in the universe. The others are equilateral triangles (boring) and squares (square)
+1. Hexagons one of only three kinds of regular polygons that tile the plane. Regular polygons are of course awesome because they're the most symmetrical polygons and symmetry is the basis for everything that is good in the universe. The other regular polygons that tile the plane are equilateral triangles (boring) and squares (square)
 
 2. They have more sides than any other regular polygon that tiles the plane. So hotttt.
 
