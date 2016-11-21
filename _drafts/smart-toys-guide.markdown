@@ -9,33 +9,14 @@ To understand our future competition, we've been researching smart games and sma
 
 ## Only the good ones
 
-Our list consists of physical toys with digital components, that have learning value. There are  a million digital toys that don't make the cut, either because they're badly made, or they don't offer learning value, or they're not fun and will end up unplayed and unloved at the bottom of some toy bin somewhere a week after the holidays. What follows are only the good ones. Here we go:
+Our list consists of physical toys with digital components that have some learning value. There are  a million digital toys that don't make the cut here, either because they're cheaply or thoughtlessly made, or they don't offer learning value, or we think they'll end up unplayed and unloved at the bottom of some toy bin somewhere a week after the holidays. So we're covering only those we think of as the good ones. Here we go:
 
-## [Sphero](http://www.sphero.com/) 
-
-A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens, and is the most well-known smart toy on the market.
-
-The company behind it makes [a range of products](https://store.sphero.com/). They're all fun to play with as toys, per se, but some have more learning value than others. The one most geared to hacking and doing projects is the [Sprk Plus:](http://www.sphero.com/sprk-plus)
-
-![SPRK-plus.png](/uploads/SPRK-plus.png)
-
-...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do.](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/)
-
-## [Little Bits](http://littlebits.cc/)
-
-programmable building blocks
-
-## [Cubelets](http://www.modrobotics.com/cubelets/)   
-
-programmable building blocks
-
-Makey Makey 
-
-invention kit that turns everyday object into digital user interfaces
-
+Sphero - remote controlled programmable ball
+Little Bits - programmable building blocks
+Cubelets  - programmable building blocks
+Makey Makey - invention kit that turns everyday object into digital user interfaces
 Ozobot - programmable robot
-
 Cubetto - programmable robot
-Root
-Osmo
-Honeycomb
+Root - a robot to grow with from our friends at Harvard Wyss
+[Osmo](https://www.amazon.com/Osmo-TP-OSMO-01-FFP-Starter-Kit/dp/B013JLGB2W/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1479704209&sr=1-4&keywords=osmo) - combines an iPad with hands-on play  
+Honeycomb - Like Little Bits, but with a branching structure, which in theory provides more features, but haven't seen any yet. 
