@@ -37,7 +37,7 @@ Each game is intense and lasts just a minute or two (though we can make it as lo
 
 Here's an example from a session at [Babycastles](http://babycastles.com/) in New York City:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0udWYEfeGyA" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/0udWYEfeGyA" frameborder="0" allowfullscreen></iframe>
 
 **Origin**
 

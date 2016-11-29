@@ -29,7 +29,7 @@ I hit the ground running with my friend [Mike Lazer-Walker](http://lazerwalker.c
 
 So the first day of Fracture demos was fantastic, and it only got better from there. One player exclaimed he'd dreamt about playing Fracture the night after playing it, and he came back the next day to see if he could reign as champion (he did).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/JajZLRV4laY" frameborder="0" allowfullscreen></iframe>
 
 Some players approached the game with heavy analysis and complicated defensive maneuvering. (Note the player threatening another with a prop gun in the following image)
 
@@ -37,7 +37,7 @@ Some players approached the game with heavy analysis and complicated defensive m
 
 Others worked collaboratively to achieve a Super Win, a rule invented by Celia Pearce to encourage more cooperative play. If every tile is put in a happy state, everyone wins (are there any other games that can be totally cooperative or competitive depending on the trajectory through its state space?)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6SYrYEp3CE8" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/6SYrYEp3CE8" frameborder="0" allowfullscreen></iframe>
 
 **Developers wanted**
 
@@ -45,7 +45,7 @@ Another delightful aspect of IndieCade is many attendees aren't just game player
 
 One USC student couldn't stop raving about how much fun she had playing, and the new possibilities for play the system creates. There were a lot of comments like that and it meant a lot to hear them.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/oUZCVBs_ezA" frameborder="0" allowfullscreen></iframe>
 
 And that one moment I mentioned that wasn't [happy happy joy joy](https://www.youtube.com/watch?v=eVM1nUmDHHc).
 
