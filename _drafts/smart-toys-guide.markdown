@@ -11,7 +11,7 @@ To understand our future competition, we've been researching smart games and sma
 
 Our list consists of physical toys with digital components, that have learning value. There are  a million digital toys that don't make the cut, either because they're badly made, they don't offer learning value, or they're not fun and will end up unplayed and unloved at the bottom of some toy bin somewhere a week after the holidays. What follows are only the good ones. Here we go:
 
-## [Sphero](http://www.sphero.com/) 
+## [Sphero](http://www.sphero.com/)
 
 A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens, and is the most well-known smart toy on the market.
 
@@ -25,11 +25,11 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 
 programmable building blocks
 
-## [Cubelets](http://www.modrobotics.com/cubelets/)   
+## [Cubelets](http://www.modrobotics.com/cubelets/)
 
 programmable building blocks
 
-Makey Makey 
+Makey Makey
 
 invention kit that turns everyday object into digital user interfaces
 
@@ -39,3 +39,5 @@ Cubetto - programmable robot
 Root
 Osmo
 Honeycomb
+
+Fabulous Beasts!
