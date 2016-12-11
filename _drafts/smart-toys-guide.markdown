@@ -29,7 +29,8 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 
 ![SPRK-plus.png](/uploads/SPRK-plus.png)
 
-...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do.](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/)
+...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/), and a video run down here:
+<iframe width="720" height="405" src="https://www.youtube.com/embed/wmtncRJ_UP8" frameborder="0" allowfullscreen></iframe>
 
 ## [Little Bits](http://littlebits.cc/)
 
