@@ -32,9 +32,12 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 ...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do.](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/)
 
 ## [Little Bits](http://littlebits.cc/)
-<iframe width="720" height="405" src="https://www.youtube.com/embed/-bHNlTyQ75M" frameborder="0" allowfullscreen></iframe>
 
-Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains one or a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an [adorable video review by a cute kid here](https://youtu.be/-bHNlTyQ75M).
+<iframe width="720" height="405" src="https://www.youtube.com/embed/fMg5QPQQOOI" frameborder="0" allowfullscreen></iframe>
+
+Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains one or a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an adorable video review by a cute kid here:
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/-bHNlTyQ75M" frameborder="0" allowfullscreen></iframe>
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
