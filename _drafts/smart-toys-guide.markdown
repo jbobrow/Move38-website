@@ -23,11 +23,11 @@ HERE WE GO:
 
 ## [Sphero](http://www.sphero.com/)
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/A14Hjxh1ejw" frameborder="0" allowfullscreen></iframe>
+
 A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens, and is the most well-known smart toy on the market.
 
 The company behind it makes [a range of products](https://store.sphero.com/). They're all fun to play with as toys, per se, but some have more learning value than others. The one most geared to hacking and doing projects is the [Sprk Plus:](http://www.sphero.com/sprk-plus)
-
-![SPRK-plus.png](/uploads/SPRK-plus.png)
 
 ...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/), and a video run down here:
 <iframe width="720" height="405" src="https://www.youtube.com/embed/wmtncRJ_UP8" frameborder="0" allowfullscreen></iframe>
