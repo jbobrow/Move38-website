@@ -7,7 +7,7 @@ As you may or may not know, hackable devices for kids are a trend. [Even Kicksta
 
 Here at Move38, we're developing just such a device, in this case a (screenless) tabletop game platform with digital components that you can make your own games on (in addition to playing the ones we make).
 
-You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it here.
+You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it today.
 
 In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for their rugrats that might actually teach them something.
 
@@ -27,7 +27,7 @@ HERE WE GO:
 
 A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens, and is the most well-known smart toy on the market.
 
-The company behind it makes [a range of products](https://store.sphero.com/). They're all fun to play with as toys, per se, but some have more learning value than others. The one most geared to hacking and doing projects is the [Sprk Plus:](http://www.sphero.com/sprk-plus)
+The company behind it makes [a range of products](https://store.sphero.com/). They're all fun to play with as toys, per se, but some have more learning value than others. The one most geared to hacking is the [Sprk Plus:](http://www.sphero.com/sprk-plus)
 
 ...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/), and a video run down here:
 <iframe width="720" height="405" src="https://www.youtube.com/embed/wmtncRJ_UP8" frameborder="0" allowfullscreen></iframe>
@@ -42,7 +42,9 @@ Little Bits are like Legos but for electronics: simple, modular electronics that
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
-programmable building blocks
+<iframe width="720" height="404" src="https://www.youtube.com/embed/4EDsLayRKQA" frameborder="0" allowfullscreen></iframe>
+
+These are like Little Bits above but are mostly just for making robots. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted)
 
 Makey Makey
 
