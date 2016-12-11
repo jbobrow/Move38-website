@@ -1,15 +1,25 @@
 ---
-title: Smart Toys Gift Guide 2016
+title: Smart Toys Gift Guide 2016 - Hackable Devices for Kids
 date: 2016-10-20 13:59:00 -04:00
 ---
 
-We're developing a tabletop game platform with digital components. If we do it right, it'll feel like a board game come alive on your table.
+As you may or may not know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
 
-To understand our future competition, we've been researching smart games and smart toys. It occurred to us that because the holidays are near, parents might benefit from what we've learned to make their gift choices this year. We've got nothing to sell and there's no reason for us not to share our opinions.
+Here at Move38, we're developing just such a device, in this case a (screenless) tabletop game platform with digital components that you can make your own games on (in addition to playing the ones we make).
+
+You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it here today.
+
+In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us our research might be helpful  to folks scrambling to find gifts for their rugrats that might actually teach them something.
 
 ## Only the good ones
 
-Our list consists of physical toys with digital components, that have learning value. There are  a million digital toys that don't make the cut, either because they're badly made, they don't offer learning value, or they're not fun and will end up unplayed and unloved at the bottom of some toy bin somewhere a week after the holidays. What follows are only the good ones. Here we go:
+Our list consists of physical toys with digital components that you can hack on. We're trying to include only the ones which:
+
+1. aren't cheaply made
+
+2. are fun
+
+HERE WE GO:
 
 ## [Sphero](http://www.sphero.com/)
 
@@ -23,7 +33,7 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 
 ## [Little Bits](http://littlebits.cc/)
 
-programmable building blocks
+Little Bits are simple, modular electronics that work like building blocks, and from which you can make lots of different cool projects. The company sells them in kits, where each kit contains one or a few specific projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green whenever it hears a sound. The simplest kits can built by 8-year olds, but the sky's the limit in terms of complexity. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can see a more in depth review here and watch an adorable video review by a cute kid here. 
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
