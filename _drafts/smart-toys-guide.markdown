@@ -7,9 +7,9 @@ As you may or may not know, hackable devices for kids are a trend. [Even Kicksta
 
 Here at Move38, we're developing just such a device, in this case a (screenless) tabletop game platform with digital components that you can make your own games on (in addition to playing the ones we make).
 
-You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it here today.
+You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it here.
 
-In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us our research might be helpful  to folks scrambling to find gifts for their rugrats that might actually teach them something.
+In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for their rugrats that might actually teach them something.
 
 ## Only the good ones
 
@@ -32,8 +32,9 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 ...which offers a refined system for teaching the rudiments of programming. See [here for a detailed rundown on what it can do.](https://www.cnet.com/news/sphero-sprk-and-lightning-lab-a-coding-robot-with-new-improvements/)
 
 ## [Little Bits](http://littlebits.cc/)
+<iframe width="720" height="405" src="https://www.youtube.com/embed/-bHNlTyQ75M" frameborder="0" allowfullscreen></iframe>
 
-Little Bits are simple, modular electronics that work like building blocks, and from which you can make lots of different cool projects. The company sells them in kits, where each kit contains one or a few specific projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green whenever it hears a sound. The simplest kits can built by 8-year olds, but the sky's the limit in terms of complexity. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can see a more in depth review here and watch an adorable video review by a cute kid here. 
+Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains one or a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an [adorable video review by a cute kid here](https://youtu.be/-bHNlTyQ75M).
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
