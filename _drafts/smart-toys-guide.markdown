@@ -11,15 +11,9 @@ You can read about it here, here, here, and here, but we're not selling it yet a
 
 In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for their rugrats that might actually teach them something.
 
-## Only the good ones
+# The Big Three
 
-Our list consists of physical toys with digital components that you can hack on. We're trying to include only the ones which:
-
-1. aren't cheaply made
-
-2. are fun
-
-HERE WE GO:
+There are three products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto
 
 ## [Sphero](http://www.sphero.com/)
 
@@ -36,9 +30,17 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/fMg5QPQQOOI" frameborder="0" allowfullscreen></iframe>
 
-Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains one or a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an adorable video review by a cute kid here:
+Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an adorable video review by a cute kid here:
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/-bHNlTyQ75M" frameborder="0" allowfullscreen></iframe>
+
+## [Cubetto](https://www.primotoys.com/)
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Kp1p2lh2D64" frameborder="0" allowfullscreen></iframe>
+
+The tagline for this product is "Teach your child to code before they can read" and they aren't kidding. Cubetto is for kids three and up and by all accounts it really does work for kids that young. 
+
+It's a system for controlling a simple, wooden, square shaped robot with wheels. There's a wooden board with shallow hole in it a bunch of differently shaped blocks with pegs that fit into the holes. Each shape represents a command you can give to the robot. When a child puts a sequence of blocks onto the board, it makes the robot do a particular sequence of things. We're big fans. 
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
