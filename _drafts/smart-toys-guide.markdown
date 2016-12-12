@@ -40,7 +40,9 @@ Little Bits are like Legos but for electronics: simple, modular electronics that
 
 The tagline for this product is "Teach your child to code before they can read" and they aren't kidding. Cubetto is for kids three and up and by all accounts it really does work for kids that young. 
 
-It's a system for controlling a simple, wooden, square shaped robot with wheels. There's a wooden board with shallow hole in it a bunch of differently shaped blocks with pegs that fit into the holes. Each shape represents a command you can give to the robot. When a child puts a sequence of blocks onto the board, it makes the robot do a particular sequence of things. We're big fans. 
+It's a system for controlling a simple, wooden, square shaped robot with wheels. There's a wooden board with shallow hole in it a bunch of differently shaped blocks with pegs that fit into the holes. Each shape represents a command you can give to the robot. When a child puts a sequence of blocks onto the board, it makes the robot do a particular sequence of things. We're big fans. Here's a very thorough video review:
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/NzF_ng0ELZw" frameborder="0" allowfullscreen></iframe>
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
