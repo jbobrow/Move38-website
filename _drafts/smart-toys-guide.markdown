@@ -44,15 +44,17 @@ It's a system for controlling a simple, wooden, square shaped robot with wheels.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/NzF_ng0ELZw" frameborder="0" allowfullscreen></iframe>
 
-## Ozobot Bit
+## [Ozobot](http://ozobot.com/)
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/UlZHh_1EqfU" frameborder="0" allowfullscreen></iframe>
 
-Ozobot is like Cubetto, but for older kids. They make several products but the Ozobot Bit is the best for hacking and learning to program. It uses a "block" programming language where you drag code modules into the program you're building. It's like a virtual version of Cubetto's physical blocks. 
-
-Here's a nice video review:
+Ozobot is like Cubetto, but for older kids (8 and up). They make [several products](http://ozobot.com/products) but the [Ozobot Bit](http://ozobot.com/products/ozobot-bit) is the best for hacking and learning to program. It uses a "block" programming language where you drag code modules into the program you're building. It's like a virtual version of Cubetto's physical blocks. Here's a nice video review of the Ozobot Bit:
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/q5dVXL4ARgg" frameborder="0" allowfullscreen></iframe>
+
+# The Rest
+
+There a a few others out 
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
