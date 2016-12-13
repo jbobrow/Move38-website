@@ -64,7 +64,7 @@ Constructable, programmable robots made out of Legos. Mindstorms have been aroun
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
-These are like Little Bits above but they're much more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted).
+These are like Little Bits above but more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted).
 
 ## [Makey Makey](http://makeymakey.com/)
 
@@ -76,7 +76,8 @@ An invention kit that allows you to turn everyday object into digital  interface
 
 ## [Kano](https://kano.me/)
 
-AirBlock
+## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
 Programmable starter drone - not available yet. still on Kickstarter
+
 Honeycomb
