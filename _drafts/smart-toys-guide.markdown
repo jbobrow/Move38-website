@@ -13,7 +13,7 @@ In the course of starting this company, we've done a lot of research on hackable
 
 # The Big Four
 
-There are three products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot 
+There are four products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot 
 
 ## [Sphero](http://www.sphero.com/)
 
