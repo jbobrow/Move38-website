@@ -3,7 +3,7 @@ title: Smart Toys Gift Guide 2016 - Hackable Devices for Kids
 date: 2016-10-20 13:59:00 -04:00
 ---
 
-As you may or may not know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
+As you may know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
 
 Here at Move38, we're developing just such a device, in this case a (screenless) tabletop game platform with digital components that you can make your own games on (in addition to playing the ones we make).
 
@@ -11,9 +11,9 @@ You can read about it here, here, here, and here, but we're not selling it yet a
 
 In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for their rugrats that might actually teach them something.
 
-# The Big Three
+# The Big Four
 
-There are three products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto
+There are three products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot 
 
 ## [Sphero](http://www.sphero.com/)
 
@@ -43,6 +43,16 @@ The tagline for this product is "Teach your child to code before they can read" 
 It's a system for controlling a simple, wooden, square shaped robot with wheels. There's a wooden board with shallow hole in it a bunch of differently shaped blocks with pegs that fit into the holes. Each shape represents a command you can give to the robot. When a child puts a sequence of blocks onto the board, it makes the robot do a particular sequence of things. We're big fans. Here's a very thorough video review:
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/NzF_ng0ELZw" frameborder="0" allowfullscreen></iframe>
+
+## Ozobot Bit
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/UlZHh_1EqfU" frameborder="0" allowfullscreen></iframe>
+
+Ozobot is like Cubetto, but for older kids. They make several products but the Ozobot Bit is the best for hacking and learning to program. It uses a "block" programming language where you drag code modules into the program you're building. It's like a virtual version of Cubetto's physical blocks. 
+
+Here's a nice video review:
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/q5dVXL4ARgg" frameborder="0" allowfullscreen></iframe>
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
