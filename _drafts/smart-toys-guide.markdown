@@ -56,23 +56,27 @@ Ozobot is like Cubetto, but for older kids (8 and up). They make [several produc
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/hkN_DObmh1c" frameborder="0" allowfullscreen></iframe>
 
-Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Below a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products): 
+Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Note a lot of other "constructable robotics" kits have come out in the time since, but we decided not to include them here because we think Mindstorms is still the way to go. Below is a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products): 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/wLupj65qJHg" frameborder="0" allowfullscreen></iframe>
 
 # The Rest
 
-There a a few others out
-
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
-These are like Little Bits above but they're much more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted)
+These are like Little Bits above but they're much more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted).
 
-Makey Makey
+## [Makey Makey](http://makeymakey.com/)
 
-invention kit that turns everyday object into digital user interfaces
-Root
-Osmo
+An invention kit that allows you to turn everyday object into digital  interfaces. Like for example, you can turn a bunch of bananas into a musical instrument. It's very well done, but we don't include it in the top echelon because it's functionality is a little limited. 
+
+## [Technology Will Save Us](https://www.techwillsaveus.com/)
+
+## [Root](http://www.codewithroot.com/)
+
+## [Kano](https://kano.me/)
+
+AirBlock
+
+Programmable starter drone - not available yet. still on Kickstarter
 Honeycomb
-
-Fabulous Beasts!
