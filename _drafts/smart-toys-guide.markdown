@@ -5,15 +5,15 @@ date: 2016-10-20 13:59:00 -04:00
 
 As you may know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
 
-Here at Move38, we're developing just such a device, in this case a (screenless) tabletop game platform with digital components that you can make your own games on (in addition to playing the ones we make).
+Here at Move38, we're developing just such a device, in this case a [screenless tabletop game platform with digital components](http://move38.com/blog/a-board-game-that-thinks/) that you can make your own games on (in addition to playing the ones we make).
 
-You can read about it here, here, here, and here, but we're not selling it yet and I'm not writing about it today.
+But we're not selling it yet and I'm not writing about it today.
 
-In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for their rugrats that might actually teach them something.
+In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for kids that might actually teach them something.
 
-# The Big Four
+# The Big Five
 
-There are four products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot 
+There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot, and the grandaddy of them all, Lego MindStorms
 
 ## [Sphero](http://www.sphero.com/)
 
@@ -38,7 +38,7 @@ Little Bits are like Legos but for electronics: simple, modular electronics that
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/Kp1p2lh2D64" frameborder="0" allowfullscreen></iframe>
 
-The tagline for this product is "Teach your child to code before they can read" and they aren't kidding. Cubetto is for kids three and up and by all accounts it really does work for kids that young. 
+The tagline for this product is "Teach your child to code before they can read" and they aren't kidding. Cubetto is for kids three and up and by all accounts it really does work for kids that young.
 
 It's a system for controlling a simple, wooden, square shaped robot with wheels. There's a wooden board with shallow hole in it a bunch of differently shaped blocks with pegs that fit into the holes. Each shape represents a command you can give to the robot. When a child puts a sequence of blocks onto the board, it makes the robot do a particular sequence of things. We're big fans. Here's a very thorough video review:
 
@@ -52,23 +52,25 @@ Ozobot is like Cubetto, but for older kids (8 and up). They make [several produc
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/q5dVXL4ARgg" frameborder="0" allowfullscreen></iframe>
 
+## [Lego Mindstorms](https://www.lego.com/en-us/mindstorms)
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/hkN_DObmh1c" frameborder="0" allowfullscreen></iframe>
+
+Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Below a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products): 
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/wLupj65qJHg" frameborder="0" allowfullscreen></iframe>
+
 # The Rest
 
-There a a few others out 
+There a a few others out
 
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
-<iframe width="720" height="404" src="https://www.youtube.com/embed/4EDsLayRKQA" frameborder="0" allowfullscreen></iframe>
-
-These are like Little Bits above but are mostly just for making robots. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted)
+These are like Little Bits above but they're much more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted)
 
 Makey Makey
 
 invention kit that turns everyday object into digital user interfaces
-
-Ozobot - programmable robot
-
-Cubetto - programmable robot
 Root
 Osmo
 Honeycomb
