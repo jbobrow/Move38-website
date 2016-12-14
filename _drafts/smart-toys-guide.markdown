@@ -70,7 +70,7 @@ These are like Little Bits above but more constrained in what you can do with th
 
 ## [Makey Makey](http://makeymakey.com/)
 
-An invention kit that allows you to turn everyday object into digital  interfaces. For example, you can turn a bunch of bananas into a musical instrument. It's very well done, but we don't include it in the top echelon because it's functionality is a little limited.
+An invention kit that allows you to turn everyday object into digital  interfaces. For example, you can turn a bunch of bananas into a musical instrument. It's very well done, but we don't include it in the top echelon because its functionality is a little limited.
 
 ## [Technology Will Save Us](https://www.techwillsaveus.com/)
 
