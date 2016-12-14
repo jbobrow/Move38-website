@@ -5,7 +5,7 @@ date: 2016-10-20 13:59:00 -04:00
 
 As you may know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
 
-Here at Move38, we're developing just such a device, in this case a [screenless tabletop game platform with digital components](http://move38.com/blog/a-board-game-that-thinks/) that you can make your own games on (in addition to playing the ones we and our friends make).
+Here at Move38, we're developing just such a product, in this case a [screenless tabletop game platform with digital components](http://move38.com/blog/a-board-game-that-thinks/) that you can make your own games on (in addition to playing the ones we and our friends make).
 
 But we're not selling it yet and I'm not writing about it today.
 
