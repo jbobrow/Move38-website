@@ -13,7 +13,7 @@ In the course of starting this company, we've done a lot of research on hackable
 
 # The Big Five
 
-There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot, and the grandaddy of them all, Lego MindStorms.
+There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, Ozobot, and the grandaddy of them all, Lego MindStorms.
 
 ## [Sphero](http://www.sphero.com/)
 
