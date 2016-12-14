@@ -3,6 +3,8 @@ title: Smart Toys Gift Guide 2016 - Hackable Devices for Kids
 date: 2016-12-12 13:59:00 -05:00
 ---
 
+![SPRK-plus.png](/uploads/SPRK-plus.png)
+
 As you may know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
 
 Here at Move38, we're developing just such a product, in this case a [screenless tabletop game platform with digital components](http://move38.com/blog/a-board-game-that-thinks/) that you can make your own games on (in addition to playing the ones we and our friends make).
@@ -64,11 +66,11 @@ These are products that we're not quite as confident about for one reason or ano
 
 ## [Chibitronics](https://chibitronics.com/)
 
-These are tech construction kits in the vein of Little Bits, except you build circuits with stickers that have embedded electronic elements in them. The key downside is once you stick the circuits together, they're hard to take apart again, so the system isn't infinitely reusable. (Full disclosure: [Chibitronics featured our own Jonathan Bobrow on their site](https://chibitronics.com/meet-the-chibi-maker-jonathan-bobrow/)). 
+These are tech construction kits in the vein of Little Bits, except you build circuits with stickers that have embedded electronic elements in them. The key downside is once you stick the circuits together, they're hard to take apart again, so the system isn't infinitely reusable. (Full disclosure: [Chibitronics featured our own Jonathan Bobrow on their site](https://chibitronics.com/meet-the-chibi-maker-jonathan-bobrow/)).
 
 ## [Teknikio](https://www.teknikio.com/)
 
-Another tech building product like Little Bits, except the main building material is paper, which gives the system a notably friendly vibe (it's billed as origami with circuitry). We really like this system. It's inexpensive  and the paper invites children to be creative. We're on the fence about whether to add it to the Big Five above. The downside is that there's only so much you can do with it: many of the projects entail building an animal or some other structure and illuminating it with LEDs. 
+Another tech building product like Little Bits, except the main building material is paper, which gives the system a notably friendly vibe (it's billed as origami with circuitry). We really like this system. It's inexpensive  and the paper invites children to be creative. We're on the fence about whether to add it to the Big Five above. The downside is that there's only so much you can do with it: many of the projects entail building an animal or some other structure and illuminating it with LEDs.
 
 ## [Makey Makey](http://makeymakey.com/)
 
