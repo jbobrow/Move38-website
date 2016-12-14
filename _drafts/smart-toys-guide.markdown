@@ -82,7 +82,7 @@ Root is like Ozobot above: a programmable robot (it looks like a little Roomba),
 
 ## [Kano](https://kano.me/)
 
-This is a kit from which kids can build a simple computer and then learn to program with it. Our main issue with it is that you're not so much building a computer as assembling it (which is necessary to make it simple enough for a 6 year old). Like putting a table from IKEA together rather than building a table yourself. It's not clear how much learning value there is in actually doing this. 
+This is a kit from which kids can build a simple computer and then learn to program with it. Our main issue with it is that you're not so much building a computer as assembling it (which is necessary to make it simple enough for a 6 year old). Like putting a table from IKEA together rather than building a table yourself. It's not clear how much learning value there is in doing this. 
 
 ## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
