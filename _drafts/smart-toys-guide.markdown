@@ -56,7 +56,7 @@ Ozobot is like Cubetto, but for older kids (8 and up). They make [several produc
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/hkN_DObmh1c" frameborder="0" allowfullscreen></iframe>
 
-Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Note a lot of other "constructable robotics" kits have come out in the time since, but we decided not to include them here because we think Mindstorms is still the way to go. Below is a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products):
+Constructable, programmable robots made out of Legos. Mindstorms has been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. One downside is it's easy to get lost in the giant Mindstorms ecosystem. Another is that there marketing materials are pretty non-inclusive: it's very white and very boy-centric. Note other "constructable robotics" kits have come out in the time since, but we decided not to include them here because we think Mindstorms is still the way to go. Below is a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products):
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/wLupj65qJHg" frameborder="0" allowfullscreen></iframe>
 
