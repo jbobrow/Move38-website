@@ -1,6 +1,6 @@
 ---
 title: Smart Toys Gift Guide 2016 - Hackable Devices for Kids
-date: 2016-10-20 13:59:00 -04:00
+date: 2016-12-12 13:59:00 -05:00
 ---
 
 As you may know, hackable devices for kids are a trend. [Even Kickstarter says so](https://medium.com/kickstarter/our-tech-predictions-for-2017-5810bb931d63#.gryfq73mv).
