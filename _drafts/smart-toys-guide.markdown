@@ -86,7 +86,7 @@ This is a kit from which kids can build a simple computer and then learn to prog
 
 ## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
-This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet! It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming. 
+This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet. It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming. 
 
 That's it for now! We'll update this page regularly as new products come out and old ones get refined. 
 
