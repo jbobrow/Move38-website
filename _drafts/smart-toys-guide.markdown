@@ -28,7 +28,7 @@ The company behind it makes [a range of products](https://store.sphero.com/). Th
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/fMg5QPQQOOI" frameborder="0" allowfullscreen></iframe>
 
-Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an adorable video review by a cute kid here:
+Little Bits are like Legos but for electronics: simple, modular electronics that work like building blocks. The company sells them in kits, where each kit contains a few projects with instructions, like for building a musical instrument or a robot with creepy eyes that glow green when it hears a sound. The simplest kits can be built by 8-year olds. You can [see all Little Bits kits here](http://littlebits.cc/shop/kits).  You can [see a more in depth review here](http://www.hanselman.com/blog/ReviewLittleBitsGadgetsAndGizmosElectronicsKitsForSTEMKids.aspx) and watch an adorable video review by a cute kid here:
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/-bHNlTyQ75M" frameborder="0" allowfullscreen></iframe>
 
@@ -72,7 +72,7 @@ An invention kit that allows you to turn everyday object into digital  interface
 
 ## [Technology Will Save Us](https://www.techwillsaveus.com/)
 
-This is a series of kits for building various tech projects, like Little Bits above, except the different kits aren't quite as easy to combine and repurpose for your own invented projects (which is why we prefer Little Bits over this). 
+This is a series of kits for building various tech projects, like Little Bits above, except the different kits aren't quite as easy to combine and repurpose for your own invented projects (which is why we prefer Little Bits over this).
 
 ## [Root](http://www.codewithroot.com/)
 
@@ -80,13 +80,13 @@ Root is like Ozobot above: a programmable robot (it looks like a little Roomba),
 
 ## [Kano](https://kano.me/)
 
-This is a kit from which kids can build a simple computer and then learn to program with it. Our main issue with it is that you're not so much building a computer as assembling it (which is necessary to make it simple enough for a 6 year old). Like putting a table from IKEA together rather than building a table yourself. It's not clear how much learning value there is in doing this. 
+This is a kit from which kids can build a simple computer and then learn to program with it. Our main issue with it is that you're not so much building a computer as assembling it (which is necessary to make it simple enough for a 6 year old). Like putting a table from IKEA together rather than building a table yourself. It's not clear how much learning value there is in doing this.
 
 ## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
-This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet. It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming. 
+This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet. It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming.
 
-That's it for now! We'll update this page regularly as new products come out and old ones get refined. 
+That's it for now! We'll update this page regularly as new products come out and old ones get refined.
 
 If you'd like to follow our work and be notified when our Kickstarter launches, sign up here:
 
