@@ -13,13 +13,13 @@ In the course of starting this company, we've done a lot of research on hackable
 
 # The Big Five
 
-There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, Ozobot, and the grandaddy of them all, Lego MindStorms.
+There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, Cubetto, Ozobot, and the grandaddy of them all, Lego MindStorms.
 
 ## [Sphero](http://www.sphero.com/)
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/A14Hjxh1ejw" frameborder="0" allowfullscreen></iframe>
 
-A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens, and is the most well-known smart toy on the market.
+A remote controlled, programmable ball that you guide with your mobile device. It's famous for being the technology behind the BB-8 droid in Star Wars: The Force Awakens.
 
 The company behind it makes [a range of products](https://store.sphero.com/). They're all fun to play with as toys, per se, but some have more learning value than others. The one most geared to hacking is the [Sprk Plus:](http://www.sphero.com/sprk-plus)
 
