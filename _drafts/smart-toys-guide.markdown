@@ -13,7 +13,7 @@ In the course of starting this company, we've done a lot of research on hackable
 
 # The Big Five
 
-There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot, and the grandaddy of them all, Lego MindStorms
+There are five products that stand out above the rest, in our opinion. When in doubt, pick one of these. They are Sphero, Little Bits, and Cubetto, and Ozobot, and the grandaddy of them all, Lego MindStorms.
 
 ## [Sphero](http://www.sphero.com/)
 
@@ -56,28 +56,34 @@ Ozobot is like Cubetto, but for older kids (8 and up). They make [several produc
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/hkN_DObmh1c" frameborder="0" allowfullscreen></iframe>
 
-Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Note a lot of other "constructable robotics" kits have come out in the time since, but we decided not to include them here because we think Mindstorms is still the way to go. Below is a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products): 
+Constructable, programmable robots made out of Legos. Mindstorms have been around since 1998 and everything about it is vast: the number of kits and projects, the size of the community, and the volume of third-party resources online. The downside is it's easy to get lost in the giant Mindstorms ecosystem. Note a lot of other "constructable robotics" kits have come out in the time since, but we decided not to include them here because we think Mindstorms is still the way to go. Below is a thorough review of the latest generation (it's a little critical, but bear in mind reviewers generally hold Mindstorms to a higher standard than they do for other products):
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/wLupj65qJHg" frameborder="0" allowfullscreen></iframe>
 
 # The Rest
 
+These are products that we're not quite as confident about for one reason or another (we explain our reasons for each below)
+
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
-These are like Little Bits above but more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits (and the scope of what you can do with them is more restricted).
+These are like Little Bits above but more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits.
 
 ## [Makey Makey](http://makeymakey.com/)
 
-An invention kit that allows you to turn everyday object into digital  interfaces. Like for example, you can turn a bunch of bananas into a musical instrument. It's very well done, but we don't include it in the top echelon because it's functionality is a little limited. 
+An invention kit that allows you to turn everyday object into digital  interfaces. For example, you can turn a bunch of bananas into a musical instrument. It's very well done, but we don't include it in the top echelon because it's functionality is a little limited.
 
 ## [Technology Will Save Us](https://www.techwillsaveus.com/)
 
+This is a series of kits for building various tech projects, like Little Bits above, except the different kits aren't quite as easy to combine and repurpose for your own invented projects (which is why we prefer Little Bits over this). 
+
 ## [Root](http://www.codewithroot.com/)
+
+Root is like Ozobot above: a programmable robot (it looks like a little Roomba), and here again, it uses block programming to make the programming easy for kids. This one isn't available yet either, having just Kickstarted, but you can preorder [here](http://www.codewithroot.com/store).
 
 ## [Kano](https://kano.me/)
 
+This is a kit from which kids can build a simple computer and then learn to program with it. Our main issue with it is that you're not so much building a computer as assembling it (which is necessary to make it simple enough for a 6 year old). Like putting a table from IKEA together rather than building a table yourself. It's not clear how much learning value there is in actually doing this. 
+
 ## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
-Programmable starter drone - not available yet. still on Kickstarter
-
-Honeycomb
+This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet! It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming. 
