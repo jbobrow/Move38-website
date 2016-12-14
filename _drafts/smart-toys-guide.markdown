@@ -9,7 +9,7 @@ Here at Move38, we're developing just such a device, in this case a [screenless 
 
 But we're not selling it yet and I'm not writing about it today.
 
-In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us the research might be helpful to folks scrambling to find gifts for kids that might actually teach them something.
+In the course of starting this company, we've done a lot of research on hackable tech toys. It occurred to us our research might be helpful to folks scrambling to find gifts for kids that might actually teach them something.
 
 # The Big Five
 
@@ -62,6 +62,10 @@ Constructable, programmable robots made out of Legos. Mindstorms has been around
 
 These are products that we're not quite as confident about for one reason or another (we explain our reasons for each below)
 
+## [Chibitronics](https://chibitronics.com/)
+
+These are tech construction kits in the vein of Little Bits or Technology Will Save Us above, except you build circuits with stickers that have embedded electronic elements in them. The key downside is once you stick the circuits together, they're hard to take apart again, so the system isn't infinitely reusable. (Full disclosure: [Chibitronics featured our own Jonathan Bobrow on their site](https://chibitronics.com/meet-the-chibi-maker-jonathan-bobrow/)). 
+
 ## [Cubelets](http://www.modrobotics.com/cubelets/)
 
 These are like Little Bits above but more constrained in what you can do with them, too constrained in our opinion. Every unit is a cube, and different cubes have different functions. They can be used by kids as young as 4, as they're a little simpler than Little Bits.
@@ -85,6 +89,10 @@ This is a kit from which kids can build a simple computer and then learn to prog
 ## [AirBlock](https://www.kickstarter.com/projects/1818505613/airblock-the-modular-and-programmable-starter-dron)
 
 This is a low-cost, modular, programmable drone. It's hard to know if this is good or not yet, because it's not out yet. It was Kickstarted earlier this year and backers won't receive their rewards until February 2017. It uses block programming like Ozobot above, so it will presumably be a good choice for teaching young kids the rudiments of programming.
+
+## [Teknikio](https://www.teknikio.com/)
+
+Another tech building product like Little Bits, except it features "crafty" materials especially paper (it's build as origami with circuitry), which gives the system a notably friendly vibe. We really like this system. It's incredibly inexpensive for a product in this category and the paper invites children to be creative. We're on the fence about whether to add it to the Big Five above. The downside is that there's only so much you can do with it: many of the projects entail building an animal or some other structure and illuminating with LEDs. 
 
 That's it for now! We'll update this page regularly as new products come out and old ones get refined.
 
