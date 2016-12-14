@@ -78,7 +78,7 @@ This is a series of kits for building various tech projects, like Little Bits ab
 
 ## [Root](http://www.codewithroot.com/)
 
-Root is like Ozobot above: a programmable robot (it looks like a little Roomba), and here again, it uses block programming to make the programming easy for kids. This one isn't available yet either, having just Kickstarted, but you can preorder [here](http://www.codewithroot.com/store).
+Root is like Ozobot above: a programmable robot (it looks like a little Roomba), and here again, it uses block programming to make the programming easy for kids. This one isn't available yet, having just Kickstarted, but you can preorder [here](http://www.codewithroot.com/store).
 
 ## [Kano](https://kano.me/)
 
