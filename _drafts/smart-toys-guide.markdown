@@ -60,11 +60,11 @@ Constructable, programmable robots made out of Legos. Mindstorms has been around
 
 # The Rest
 
-These are products that we're not quite as confident about for one reason or another (we explain our reasons for each below)
+These are products that we're not quite as confident about for one reason or another (we explain our reasons for each below).
 
 ## [Chibitronics](https://chibitronics.com/)
 
-These are tech construction kits in the vein of Little Bits or Technology Will Save Us above, except you build circuits with stickers that have embedded electronic elements in them. The key downside is once you stick the circuits together, they're hard to take apart again, so the system isn't infinitely reusable. (Full disclosure: [Chibitronics featured our own Jonathan Bobrow on their site](https://chibitronics.com/meet-the-chibi-maker-jonathan-bobrow/)). 
+These are tech construction kits in the vein of Little Bits, except you build circuits with stickers that have embedded electronic elements in them. The key downside is once you stick the circuits together, they're hard to take apart again, so the system isn't infinitely reusable. (Full disclosure: [Chibitronics featured our own Jonathan Bobrow on their site](https://chibitronics.com/meet-the-chibi-maker-jonathan-bobrow/)). 
 
 ## [Teknikio](https://www.teknikio.com/)
 
