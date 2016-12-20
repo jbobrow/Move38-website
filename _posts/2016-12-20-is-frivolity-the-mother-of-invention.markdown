@@ -7,8 +7,4 @@ Recently [Slate interviewed one of our favorite writers, Steven Johnson](http://
 
 His thesis is that "seemingly trivial pursuits" have largely shaped our world, not "the quest for power, nationalism, or religious beliefs", as is normally assumed. 
 
-Another way he puts it is the "pursuit of things we want, not the things we need" move the world. 
-
-Examples cited in the interview are: 
-
-1. the taste for spices created the trade and exploration routes that created the modern economy. 
+Another way he puts it is the "pursuit of things we want, not the things we need" move the world, and that many leisure pursuits are not the waste of time our culture often assumes them to be. 
