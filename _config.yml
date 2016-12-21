@@ -25,7 +25,7 @@ defaults:
     type: posts
   values:
     layout: post
-    person:
+    person: 
 - scope:
     path: ''
     type: people
