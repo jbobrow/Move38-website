@@ -1,6 +1,7 @@
 ---
 title: Our first IndieCade experience
 date: 2016-10-31 10:00:00 -04:00
+person: Jonathan Bobrow
 ---
 
 Two weeks ago, I went to IndieCade for the first time and fell head over heels for it. It couldn't have been more enjoyable (except for one thing, but I'll get to that).
