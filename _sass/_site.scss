@@ -149,6 +149,23 @@ body {
 			padding: .5px 5px;
     }
   }
+
+  &-author {
+    img {
+      width: 100px;
+      height: 100px;
+      position: relative;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+      border-radius: 50%;
+    }
+    &-name {
+      font-size: 1.4em;
+    }
+  }
+
   &-share {
     margin-bottom: 1rem;
   }

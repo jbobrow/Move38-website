@@ -11,7 +11,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
 <!--   <span class="post-date">
     <time>{{ page.date | date_to_string }}</time>
-  </span>-->  
+  </span>-->
   <div class="post-tag">
     <ul>
       {% for tag in page.tags %}
@@ -24,6 +24,15 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+
+  <!-- Author by-line-->
+  {% assign person = site.people | where: 'title', post.person | first %}
+  {% if person %}
+  <div id="post-author">
+    <img id="post-author-image" src="{{ person.image }}"/>
+    <a id="post-author-name" href="{{ person.url }}">{{ person.title }}</a>
+  </div>
+  {% endif %}
 
   {{ content }}
 
