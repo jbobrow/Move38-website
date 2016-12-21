@@ -6,5 +6,6 @@ last-name: Bobrow
 position: Co-Founder
 email: jon@move38.com
 twitter: "@jonathanbobrow"
+image: "/uploads/Move38_Jonathan_Bobrow.jpg"
 ---
 
