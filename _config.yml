@@ -31,28 +31,28 @@ defaults:
     type: people
   values:
     layout: person
-    first-name:
-    last-name:
-    position:
-    email:
-    twitter:
-    image:
+    first-name: 
+    last-name: 
+    position: 
+    email: 
+    twitter: 
+    image: 
 name: Move38
 author:
   name: Move38
   facebook: move38
   twitter: move38inc
-  github:
+  github: 
   linkedin: move38-inc.
-  medium:
-  tumblr:
+  medium: 
+  tumblr: 
   email: info@move38.com
 google-analytics:
   id: UA-84685529-1
 disqus:
   id: move38
 url: http://www.move38.com
-baseurl:
+baseurl: 
 permalink: "/blog/:title/"
 paginate: 10
 paginate_path: "/page:num/"
