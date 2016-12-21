@@ -7,6 +7,7 @@ tags:
 - board game industry
 - screens
 - digital integration
+person: Nick Bentley
 Field name: 
 layout: post
 ---
