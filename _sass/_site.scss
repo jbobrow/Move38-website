@@ -152,17 +152,29 @@ body {
 
   &-author {
     img {
+      margin: 0px;
+      padding: 0px;
       width: 100px;
       height: 100px;
       position: relative;
+      display: inline;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
       -o-border-radius: 50%;
       border-radius: 50%;
     }
+    &-text {
+      display: inline;
+      height: 100px;
+      padding-left: 20px;
+    }
     &-name {
-      font-size: 1.4em;
+      display: block;
+      font-size: 1.2em;
+    }
+    &-twitter {
+      font-size: 1em;
     }
   }
 
