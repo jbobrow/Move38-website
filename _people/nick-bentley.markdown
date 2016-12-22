@@ -6,6 +6,7 @@ last-name: Bentley
 position: Co-Founder
 email: nick@move38.com
 twitter: "@Nick__Bentley"
+website: nickbentleygames.wordpress.com
 image: "/uploads/nick-bentley-2016-lighter.jpg"
 ---
 
