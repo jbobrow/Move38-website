@@ -1,6 +1,7 @@
 ---
 title: 'Live Free or Die: new game in development'
 date: 2016-11-14 10:00:00 -05:00
+person: Nick Bentley
 ---
 
 We've been posting about [our new table game platform](http://move38.com/blog/a-board-game-that-thinks/) for more than a month, but we've only shown off one game. That's a crime and it's time for justice.
@@ -90,5 +91,3 @@ If you'd like to follow our work and be notified when our Kickstarter launches, 
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[2\]='LNAME';ftypes\[2\]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
--[Nick Bentley](https://nickbentleygames.wordpress.com/)

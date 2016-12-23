@@ -8,7 +8,7 @@ tags:
 - screens
 - digital integration
 person: Nick Bentley
-Field name: 
+Field name:
 layout: post
 ---
 
@@ -111,5 +111,3 @@ That's a subject for another day. We'll post regularly in this space about the s
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames\[0\]='EMAIL';ftypes\[0\]='email';fnames\[1\]='FNAME';ftypes\[1\]='text';fnames\[2\]='LNAME';ftypes\[2\]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
--[Nick Bentley](https://nickbentleygames.wordpress.com/)
