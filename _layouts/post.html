@@ -25,20 +25,20 @@ layout: default
     </ul>
   </div>
 
+  {{ content }}
+
   <!-- Author by-line-->
   {% assign person = site.people | where: 'title', page.person | first %}
   {% if person %}
   <div class="post-author">
     <img src="{{ person.image }}"/>
     <div class="post-author-text">
-      <a class="post-author-name" href="mailto:{{ person.email }}">{{ person.title }}</a>
+      <a class="post-author-name" href="http://{{ person.website }}">{{ person.title }}</a>
       <a class="post-author-twitter" href="http://www.twitter.com/{{ person.twitter }}">{{ person.twitter }}</a>
+      <!-- TODO: Short description of author -->
     </div>
   </div>
   {% endif %}
-
-  {{ content }}
-
 
   <!-- Share -->
   {% if page.share != false %}
