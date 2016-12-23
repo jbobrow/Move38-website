@@ -1,10 +1,10 @@
 ---
 title: Do we have a right to play?
 date: 2016-10-03 09:30:00 -04:00
-person: Nick Bentley
 tags:
 - play
 - fear
+person: Nick Bentley
 ---
 
 ![play.jpg](/uploads/play.jpg)

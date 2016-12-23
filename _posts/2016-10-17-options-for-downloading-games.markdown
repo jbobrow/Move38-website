@@ -1,9 +1,9 @@
 ---
 title: When a table game can think for itself, how do you tell it what to do?
 date: 2016-10-17 12:00:00 -04:00
-person: Nick Bentley
 tags:
 - design
+person: Nick Bentley
 ---
 
 Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing, called AutomaTiles (for now).

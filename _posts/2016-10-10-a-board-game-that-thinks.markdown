@@ -1,10 +1,10 @@
 ---
 title: A board game that can think for itself
 date: 2016-10-10 10:00:00 -04:00
-person: Nick Bentley
 tags:
 - fracture
 - games
+person: Nick Bentley
 ---
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>

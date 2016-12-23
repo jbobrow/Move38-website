@@ -1,10 +1,10 @@
 ---
 title: We’re hiring games astronauts to help us invent new kinds of play
 date: 2016-11-07 10:00:00 -05:00
-person: Nick Bentley
 tags:
 - jobs
 - engineering
+person: Nick Bentley
 ---
 
 We're looking to hire an lead engineer / electrical engineer. If you're one, please read this!  If you're not, please also read this! We'll hire for other positions soon and we don't want you to slip through the cracks.
