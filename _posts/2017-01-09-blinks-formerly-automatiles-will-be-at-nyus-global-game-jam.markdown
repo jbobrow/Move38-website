@@ -11,19 +11,27 @@ The [Global Game Jam](http://globalgamejam.org/) (not to be confused with the Gl
 
 The [New York University Game Center](http://gamecenter.nyu.edu/) is always an active participant, and this year, Blinks will be featured!
 
-You can read more about Blinks and see them in action [here](http://move38.com/blog/a-board-game-that-thinks/) and [here](http://move38.com/blog/game-in-development-live-free-or-die/), and you can [see details about the Game Jam and register here](http://globalgamejam.org/2017/jam-sites/nyu-game-center). If you're a game person and you're anywhere near New York January 20-22, we'd love to have you there and will shower you with kisses or some other form of affection that doesn't invade your personal space so much. 
+You can read more about Blinks and see them in action [here](http://move38.com/blog/a-board-game-that-thinks/) and [here](http://move38.com/blog/game-in-development-live-free-or-die/), and you can [see details about the Game Jam and register here](http://globalgamejam.org/2017/jam-sites/nyu-game-center). If you're a game person and you're anywhere near New York January 20-22, we'd love to have you there and will shower you with kisses or some other form of affection that doesn't invade your personal space so much.
 
 **Game Jam Location**
-MAGNET, 8th Floor
-2 Metrotech Center
-8th Floor
-Brooklyn, NY 11201
-United States
+
+* MAGNET, 8th Floor
+
+* 2 Metrotech Center
+
+* 8th Floor
+
+* Brooklyn, NY 11201
+
+* United States
 
 **Hours**
-Friday 7PM-12AM
-Saturday 9AM-12AM
-Sunday 10AM-8PM
+
+* Friday 7PM-12AM
+
+* Saturday 9AM-12AM
+
+* Sunday 10AM-8PM
 
 If you'd like to follow our work and be notified when Blinks go to Kickstarter, sign up here:
 
