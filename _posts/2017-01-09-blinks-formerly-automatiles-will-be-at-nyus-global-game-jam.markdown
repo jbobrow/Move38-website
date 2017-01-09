@@ -7,7 +7,7 @@ date: 2017-01-09 08:49:00 -05:00
 
 ![GlobalGameJam.jpg](/uploads/GlobalGameJam.jpg)
 
-The [Global Game Jam](http://globalgamejam.org/) (not to be confused with the Global Gam Jam, which is a TOTALLY different thing) is a big yearly event where game makers around the world come together in various locations for a weekend of intense game design.
+The [Global Game Jam](http://globalgamejam.org/) is a big yearly event where game makers around the world come together in various locations for a weekend of intense game design.
 
 The [New York University Game Center](http://gamecenter.nyu.edu/) is always an active participant, and this year, Blinks will be featured!
 
