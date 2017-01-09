@@ -9,7 +9,7 @@ person: Nick Bentley
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/oFpwVv5tmO4" frameborder="0" allowfullscreen></iframe>
 
-The video above shows 3 people playing a prototype of our flagship project, a game platform called Automatiles (for now; it may have a different name when it ships. Thinky Blinky Bits?)
+The video above shows 3 people playing a prototype of our flagship project, a game platform called Blinks.
 
 The game pieces are little computers. They can think, remember, communicate with players and each other, and you can load new games into them. They're open source so you can invent your own games for them, and they're easy to program ([Arduino!](https://www.arduino.cc/)), so they're also a tool for kids to learn code.
 
@@ -27,7 +27,7 @@ At the start, the tiles are arranged in same-color clusters. Then:
 
 Fracture illustrates a few features of the system:
 
-1. It would be hard to play Fracture with inanimate pieces because you wouldn't be able to  see at a glance which tiles are happy. You'd have to check all of each tile's neighbors, which would be both onerous and mistake-prone. Automatiles show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
+1. It would be hard to play Fracture with inanimate pieces because you wouldn't be able to  see at a glance which tiles are happy. You'd have to check all of each tile's neighbors, which would be both onerous and mistake-prone. Blinks show you when they're happy. They do bookkeeping that would make otherwise impossible games possible.
 
 2. Because the tiles attach and self-align via magnets, the array has a pleasing organization, is easy to manipulate, and hard to knock out of place.
 

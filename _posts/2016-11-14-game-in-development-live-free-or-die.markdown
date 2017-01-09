@@ -6,7 +6,7 @@ person: Nick Bentley
 
 We've been posting about [our new table game platform](http://move38.com/blog/a-board-game-that-thinks/) for more than a month, but we've only shown off one game. That's a crime and it's time for justice.
 
-For those who don't yet know about it (nearly everyone), AutomaTiles are small hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say, they might be mistaken for a new form of life.
+For those who don't yet know about it (nearly everyone), Blinks are small hexagonal bots that emit beautiful LED light in full RGB, they communicate with players and each other through light, and they can think and remember. They can be used to implement all kinds of games that wouldn't otherwise be possible on a tabletop, and if I may say, they might be mistaken for a new form of life.
 
 ![fracture_hands_01.gif](/uploads/fracture_hands_01.gif)
 
@@ -60,7 +60,7 @@ Tamsk didn't work for a number of reasons: it was expensive, the sand-timers cou
 
 That's no knock against the designer ([Kris Burm](https://en.wikipedia.org/wiki/Kris_Burm), one of the greatest board game designers ever for my money). It's just hard to create a traditional board game with time as an intrinsic strategic variable.
 
-But for AutomaTiles it's easier, so we thought we should try to design a game like that.
+But for Blinks it's easier, so we thought we should try to design a game like that.
 
 Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like little retributive vampires (which indeed they do in this game).
 

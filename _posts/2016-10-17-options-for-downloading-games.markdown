@@ -6,7 +6,7 @@ tags:
 person: Nick Bentley
 ---
 
-Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing, called AutomaTiles (for now).
+Last week we offered [a peek](http://move38.com/blog/a-board-game-that-thinks/) at the game platform we're developing, called Blinks (for now).
 
 ![Fracture_hands_01.jpg](/uploads/Fracture_hands_01.jpg)
 

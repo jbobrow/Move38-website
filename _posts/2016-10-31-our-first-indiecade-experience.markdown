@@ -18,7 +18,7 @@ The festival started with workshops, on subjects like starting a company, grant 
 
 During the table-top games workshop, I met wonderful developers and designers. One such designer was [John Kane](https://twitter.com/gritfish), with whom I helped design a cooperative version of UNO, I'll lovingly call Deton-ocho, written Deton8.
 
-In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of AutomaTiles I look forward to others experiencing.
+In a span of 20 minutes, we deconstructed UNO and reconstructed it into our new game. We even balanced it. It was a reminder of how delightful it is to prototype tabletop games, an aspect of Blinks I look forward to others experiencing.
 
 \([Fracture](http://move38.com/blog/a-board-game-that-thinks/), the game we submitted to IndieCade, also originated out of a session like this, where the original concept from Celia Pearce and Mechanics of Mike Lazer-Walker came together)
 
