@@ -1,61 +1,45 @@
 ---
-layout: default
+layout: teaser
 ---
+<!-- Navigate to blog or about pages -->
+<div id="top-right">
+  <ul>
+    <li><a href="blog">blog</a></li>
+    <li><a href="about">about</a></li>
+  </ul>
+</div>
 
-{% include header.html %}
+<!-- Subscribe to the newsletter... -->
+<div id="sign-up">
+  <h1>Meet Blink.</h1>
+  <p>Blinks are a radically new<br>
+    smart tabletop game platform.<br>
+    <b>Be the first to know when they are available!<b>
+  </p>
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <div id="mc_embed_signup">
+  <form action="//move38.us14.list-manage.com/subscribe/post?u=7857fa104de3ffc5bbe78d94c&amp;id=ffe8404154" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
 
-<div class="list">
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <div class="list-post">
-    {% if post.link %}
-    <a href="{{ post.link }}">
-    {% else %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
-    {% endif %}  
-      <div class="list-post-date">
-        <time>{{ post.date | date_to_string }}</time>
+  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7857fa104de3ffc5bbe78d94c_ffe8404154" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Notify me!" name="subscribe" id="mc-embedded-subscribe" class="button blue"></div>
       </div>
-      <div class="list-post-title">
-        {{ post.title }}
-      </div>
-      {% if post.description %}
-      <div class="list-post-desc">
-        {{ post.description }}
-      </div>
-      {% endif %}
-    </a>
-
-
+  </form>
   </div>
-{% endfor %}
-  <!-- Pagination links -->
-  <div class="list-pagination">
-    <span class="list-pagination-previous">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">
-          <i class="fa fa-angle-left" aria-hidden="true"></i>
-          Previous
-        </a>
-      {% else %}
 
-      {% endif %}
-    </span>
+  <!--End mc_embed_signup-->
+</div>
 
-    <span class="list-pagination-next">
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">
-          Next
-          <i class="fa fa-angle-right" aria-hidden="true"></i>
-        </a>
-      {% else %}
+<!-- logos for support in botton left -->
+<div id="bottom-left">
+  <a href="https://www.media.mit.edu/"><img class="transparent" src="assets/images/medialab_white_logo.png"/></a>
+  <a href="http://www.newinc.org/"><img class="transparent" src="assets/images/newinc_white_logo.png"/></a>
+</div>
 
-      {% endif %}
-    </span>
-
-  </div>
-{% endif %}
+<!-- logos in botton right -->
+<div id="bottom-right">
+  <a href="http://www.move38.com/blog"><img class="transparent" src="assets/images/move38_white_logo.png"/></a>
 </div>

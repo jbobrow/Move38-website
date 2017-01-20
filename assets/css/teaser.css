@@ -1,0 +1,91 @@
+/*!
+ * Basic CSS for Teaser Page of Move38.com
+ */
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600';
+
+*{
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: #000;
+  background: url('http://move38.com/attic/img/Fracture_IndieCade_holding_hexagon_lo_res.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#top-right {
+  position: fixed;
+  right: 5%;
+  top: 5%;
+  font-size: 1.4em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: block;
+    width: 80px;
+    float: left;
+}
+
+a:link { color: #FFF; text-decoration: none; }
+a:visited { color: #CCC; }
+a:hover { color: #F0F; }
+a:active { color: #03F; }
+
+#sign-up {
+  min-width: 300px;
+  max-width: 600px;
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  /*background: rgba(255,255,255,0.2);*/
+  color: #FFF;
+  /*border-radius: 10px;*/
+  line-height: 1.8em;
+}
+
+#mc_embed_signup {
+  background:rgba(0,0,0,0.0);
+  clear:left;
+  font-size:14px;
+  width:100%;
+}
+
+#mc-embedded-subscribe {
+    background: #5A99FF!important;
+    font-weight: bold;
+}
+
+#mc-embedded-subscribe:hover {
+    background: #5AAAFF!important;
+}
+#bottom-left {
+  position: fixed;
+  left: 5%;
+  bottom: 5%;
+}
+
+#bottom-left img {
+  padding: 0 20px 0 0;
+}
+
+#bottom-right {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+}
+
+.transparent {
+    opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
