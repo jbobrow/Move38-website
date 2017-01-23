@@ -9,11 +9,11 @@ Blinks (formerly AutomaTiles), our smart tabletop game platform made of enchante
 
 ## Blinks were the featured technology at New York University's Global Game Jam
 
-\(Jan 21-22) A bunch of talented people got involved and cool ideas were had and pursued. Typical for an event where games are made in two days and no one sleeps, the implementations weren't polished, but the ideas were good and we we want to keep working on them (with the developers' permission, of course).
+\(Jan 21-22) A bunch of talented people got involved and cool ideas were had and pursued. Typical for an event where games are made in two days and no one sleeps, the implementations weren't polished, but the ideas were good and we want to keep working on them (with the developers' permission, of course).
 
 The winner was a cooperative game called Skiplight where players launch propagating waves of color through an array of Blinks. The goal is to make the waves meet at certain target Blinks in the array, where the colors mix and change the target to some desired color. Here's a video of the game (only sort of half-working at the time we took the video):
 
-\[gif of skiplight - gameplay\]
+![GGJ2017_SkipLight.gif](/uploads/GGJ2017_SkipLight.gif)
 
 For their effort, Skiplight's makers got the first Blinks dev kit we've ever given out to anyone. It was a thrilling moment for us and we hope it was for them.
 
@@ -21,7 +21,7 @@ For their effort, Skiplight's makers got the first Blinks dev kit we've ever giv
 
 Also, a shout out to another game I personally loved (and kicked profound ass at): Crossfire. In this game players flick their tiles into a central arena, and if your tile attaches to an enemy tile when it's in just the right state, it converts the enemy to its side. The player to convert all enemy tiles to her side wins. Here's me doing just that with, I daresay, style and panache (i'm blue):
 
-\[gif of crossfire\]
+![GGJ2017_Crossfire.gif](/uploads/GGJ2017_Crossfire.gif)
 
 ## Blinks are finalists at SXSW
 
