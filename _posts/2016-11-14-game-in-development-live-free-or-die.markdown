@@ -1,5 +1,5 @@
 ---
-title: 'Live Free or Die: new game in development'
+title: 'Mortals: new game in development'
 date: 2016-11-14 10:00:00 -05:00
 person: Nick Bentley
 ---
@@ -42,7 +42,7 @@ Here's an example from a session at [Babycastles](http://babycastles.com/) in Ne
 
 **Origin**
 
-Live Free or Die is inspired by one of the weirdest games in the history of board games: [Tamsk](https://boardgamegeek.com/boardgame/108/tamsk)
+Mortals is inspired by one of the weirdest games in the history of board games: [Tamsk](https://boardgamegeek.com/boardgame/108/tamsk)
 
 ![tamsk.jpg](/uploads/tamsk.jpg)
 
@@ -64,7 +64,7 @@ But for Blinks it's easier, so we thought we should try to design a game like th
 
 Because the tiles can communicate with one another, they can be made to do cool things with time that you could never do with a traditional board game, for example have tiles suck the life out of each other like little retributive vampires (which indeed they do in this game).
 
-Live Free or Die is still in development and will surely change before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
+Mortals is still in development and will surely change before we're done; feel free to share your opinions about how you'd like to see it develop, or other ideas for games this might inspire.
 
 If you'd like to follow our work and be notified when our Kickstarter launches, sign up here:
 
