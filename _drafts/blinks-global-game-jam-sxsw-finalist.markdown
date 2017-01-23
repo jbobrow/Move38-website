@@ -5,7 +5,7 @@ tags:
 - gloating
 ---
 
-Blinks (formerly AutomaTiles), our smart tabletop game platform made of enchanted cellular automata, have been gaining traction in the new year and we thought it prudent to gloat about it here. So this is a gloating blog. A glog. Here goes:
+Blinks (formerly AutomaTiles), our [smart tabletop game platform made of enchanted cellular automata](http://move38.com/blog/a-board-game-that-thinks/), have been gaining traction in the new year and we thought it prudent to gloat about it here. So this is a gloating blog. A glog. Here goes:
 
 ## Blinks were the featured technology at New York University's Global Game Jam
 
