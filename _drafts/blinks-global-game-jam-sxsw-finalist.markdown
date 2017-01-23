@@ -9,7 +9,7 @@ Blinks (formerly AutomaTiles), our smart tabletop game platform made of enchante
 
 ## Blinks were the featured technology at New York University's Global Game Jam
 
-\(Jan 21-22). A bunch of talented people got involved and cool ideas were had and pursued. Typical for an event where games are made in two days and no one sleeps, the implementations weren't polished, but the ideas were good enough that we want to keep working on them (with the developers' permission, of course).
+\(Jan 21-22) A bunch of talented people got involved and cool ideas were had and pursued. Typical for an event where games are made in two days and no one sleeps, the implementations weren't polished, but the ideas were good enough that we want to keep working on them (with the developers' permission, of course).
 
 The winner was a cooperative game called Skiplight where players launch propagating waves of color through an array of Blinks. The goal is to make the waves meet at certain target Blinks in the array, where the colors mix and change the target to some desired color. Here's a video of the game (only sort of half-working at the time we took the video):
 
