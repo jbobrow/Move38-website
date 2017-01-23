@@ -23,7 +23,7 @@ Also, a shout out to another game I personally loved (and kicked profound ass at
 
 ![GGJ2017_Crossfire.gif](/uploads/GGJ2017_Crossfire.gif)
 
-Finally an honorable mention to Pols and Politics, another game of converting your opponents Blinks, but in this case Pols and Politics is a strategy game about building a support network for your Senatorial candidate while siphoning support from your opponent (unfortuntely, no gif for that one)
+Finally an honorable mention to Pols and Politics, another game of converting opponent Blinks, but in this case Pols and Politics is a strategy game where you're building a support network for a Senatorial candidate while siphoning support from your opponent (unfortunately, no gif for that one)
 
 ## Blinks are finalists at SXSW
 
