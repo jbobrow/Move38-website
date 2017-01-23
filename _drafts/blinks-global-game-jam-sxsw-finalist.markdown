@@ -17,10 +17,12 @@ For their effort, Skiplight's makers got the first Blinks dev kit we've ever giv
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/XDq2bymAuiI" frameborder="0" allowfullscreen></iframe>
 
-Also, a shout out to another game I personally loved (and kicked profound ass at): Crossfire. In this game players flick their tiles into a central arena, and if your tile attaches to an enemy tile when it's in just the right state, it converts the enemy to its side. The player to convert all enemy tiles to her side wins. Here's me doing just that with, I daresay, great style and panache (i'm blue):
+Also, a shout out to another game I personally loved (and kicked profound ass at): Crossfire. In this game players flick their tiles into a central arena, and if your tile attaches to an enemy tile when it's in just the right state, it converts the enemy to its side. The player to convert all enemy tiles to her side wins. Here's me doing just that with, I daresay, style and panache (i'm blue):
 
 \[gif of crossfire\]
 
 ## Blinks are finalists at SXSW
 
-Even though Blinks are still prototypey, they've nonetheless been chosen as finalists in the "student" category  at this year's upcoming SXSW Festival. Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for the student category, and it paid off. Which means we'll be in 
+![sxsw.png](/uploads/sxsw.png)
+
+Even though Blinks are still prototypey, they've nonetheless been chosen as [finalists in the "student" category  at this year's upcoming SXSW Festival](https://www.sxsw.com/interactive/2017/interactive-innovation-awards-65-finalists/). Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for the student category, and it paid off. Which means we'll be in Austin, Texas March 10-19. If you'll be there, let us know. We like to keep our enemies close and our friends closer.
