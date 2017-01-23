@@ -13,9 +13,9 @@ The winner was a cooperative game called Skiplight where players launch propagat
 
 \[gif of skiplight - gameplay\]
 
-For their effort, Skiplight's makers got the first Blinks dev kit we've ever given out to anyone. That was a thrilling moment for us and we hope it was for them.
+For their effort, Skiplight's makers got the first Blinks dev kit we've ever given out to anyone. It was a thrilling moment for us and we hope it was for them.
 
-https://youtu.be/XDq2bymAuiI
+<iframe width="720" height="405" src="https://www.youtube.com/embed/XDq2bymAuiI" frameborder="0" allowfullscreen></iframe>
 
 Also, a shout out to another game I personally loved (and kicked profound ass at): Crossfire. In this game players flick their tiles into a central arena, and if your tile attaches to an enemy tile when it's in just the right state, it converts the enemy to its side. The player to convert all enemy tiles to her side wins. Here's me doing just that with, I daresay, great style and panache (i'm blue):
 
@@ -23,4 +23,4 @@ Also, a shout out to another game I personally loved (and kicked profound ass at
 
 ## Blinks are finalists at SXSW
 
-Even though Blinks are still pretty, pretty prototypey, they have nonetheless been chosen as finalists in the "student" category  at this year's upcoming SXSW Festival. Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for this category
+Even though Blinks are still prototypey, they've nonetheless been chosen as finalists in the "student" category  at this year's upcoming SXSW Festival. Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for the student category, and it paid off. Which means we'll be in 
