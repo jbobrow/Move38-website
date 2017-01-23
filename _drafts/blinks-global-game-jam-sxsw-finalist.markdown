@@ -27,7 +27,7 @@ Also, a shout out to another game I personally loved (and kicked profound ass at
 
 ![sxsw.png](/uploads/sxsw.png)
 
-Even though Blinks are still prototypey, they've nonetheless been chosen as [finalists in the "student" category  at this year's upcoming SXSW Festival](https://www.sxsw.com/interactive/2017/interactive-innovation-awards-65-finalists/). Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for the student category, and it paid off. Which means we'll be in Austin, Texas March 10-19. If you'll be there, let us know. We can hang out. We like to keep our enemies close and our friends closer.
+Despite their continued prototypey-ness, Blinks have nonetheless been chosen as [finalists in the "student" category  at this year's upcoming SXSW Festival](https://www.sxsw.com/interactive/2017/interactive-innovation-awards-65-finalists/). Our fearless leader Jonathan decided to exploit his last remaining year of eligibility for the student category, and it paid off. Which means we'll be in Austin, Texas March 10-19. If you'll be there, let us know. We can hang out. We like to keep our enemies close and our friends closer.
 
 If you'd like to follow our work and be notified when Blinks go to Kickstarter, sign up here:
 
