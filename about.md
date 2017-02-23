@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: about
 ---
 
-## **Table games made smart. Smart games made social.**
+## **Table games made smart–smart games made social.**
 
 Move38 seeks to delight hands, challenge minds, and inspire curiosity. We believe we learn best when at play, and that our play shapes who we are.
 
