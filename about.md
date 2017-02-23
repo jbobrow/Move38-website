@@ -14,7 +14,7 @@ Also, we were founded by these two yokels:
 
 ![nick-and-jon.jpg](/uploads/nick-and-jon.jpg)
 
-### Backstory
+## Backstory
 
 One of the simplest games to learn, and difficult to master is over a thousand years old. Go, consisting of a 19x19 grid board, has so many possible moves at any given moment, that it was thought impossible for a computer to play at the same level as a human. Only recently, the worlds best Go player, Lee Sodol, faced-off against Alpha Go, an AI built by Google engineers. 
 
