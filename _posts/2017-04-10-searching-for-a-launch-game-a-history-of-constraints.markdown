@@ -13,6 +13,7 @@ They have embedded LEDs that can exhibit any time-varying pattern of illuminatio
 
 The LEDs are controlled by by programmable boards
 Blinks align via magnets and communicate and respond to one another via infrared light
+
 Players can interact with Blinks by moving them around and tapping on their tops to change their states. 
 
 I like to think of them as enchanted cellular automata. They constitute a platform because they can be used to play many games. 
@@ -23,7 +24,7 @@ To help people make sense of it, a platform (especially a weird one without much
 
 As the main game design person at the company, it’s my job to build that game. 
 
-There are a lot of ways I’m going about it, and today I’m going to talk about the history of my search through the lense of a technique I’ve been using in that search: the iterating constraint list. 
+There are a lot of ways I’m going about it, and today I’m going to talk about the history of my search through the lens of a technique I’ve been using in that search: the iterating constraint list. 
 
 It’s really simple and applicable to any kind of design project, and it seems like something everyone should be using. There’s no shortage of people who are familiar with it, but I don’t see it put into use as much as I think it should, in particular for game design, so I’m writing about it.  
 
