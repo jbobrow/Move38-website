@@ -26,11 +26,11 @@ As the main game design person at the company, it’s my job to build that game.
 
 There are a lot of ways I’m going about it, and today I’m going to talk about the history of my search through the lens of a technique I’ve been using in that search: the iterating constraint list. 
 
-It’s really simple and applicable to any kind of design project, and it seems like something everyone should be using. There’s no shortage of people who are familiar with it, but I don’t see it put into use as much as I think it should, in particular for game design, so I’m writing about it.  
+It’s simple and applicable to any kind of design project, and it seems like something everyone should be using. There’s no shortage of people who are familiar with it, but I don’t see it put into use as much as I think it should, in particular for game design, so I’m writing about it.  
 
 An iterating constraint list is what it sounds like: a list of design constraints that a project (in my case, the Blinks launch game) must satisfy. However, it’s not something you just write down and reference. The key to making it work is to rewrite it constantly as your understanding of the problem matures. 
 
-Moreover, to use the list, you don’t try to actually design the game that satisfies all the constraints at once. Rather, you use individual constraints or subsets of them as jumping off points and inspiration for game design. Such lists are better thought of as a set of prompts than as ironclad law. 
+Moreover, to use the list, you don’t try to actually design the game that satisfies all the constraints at once. Rather, you use individual constraints or subsets of them as jumping off points and inspiration for game design. Such lists are better thought of as a set of prompts than as ironclad law, at least at first. 
 
 So here’s a subset of my lists. 
 
