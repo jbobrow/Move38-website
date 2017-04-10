@@ -18,7 +18,7 @@ Players can interact with Blinks by moving them around and tapping on their tops
 
 I like to think of them as enchanted cellular automata. They constitute a platform because they can be used to play many games. 
 
-However, we can’t just sell it that way and call it a day. We can’t just say “Here’s a platform and a bunch of games. Go to town”. 
+However, we can’t just sell it that way and call it a day. We can’t just say “Here’s a platform and a bunch of games. Go to town”. [maybe link to difficulty of abstract game publishing article]
 
 To help people make sense of it, a platform (especially a weird one without much precedent), needs a signature launch game that fully exploits and illustrates what the system does and what makes it unique. The platform doesn’t sell the platform, the launch title sells the platform. 
 
