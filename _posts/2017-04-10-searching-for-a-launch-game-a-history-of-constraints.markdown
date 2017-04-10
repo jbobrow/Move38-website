@@ -10,6 +10,7 @@ They’re called Blinks (for now), and they look like this:
 [img] 
 
 They have embedded LEDs that can exhibit any time-varying pattern of illumination you care to imagine.
+
 The LEDs are controlled by by programmable boards
 Blinks align via magnets and communicate and respond to one another via infrared light
 Players can interact with Blinks by moving them around and tapping on their tops to change their states. 
