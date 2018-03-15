@@ -12,9 +12,9 @@ Move38 seeks to delight hands, challenge minds, and inspire curiosity. We believ
 
 We're creating a new kind of tabletop game, with components that think for themselves, talk to each other, and come alive under your fingertips. Being digital doesn't mean we have to sacrifice the social aspect of gameplay, bringing the best of digital to hands-on, face-to-face experiences.
 
-Also, we were founded by these two yokels:
+Also, we were founded by MIT Media Lab alum, [Jonathan Bobrow](http://jonbobrow.com)
 
-![nick-and-jon.jpg](/uploads/nick-and-jon.jpg)
+![05_Troxes_maker_profile_w.jpg](/uploads/05_Troxes_maker_profile_w.jpg)
 
 ## Backstory
 
